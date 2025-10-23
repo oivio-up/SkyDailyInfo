@@ -21,7 +21,7 @@
 <!-- DAILY_TASK_START -->
 ## 📅 2025年10月23日 每日任务
 
-> 最后更新: 2025年10月23日 17:57:22 (北京时间)
+> 最后更新: 2025年10月23日 18:07:10 (北京时间)
 
 ### 🎯 今日旅行指南
 
@@ -35,7 +35,11 @@
 
 ### 🌤️ 天气预报
 
-#cffb6f9天气播报：
+天气播报：今日无碎片降落
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20240429/154572ba48115878409a93239e5028e54f392adb.gif)
 
 
 ### 📅 本月日历
@@ -74,14 +78,6 @@
 
 ![滑冰场冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20211220/59569f6f61bcf23f75fd516bd5e3987e1ca61c1b.png)
 ![滑冰场冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211220/1f0607d750572193d54db00484506958672b3078.png)
-
----
-
-
-#### 📍 专属客服7×8小时在线
-
-https://h5.ds.163.com/v1/68c4003a8788b9003a8f7bed/?cv=sprite&cipher=SE2Cbzz27WsTBlNAzgrqWJm9M-M2QpEy_HTAHf-v8oJ6zHUw0ISae5Oz-9csKy_TptNpAV7RMTqMfg8M2zDXiJAMGkiF06zbCmr-56Cpbg7htWoKIR6LKtdQpXs4yc10sAw9vKjUp1d5jrDiCz46Yg
-
 
 ---
 
