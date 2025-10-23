@@ -336,12 +336,21 @@ async function getWeatherForecast(token) {
       // 从 HTML 响应中提取图片和文字
       const htmlText = data.data.answer
       
-      // 提取图片URL
+      // 提取图片URL (过滤广告图片)
       const imgRegex = /<img\s+src="([^"]+)"/g
       const images = []
+      const imageBlacklist = [
+        '154572ba48115878409a93239e5028e54f392adb.gif', // 点赞表情包
+      ]
+      
       let match
       while ((match = imgRegex.exec(htmlText)) !== null) {
-        images.push(match[1])
+        const imgUrl = match[1]
+        // 检查是否包含黑名单中的图片
+        const isBlacklisted = imageBlacklist.some(blocked => imgUrl.includes(blocked))
+        if (!isBlacklisted) {
+          images.push(imgUrl)
+        }
       }
       
       // 提取文字内容
@@ -411,12 +420,21 @@ async function queryKnowledge(token, question, method = "link") {
     const data = await response.json()
     
     if (data.code === 200 && data.data && data.data.answer) {
-      // 提取所有图片URL
+      // 提取所有图片URL (过滤广告图片)
       const imgRegex = /<img\s+src="([^"]+)"/g
       const images = []
+      const imageBlacklist = [
+        '154572ba48115878409a93239e5028e54f392adb.gif', // 点赞表情包
+      ]
+      
       let match
       while ((match = imgRegex.exec(data.data.answer)) !== null) {
-        images.push(match[1])
+        const imgUrl = match[1]
+        // 检查是否包含黑名单中的图片
+        const isBlacklisted = imageBlacklist.some(blocked => imgUrl.includes(blocked))
+        if (!isBlacklisted) {
+          images.push(imgUrl)
+        }
       }
       
       // 提取文字内容
