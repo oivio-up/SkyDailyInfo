@@ -336,12 +336,14 @@ async function getWeatherForecast(token) {
       // 从 HTML 响应中提取纯文本
       const htmlText = data.data.answer
       
-      // 移除 HTML 标签
+      // 移除 HTML 标签和游戏内控制字符
       const textOnly = htmlText
         .replace(/<img[^>]*>/g, '') // 移除图片标签
         .replace(/<[^>]+>/g, '') // 移除所有 HTML 标签
         .replace(/&nbsp;/g, ' ') // 替换 &nbsp;
-        .replace(/#[rn]/g, '\n') // 替换控制字符
+        .replace(/#r/g, '\n') // 替换换行控制字符
+        .replace(/#n/g, '') // 移除 #n
+        .replace(/#c[0-9a-fA-F]{6}/g, '') // 移除颜色代码 (如 #cffb6f9)
         .trim()
       
       // 提取 "天气播报：..." 这一行
@@ -459,9 +461,26 @@ async function getTaskDetails(token, taskData) {
   const keywords = []
   let match
   
+  // 需要过滤的关键词（广告和无用内容）
+  const blacklist = [
+    '专属客服',
+    '客服',
+    '在线',
+    '7×8',
+    '光遇小生',
+    '表情包',
+    '精灵表情包'
+  ]
+  
   while ((match = linkRegex.exec(taskData.answer)) !== null) {
     const keyword = decodeURIComponent(match[1])
-    keywords.push(keyword)
+    
+    // 检查是否包含黑名单关键词
+    const isBlacklisted = blacklist.some(blocked => keyword.includes(blocked))
+    
+    if (!isBlacklisted) {
+      keywords.push(keyword)
+    }
   }
   
   // 查询每个关键词的详情
