@@ -74,7 +74,86 @@ def format_events(events):
     
     return '\n'.join(result)
 
-def update_readme(task_data, events_data):
+def format_weather(weather_data):
+    """格式化天气预报"""
+    if not weather_data:
+        return None
+
+    # 支持不同来源的字段名: 优先使用 'text' 或 'answer' 或 'rawAnswer'
+    raw = None
+    if isinstance(weather_data, dict):
+        raw = weather_data.get('text') or weather_data.get('answer') or weather_data.get('rawAnswer')
+    else:
+        raw = str(weather_data)
+
+    if not raw:
+        return None
+
+    # 清理 HTML 标签和特殊控制序列 (#r, #n 等)
+    # 去掉 HTML
+    clean = re.sub(r'<[^>]+>', '', raw)
+    # 替换控制序列为换行
+    clean = clean.replace('#r', '\n').replace('#n', '\n')
+    # 去掉多余空白
+    clean = re.sub(r'\s+', ' ', clean).strip()
+
+    # 提取以“天气播报：”开头的短句，截断在常见分隔词处（如 如果, ===, 请）
+    m = re.search(r'天气播报：\s*([^\n\r]+)', clean)
+    if m:
+        text = m.group(0)  # 包含“天气播报：”
+        # 在可能的推广或额外提示前截断
+        text = re.split(r'如果|===|请给|请帮|如上|点赞|感谢', text)[0].strip()
+        return text
+
+    # 回退策略：寻找第一句包含“天气”或“播报”的短句
+    m2 = re.search(r'([^。\n\r]{0,100}(天气|播报)[^。\n\r]{0,100})', clean)
+    if m2:
+        return m2.group(1).strip()
+
+    # 最后回退，截取前120字符作为展示
+    return clean[:120].strip()
+
+def format_task_details(details_list):
+    """格式化任务详情（先祖位置等）"""
+    if not details_list:
+        return ""
+    
+    result = []
+    for detail in details_list:
+        keyword = detail.get('keyword', '')
+        title = detail.get('title', keyword)
+        
+        result.append(f"\n#### 📍 {title}")
+        
+        # 添加文字内容
+        text = detail.get('text', '')
+        if text:
+            result.append(f"\n{text}\n")
+        
+        # 添加图片
+        images = detail.get('images', [])
+        if images:
+            result.append("")  # 空行
+            for i, img_url in enumerate(images):
+                result.append(f"![{keyword}-{i+1}]({img_url})")
+        
+        result.append("\n---\n")  # 分隔线
+    
+    return '\n'.join(result)
+
+def format_calendar(calendar_data):
+    """格式化日历图片"""
+    if not calendar_data:
+        return ""
+    
+    images = calendar_data.get('images', [])
+    if not images:
+        return ""
+    
+    # 显示第一张日历图片
+    return f"![光遇日历]({images[0]})"
+
+def update_readme(task_data, events_data, weather_data, task_details=None, calendar_data=None):
     """更新 README.md 文件"""
     readme_path = 'README.md'
     
@@ -98,7 +177,44 @@ def update_readme(task_data, events_data):
     # 格式化活动
     events = format_events(events_data)
     
-    # 生成新内容
+    # 格式化天气
+    weather = format_weather(weather_data)
+    
+    # 格式化任务详情
+    details = format_task_details(task_details) if task_details else ""
+    
+    # 格式化日历
+    calendar = format_calendar(calendar_data) if calendar_data else ""
+    
+    # 生成天气部分
+    weather_section = ""
+    if weather:
+        weather_section = f"""
+### 🌤️ 天气预报
+
+{weather}
+
+"""
+    
+    # 生成日历部分
+    calendar_section = ""
+    if calendar:
+        calendar_section = f"""
+### 📅 本月日历
+
+{calendar}
+
+"""
+    
+    # 生成任务详情部分
+    details_section = ""
+    if details:
+        details_section = f"""
+### 📖 任务详细攻略
+
+{details}
+"""
+    
     new_section = f"""## 📅 {date_str} 每日任务
 
 > 最后更新: {date_str} {time_str} (北京时间)
@@ -108,7 +224,7 @@ def update_readme(task_data, events_data):
 ```
 {tasks}
 ```
-
+{weather_section}{calendar_section}{details_section}
 ### 🎪 今日活动
 
 {events}
@@ -142,6 +258,10 @@ def update_readme(task_data, events_data):
         f.write(new_content)
     
     print(f"✅ README.md 已更新 ({date_str} {time_str})")
+    if task_details:
+        print(f"   📍 包含 {len(task_details)} 个任务详情")
+    if calendar_data:
+        print(f"   📅 包含本月日历")
 
 def main():
     print("🌤 开始更新光遇每日任务...")
@@ -151,7 +271,13 @@ def main():
     print("✅ 成功获取数据")
     
     # 更新 README
-    update_readme(data['task'], data['events'])
+    update_readme(
+        data['task'], 
+        data['events'], 
+        data.get('weather'),
+        data.get('taskDetails'),
+        data.get('calendar')
+    )
     print("✅ 完成!")
 
 if __name__ == '__main__':

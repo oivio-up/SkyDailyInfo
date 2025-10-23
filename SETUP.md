@@ -58,6 +58,7 @@
 | `NETEASE_TOKEN_API` | 获取 token 的 API |
 | `NETEASE_TASK_API` | 获取每日任务的 API |
 | `NETEASE_EVENT_API` | 获取活动数据的 API | 
+| `NETEASE_WEATHER_API` | 获取天气预报的 API (可选) |
 | `NETEASE_TASK_ORIGIN` | 任务 API Origin 头 |
 | `NETEASE_TASK_REFERER` | 任务 API Referer 头 | 
 | `NETEASE_USER_AGENT` | User-Agent 请求头 | 

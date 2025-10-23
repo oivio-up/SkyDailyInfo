@@ -18,6 +18,7 @@
  * - NETEASE_TOKEN_API: 获取 token 的 API 地址
  * - NETEASE_TASK_API: 获取每日任务的 API 地址
  * - NETEASE_EVENT_API: 获取活动数据的 API 地址
+ * - NETEASE_WEATHER_API: 获取天气预报的 API 地址
  * - NETEASE_TASK_ORIGIN: 任务 API 的 Origin 请求头
  * - NETEASE_TASK_REFERER: 任务 API 的 Referer 请求头
  * - NETEASE_USER_AGENT: User-Agent 请求头
@@ -94,20 +95,32 @@ async function handleRequest(request) {
       return jsonResponse({ error: '获取每日任务失败' }, 500)
     }
 
-    // 4. 获取今日活动
+    // 4. 获取任务详情（先祖位置等）
+    const taskDetails = await getTaskDetails(token, taskData)
+
+    // 5. 获取今日活动
     const eventData = await getTodayEvents()
 
-    // 5. 组合数据
+    // 6. 获取天气预报
+    const weatherData = await getWeatherForecast(token)
+
+    // 7. 获取日历图片
+    const calendarData = await getCalendarImage(token)
+
+    // 8. 组合数据
     const responseData = {
       success: true,
       timestamp: new Date().toISOString(),
       data: {
         task: taskData,
-        events: eventData
+        taskDetails: taskDetails,
+        events: eventData,
+        weather: weatherData,
+        calendar: calendarData
       }
     }
 
-    // 6. 存储到缓存
+    // 9. 存储到缓存
     const cacheTTL = parseInt(CACHE_TTL) // 缓存时长（秒）
     const responseToCache = new Response(JSON.stringify(responseData), {
       headers: {
@@ -121,7 +134,7 @@ async function handleRequest(request) {
     await cache.put(cacheUrl.toString(), responseToCache.clone())
     console.log(`💾 数据已缓存，TTL: ${cacheTTL}秒`)
 
-    // 7. 返回数据
+    // 8. 返回数据
     return jsonResponse({
       ...responseData,
       cached: false
@@ -280,6 +293,190 @@ async function getTodayEvents() {
     console.error('获取活动数据失败:', error)
     return []
   }
+}
+
+/**
+ * 获取天气预报
+ * 复用 NETEASE_TASK_API,只改变 question 参数
+ */
+async function getWeatherForecast(token) {
+  // 复用任务 API 的配置
+  if (!NETEASE_TASK_API || !NETEASE_TASK_ORIGIN || !NETEASE_TASK_REFERER) {
+    throw new Error('缺少必需的 API 配置环境变量')
+  }
+  
+  const payload = {
+    ismanual: 0,
+    loginFrom: "sprite",
+    method: "hotNews",
+    question: "天气预报"
+  }
+
+  try {
+    const response = await fetch(NETEASE_TASK_API, {
+      method: 'POST',
+      headers: {
+        'accept': 'application/json, text/plain, */*',
+        'content-type': 'application/json',
+        'origin': NETEASE_TASK_ORIGIN,
+        'referer': NETEASE_TASK_REFERER,
+        'token-type': 'gmsdk',
+        'token': token
+      },
+      body: JSON.stringify(payload)
+    })
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`)
+    }
+
+    const data = await response.json()
+    
+    if (data.code === 200 && data.data && data.data.answer) {
+      // 从 HTML 响应中提取纯文本
+      const htmlText = data.data.answer
+      
+      // 移除 HTML 标签
+      const textOnly = htmlText
+        .replace(/<img[^>]*>/g, '') // 移除图片标签
+        .replace(/<[^>]+>/g, '') // 移除所有 HTML 标签
+        .replace(/&nbsp;/g, ' ') // 替换 &nbsp;
+        .replace(/#[rn]/g, '\n') // 替换控制字符
+        .trim()
+      
+      // 提取 "天气播报：..." 这一行
+      const lines = textOnly.split('\n').filter(line => line.trim())
+      const weatherLine = lines.find(line => line.includes('天气播报'))
+      
+      if (weatherLine) {
+        return weatherLine.trim()
+      }
+      
+      return null
+    }
+    
+    return null
+  } catch (error) {
+    console.error('获取天气预报失败:', error)
+    return null
+  }
+}
+
+/**
+ * 通用查询函数 - 查询任意问题
+ */
+async function queryKnowledge(token, question, method = "link") {
+  if (!NETEASE_TASK_API || !NETEASE_TASK_ORIGIN || !NETEASE_TASK_REFERER) {
+    throw new Error('缺少必需的 API 配置环境变量')
+  }
+  
+  const payload = {
+    ismanual: 0,
+    loginFrom: "sprite",
+    method: method,
+    question: question
+  }
+
+  try {
+    const response = await fetch(NETEASE_TASK_API, {
+      method: 'POST',
+      headers: {
+        'accept': 'application/json, text/plain, */*',
+        'content-type': 'application/json',
+        'origin': NETEASE_TASK_ORIGIN,
+        'referer': NETEASE_TASK_REFERER,
+        'token-type': 'gmsdk',
+        'token': token
+      },
+      body: JSON.stringify(payload)
+    })
+
+    if (!response.ok) {
+      return null
+    }
+
+    const data = await response.json()
+    
+    if (data.code === 200 && data.data && data.data.answer) {
+      // 提取所有图片URL
+      const imgRegex = /<img\s+src="([^"]+)"/g
+      const images = []
+      let match
+      while ((match = imgRegex.exec(data.data.answer)) !== null) {
+        images.push(match[1])
+      }
+      
+      // 提取文字内容
+      let textContent = data.data.answer
+        .replace(/<[^>]*>/g, '')
+        .replace(/#r/g, '\n')
+        .replace(/#c[0-9a-fA-F]{6}/g, '')
+        .replace(/#n/g, '')
+        .trim()
+      
+      // 清理多余的空行和提示文字
+      const lines = textContent.split('\n').filter(line => {
+        line = line.trim()
+        return line && 
+               !line.includes('===') && 
+               !line.includes('点个赞') &&
+               !line.includes('看不了图片') &&
+               !line.includes('温馨提示')
+      })
+      
+      return {
+        title: data.data.knowledge?.title || question,
+        text: lines.join('\n'),
+        images: images,
+        rawAnswer: data.data.answer
+      }
+    }
+    
+    return null
+  } catch (error) {
+    console.error(`查询 ${question} 失败:`, error)
+    return null
+  }
+}
+
+/**
+ * 获取日历图片
+ */
+async function getCalendarImage(token) {
+  return await queryKnowledge(token, "日历", "link")
+}
+
+/**
+ * 获取任务详情 - 解析任务中的关键词链接
+ */
+async function getTaskDetails(token, taskData) {
+  if (!taskData || !taskData.answer) {
+    return []
+  }
+  
+  // 提取所有 <a> 标签中的 question
+  const linkRegex = /<a\s+href="[^"]*q=([^"&]+)"[^>]*data-ask="true"/g
+  const keywords = []
+  let match
+  
+  while ((match = linkRegex.exec(taskData.answer)) !== null) {
+    const keyword = decodeURIComponent(match[1])
+    keywords.push(keyword)
+  }
+  
+  // 查询每个关键词的详情
+  const details = []
+  for (const keyword of keywords) {
+    const result = await queryKnowledge(token, keyword, "link")
+    if (result) {
+      details.push({
+        keyword: keyword,
+        ...result
+      })
+    }
+  }
+  
+  return details
 }
 
 /**
