@@ -1,0 +1,42 @@
+name: 更新光遇每日任务
+
+on:
+  schedule:
+    # 每天北京时间 8:00 执行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: 安装依赖
+        run: |
+          pip install requests
+
+      - name: 获取每日数据
+        id: fetch_data
+        env:
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          API_SECRET: ${{ secrets.API_SECRET }}
+        run: |
+          python update_readme.py
+
+      - name: 提交更改
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🌤 更新光遇每日任务 - $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+          git push
