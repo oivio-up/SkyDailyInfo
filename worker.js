@@ -333,10 +333,18 @@ async function getWeatherForecast(token) {
     const data = await response.json()
     
     if (data.code === 200 && data.data && data.data.answer) {
-      // 从 HTML 响应中提取纯文本
+      // 从 HTML 响应中提取图片和文字
       const htmlText = data.data.answer
       
-      // 移除 HTML 标签和游戏内控制字符
+      // 提取图片URL
+      const imgRegex = /<img\s+src="([^"]+)"/g
+      const images = []
+      let match
+      while ((match = imgRegex.exec(htmlText)) !== null) {
+        images.push(match[1])
+      }
+      
+      // 提取文字内容
       const textOnly = htmlText
         .replace(/<img[^>]*>/g, '') // 移除图片标签
         .replace(/<[^>]+>/g, '') // 移除所有 HTML 标签
@@ -351,7 +359,10 @@ async function getWeatherForecast(token) {
       const weatherLine = lines.find(line => line.includes('天气播报'))
       
       if (weatherLine) {
-        return weatherLine.trim()
+        return {
+          text: weatherLine.trim(),
+          images: images
+        }
       }
       
       return null

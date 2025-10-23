@@ -75,19 +75,18 @@ def format_events(events):
     return '\n'.join(result)
 
 def format_weather(weather_data):
-    """格式化天气预报"""
+    """格式化天气预报 - 包含文字和图片"""
     if not weather_data:
-        return None
-
-    # 支持不同来源的字段名: 优先使用 'text' 或 'answer' 或 'rawAnswer'
-    raw = None
+        return None, None
+    
+    # 处理字典格式(包含 text 和 images)
     if isinstance(weather_data, dict):
-        raw = weather_data.get('text') or weather_data.get('answer') or weather_data.get('rawAnswer')
-    else:
-        raw = str(weather_data)
-
-    if not raw:
-        return None
+        text = weather_data.get('text', '')
+        images = weather_data.get('images', [])
+        return text, images
+    
+    # 兼容旧的纯文本格式
+    return str(weather_data), []
 
     # 清理 HTML 标签和特殊控制序列 (#r, #n 等)
     # 去掉 HTML
@@ -177,8 +176,8 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     # 格式化活动
     events = format_events(events_data)
     
-    # 格式化天气
-    weather = format_weather(weather_data)
+    # 格式化天气 (返回文字和图片)
+    weather_text, weather_images = format_weather(weather_data)
     
     # 格式化任务详情
     details = format_task_details(task_details) if task_details else ""
@@ -188,13 +187,17 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     
     # 生成天气部分
     weather_section = ""
-    if weather:
+    if weather_text:
         weather_section = f"""
 ### 🌤️ 天气预报
 
-{weather}
+{weather_text}
 
 """
+        # 添加天气图片
+        if weather_images:
+            for img_url in weather_images:
+                weather_section += f"![天气预报]({img_url})\n\n"
     
     # 生成日历部分
     calendar_section = ""
