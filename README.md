@@ -6,7 +6,7 @@
 
 ## 💡 项目说明
 
-本项目通过 **Cloudflare Worker** 中转网易 API 请求，使用 **GitHub Actions** 每日自动更新，将光遇的每日任务和活动信息展示在 README 中。
+本项目通过 **Cloudflare Worker** 中转 API 请求，使用 **GitHub Actions** 每日自动更新，将光遇的每日任务和活动信息展示在 README 中。
 
 ### 特性
 
