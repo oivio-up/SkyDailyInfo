@@ -274,9 +274,15 @@ async function getTodayEvents() {
       const todayTimes = schedules
         .filter(s => s.time.startsWith(todayDate))
         .map(s => {
-          const time = new Date(s.time)
-          return time.toTimeString().slice(0, 5) // HH:MM
+          // 直接从 ISO 字符串中提取时间部分
+          // 格式: 2025-10-25T08:00:00.000+08:00
+          const match = s.time.match(/T(\d{2}):(\d{2})/)
+          if (match) {
+            return `${match[1]}:${match[2]}` // HH:MM
+          }
+          return ''
         })
+        .filter(t => t) // 过滤空字符串
       
       if (todayTimes.length > 0) {
         todayEvents.push({
