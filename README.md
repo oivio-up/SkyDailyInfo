@@ -19,33 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年01月16日 每日任务
+## 📅 2026年01月17日 每日任务
 
-> 最后更新: 2026年01月16日 09:41:33 (北京时间)
+> 最后更新: 2026年01月17日 09:28:09 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在霞光城拱门上冥想
-2. 点亮一位玩家
-3. 净化10株黑暗植物
-4. 帮助忙碌舞台管理员
+1. 面对冥龙
+2. 接受一位朋友的礼物
+3. 收集30点烛光
+4. 在暮土重温先祖的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在黑水港湾
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/1460da0ae70d5f4c56ba23c0b51510eb271320e1.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/e7df53cc9e6cee939bffe4bc4fc92e702f61b38e.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/26adc6bbf8f6db1fb6231d67796173db0d15f92c.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
 
 
 ### 📅 本月日历
@@ -56,39 +48,15 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在霞光城拱门上冥想
+#### 📍 暮土-惊恐先祖
 
-【每日任务－在霞光城拱门上冥想】
-任务：在霞光城拱门上冥想
-位置：霞光城－城门上
-步骤：通过霞谷溜冰场左侧的入口进入霞光城，在霞光城门口上面
-https://ok.166.net/gameyw-gbox/bot/205/20241023/971aab811c5c15a1b7019745d2cf30c69bb353ee.mp4
- 大神推荐：迁徙季任务六攻略！https://ds.163.com/feed/6926e7c161fac33bbef2250e/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.44sowc&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在霞光城拱门上冥想
+【暮土·惊恐动作先祖】
+先祖位置：穿过暮土风暴，降落后前往大门方向，先祖在大门前的断桥处静静等待~
+兑换图鉴：
 
 
-![在霞光城拱门上冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/8328fe1f13023335f06db270abe18c745f647a68.jpg)
-![在霞光城拱门上冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211116/ebfaeee8b1ab2e647ec910cf45fda3d812f31126.png)
-
----
-
-
-#### 📍 帮助忙碌舞台管理员
-
-【每日任务－帮助忙碌舞台管理员】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在圆梦村剧场找到忙碌舞台管理员　｜　忙碌舞台管理员在圆梦村剧场需要你的帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在圆梦村剧场找到忙碌舞台管理员；
-2、若旅人之前已收集过该先祖，任务会显示为：忙碌舞台管理员在圆梦村剧场，需要你的帮助
-
-
----
-
-
-#### 📍 季节蜡烛探索指南
-
-https://h5.ds.163.com/v1/68fa084315a3ea003886b15c/?utm_content=f_ma75.jl.jlsy.default.3fohqi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be
-
+![惊恐难民-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/43dd8da6f2ed4e66d71352aeb3a96be2fbebede9.png)
+![惊恐难民-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3de0f6cddb18ce5d94a07365f9435b706f40d04.png)
 
 ---
 
