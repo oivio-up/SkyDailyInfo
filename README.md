@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年03月17日 每日任务
+## 📅 2026年03月18日 每日任务
 
-> 最后更新: 2026年03月17日 08:27:26 (北京时间)
+> 最后更新: 2026年03月18日 08:29:09 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在霞光城拱门上冥想
-2. 向一位朋友做个动作
-3. 收集30点烛光
-4. 在霞谷重温先祖的美好回忆
+1. 面对冥龙
+2. 给一位朋友送礼
+3. 在水母上恢复能量
+4. 在暮土重温先祖的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有冷却碎片坠落在仙乡
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220920/52ce0359c9702ce3b71c600a4528691f3462658a.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg)
 
 
 ### 📅 本月日历
@@ -48,32 +52,15 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在霞光城拱门上冥想
+#### 📍 暮土-惊恐先祖
 
-【每日任务－在霞光城拱门上冥想】
-任务：在霞光城拱门上冥想
-位置：霞光城－城门上
-步骤：通过霞谷溜冰场左侧的入口进入霞光城，在霞光城门口上面
-https://ok.166.net/gameyw-gbox/bot/205/20241023/971aab811c5c15a1b7019745d2cf30c69bb353ee.mp4
- 大神推荐：迁徙季任务六攻略！https://ds.163.com/feed/6926e7c161fac33bbef2250e/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.44sowc&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在霞光城拱门上冥想
-
-
-![在霞光城拱门上冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/8328fe1f13023335f06db270abe18c745f647a68.jpg)
-![在霞光城拱门上冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211116/ebfaeee8b1ab2e647ec910cf45fda3d812f31126.png)
-
----
-
-
-#### 📍 霞谷·鞠躬季军
-
-【霞谷·鞠躬季军】
-先祖位置：从霞谷的赛道一路滑行到达霞谷落日竞技场，神庙的右边城墙下有三个门洞，先祖在第一个门洞前等候~
+【暮土·惊恐动作先祖】
+先祖位置：穿过暮土风暴，降落后前往大门方向，先祖在大门前的断桥处静静等待~
 兑换图鉴：
 
 
-![鞠躬季军-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/249ebc710b9c3253c01ff8990b668e8c760e6162.png)
-![鞠躬季军-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/3f9ea6fadfbf192b597d4921c2a99045b29536d4.png)
-![鞠躬季军-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/77da53eb2fa8bdaaf6c990d827cb3c5765c6ad6f.png)
+![惊恐难民-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/43dd8da6f2ed4e66d71352aeb3a96be2fbebede9.png)
+![惊恐难民-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3de0f6cddb18ce5d94a07365f9435b706f40d04.png)
 
 ---
 
