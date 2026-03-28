@@ -19,31 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年03月27日 每日任务
+## 📅 2026年03月28日 每日任务
 
-> 最后更新: 2026年03月27日 08:31:23 (北京时间)
+> 最后更新: 2026年03月28日 08:28:35 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在霞光城拱门上冥想
-2. 和陌生人一起坐在长凳上
-3. 净化10株黑暗植物
-4. 前往霞谷，重温自信观光客的美好回忆
+1. 在暮土追逐散落的星光
+2. 和朋友击掌
+3. 拾起一只螃蟹
+4. 前往暮土，重温惊恐难民的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在星光沙漠·一隅
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/6aa7090618fa0e0d7387db416e515adf8b3bd7d8.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220825/a7df7126fe49a6cd5e7410e0b45e611eb2874910.png)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221125/cf86416e9cf3803c0c0d16990294a5e3fdf74915.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
 
 
 ### 📅 本月日历
@@ -54,35 +48,30 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在霞光城拱门上冥想
+#### 📍 每日任务－在暮土追逐散落的星光
 
-【每日任务－在霞光城拱门上冥想】
-任务：在霞光城拱门上冥想
-位置：霞光城－城门上
-步骤：通过霞谷溜冰场左侧的入口进入霞光城，在霞光城门口上面
-https://ok.166.net/gameyw-gbox/bot/205/20241023/971aab811c5c15a1b7019745d2cf30c69bb353ee.mp4
-大神推荐：每日任务讨论专区https://m.ds.163.com/topic/%E5%85%89%E9%81%87%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1?utm_content=f_ma75.jl.jlctPT.default.pt5j95&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在霞光城拱门上冥想
+【每日任务－在暮土追逐散落的星光】
+位置：暮土－边陲荒漠
+指引：进入暮土后，勇敢往下跳进边陲荒漠，星光就在荒漠里飞
+大神推荐：神龛实用指南https://ds.163.com/feed/69a9629d3172db0f4cca6a23/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.cgconi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在暮土追逐散落的星光
 
 
-![在霞光城拱门上冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/8328fe1f13023335f06db270abe18c745f647a68.jpg)
-![在霞光城拱门上冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211116/ebfaeee8b1ab2e647ec910cf45fda3d812f31126.png)
+![在暮土追逐散落的星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211104/e84b1ed80a7fe03182a67d07986a9d433401c6d8.png)
+![在暮土追逐散落的星光-2](https://ok.166.net/gameyw-gbox/bot/205/20211104/76fbf76f3306459faded453e46907f9066bad0f4.png)
 
 ---
 
 
-#### 📍 霞谷·自信观光客
+#### 📍 暮土-惊恐先祖
 
-【霞谷·自信观光客】
-先祖位置：一路滑行到霞谷的滑冰场上，看向最高处有柱子的方向，先祖就在半山腰的小平台处等候~
-2、若在图示位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
+【暮土·惊恐动作先祖】
+先祖位置：穿过暮土风暴，降落后前往大门方向，先祖在大门前的断桥处静静等待~
 兑换图鉴：
+大神推荐：光遇头像绘画教程https://ds.163.com/feed/69ac315cf7b9ed741346dd14?utm_content=f_ma75.jl.jlctPT.default.qm6g5b&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-惊恐先祖｜每日任务讨论专区https://m.ds.163.com/topic/%E5%85%89%E9%81%87%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1?utm_content=f_ma75.jl.jlctPT.default.pt5j95&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-惊恐先祖
 
 
-![自信观光客-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg)
-![自信观光客-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg)
-![自信观光客-3](https://ok.166.net/gameyw-gbox/bot/205/20210723/36cad2c47f799e1127dc8e221ff014ca7814e905.png)
-![自信观光客-4](https://ok.166.net/gameyw-gbox/bot/205/20210723/b5dca66d7036a5cd8e94f12a457356bca557fee3.png)
-![自信观光客-5](https://ok.166.net/gameyw-gbox/bot/205/20210722/0c6399ab89b3e08df009f737e6d8a184995aca4c.png)
+![惊恐难民-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/43dd8da6f2ed4e66d71352aeb3a96be2fbebede9.png)
+![惊恐难民-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3de0f6cddb18ce5d94a07365f9435b706f40d04.png)
 
 ---
 
