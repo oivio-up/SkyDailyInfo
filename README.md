@@ -19,25 +19,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年03月28日 每日任务
+## 📅 2026年03月29日 每日任务
 
-> 最后更新: 2026年03月28日 08:28:35 (北京时间)
+> 最后更新: 2026年03月29日 08:32:51 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在暮土追逐散落的星光
-2. 和朋友击掌
-3. 拾起一只螃蟹
-4. 前往暮土，重温惊恐难民的美好回忆
+1. 在禁阁顶层神坛旁冥想
+2. 点亮一位玩家
+3. 在水母上恢复能量
+4. 二重奏季向导任务
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在秘密花园
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/f556cca90c75ff0c11fd19ba59ce8da0570d2f8c.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/c4cc81638b4b2111e6ff6389d821a7f997ac7c81.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/3ec9e60fa2b272546d22c4f828bb57abd36763da.jpg)
 
 
 ### 📅 本月日历
@@ -48,30 +56,32 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在暮土追逐散落的星光
+#### 📍 每日任务－在禁阁的神坛旁冥想
 
-【每日任务－在暮土追逐散落的星光】
-位置：暮土－边陲荒漠
-指引：进入暮土后，勇敢往下跳进边陲荒漠，星光就在荒漠里飞
-大神推荐：神龛实用指南https://ds.163.com/feed/69a9629d3172db0f4cca6a23/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.cgconi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在暮土追逐散落的星光
+【每日任务－在禁阁的神坛旁冥想】
+任务：在禁阁的神坛旁冥想
+位置：禁阁终点旁
+步骤：进入禁阁后一直上到第六层(最高层)，往左前方走就看到啦
 
 
-![在暮土追逐散落的星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211104/e84b1ed80a7fe03182a67d07986a9d433401c6d8.png)
-![在暮土追逐散落的星光-2](https://ok.166.net/gameyw-gbox/bot/205/20211104/76fbf76f3306459faded453e46907f9066bad0f4.png)
+![禁阁顶层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20211227/1b35972c8ee9c9ae90bbf947ce40225c726a8c9d.png)
 
 ---
 
 
-#### 📍 暮土-惊恐先祖
+#### 📍 每日任务－二重奏季向导在星光沙漠需要帮助
 
-【暮土·惊恐动作先祖】
-先祖位置：穿过暮土风暴，降落后前往大门方向，先祖在大门前的断桥处静静等待~
-兑换图鉴：
-大神推荐：光遇头像绘画教程https://ds.163.com/feed/69ac315cf7b9ed741346dd14?utm_content=f_ma75.jl.jlctPT.default.qm6g5b&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-惊恐先祖｜每日任务讨论专区https://m.ds.163.com/topic/%E5%85%89%E9%81%87%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1?utm_content=f_ma75.jl.jlctPT.default.pt5j95&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-惊恐先祖
+【二重奏季向导在星光沙漠需要帮助】
+任务地点：禁阁－星光沙漠一隅
+如何完成：
+1、先前往星光沙漠一隅，找到二重季向导
+2、与二重季向导一起演奏
+3、演奏完毕后，与二重季向导互动拥抱，即可完成任务
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260123/37830bf929d780ee294e273d7ab3212c31a418da.mp4
+大神推荐：每日任务讨论专区https://m.ds.163.com/topic/%E5%85%89%E9%81%87%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1?utm_content=f_ma75.jl.jlctPT.default.pt5j95&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－二重奏季向导在星光沙漠需要帮助
 
 
-![惊恐难民-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/43dd8da6f2ed4e66d71352aeb3a96be2fbebede9.png)
-![惊恐难民-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3de0f6cddb18ce5d94a07365f9435b706f40d04.png)
+![帮助二重季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20260123/1af9c9fe6a8df4da1667f894f6369ba360f51213.jpg)
 
 ---
 
