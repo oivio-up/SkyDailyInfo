@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年04月06日 每日任务
+## 📅 2026年04月07日 每日任务
 
-> 最后更新: 2026年04月06日 08:33:09 (北京时间)
+> 最后更新: 2026年04月07日 08:32:57 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在云野花园收集向日葵种子微光
-2. 接受一位朋友的礼物
-3. 在荧光小菇旁回复能量
-4. 前往霞谷，重温回旋大师的美好回忆
+1. 收集红色光芒
+2. 向一位玩家鞠躬
+3. 净化10株黑暗植物
+4. 前往暮土，重温惊恐难民的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区晴朗，星光沙漠将会有冷却碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/bdcbc401859ec5e196dc766e84561b0b4459951e.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/812c68a5116439a182edfc386e89bd2b796c5e08.jpg)
 
 
 ### 📅 本月日历
@@ -48,28 +52,29 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-收集向日葵种子微光
+#### 📍 每日任务－红色光芒
 
-【每日任务-收集向日葵种子微光】
-1、通过云巢/遇境向导传送至花憩节活动场景
-2、与右侧的挥手钟匠先祖进行交互
-3、靠近有光点的向日葵花朵后点击交互收集种子微光
-4、收集完三份微光后与先祖旁的罐子进行交互即可
-大神推荐：每日任务讨论专区https://m.ds.163.com/topic/%E5%85%89%E9%81%87%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1?utm_content=f_ma75.jl.jlctPT.default.pt5j95&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-收集向日葵种子微光
+【每日任务－红色光芒】
+位置：黑水港湾(沉船图)
+指引：进入黑水港湾后往船飞，红色光芒就在船内外飞绕
 
 
-![花园收集向日葵种子微光-1](https://ok.166.net/gameyw-gbox/bot/205/20260403/12567f4578db74a74badcb7cc92e386ef65194a1.jpg)
+![红色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20211101/0c982b6c56c5a8b4fbb94ef43c2cd343e7ca8ff0.png)
+![红色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20211101/46842389c3222498aaa017f858473356bdb47444.png)
 
 ---
 
 
-#### 📍 梦想季回旋大师路线
+#### 📍 暮土-惊恐先祖
 
-【梦想季－回旋大师】
-先祖位置：霞谷·圆梦村
+【暮土·惊恐动作先祖】
+先祖位置：穿过暮土风暴，降落后前往大门方向，先祖在大门前的断桥处静静等待~
+兑换图鉴：
+大神推荐：光遇头像绘画教程https://ds.163.com/feed/69ac315cf7b9ed741346dd14?utm_content=f_ma75.jl.jlctPT.default.qm6g5b&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-惊恐先祖｜每日任务讨论专区https://m.ds.163.com/topic/%E5%85%89%E9%81%87%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1?utm_content=f_ma75.jl.jlctPT.default.pt5j95&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-惊恐先祖
 
 
-![回旋大师路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240705/8ac395cd314f733240956c323c3fbb54351546ff.jpg)
+![惊恐难民-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/43dd8da6f2ed4e66d71352aeb3a96be2fbebede9.png)
+![惊恐难民-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3de0f6cddb18ce5d94a07365f9435b706f40d04.png)
 
 ---
 
