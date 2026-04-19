@@ -19,25 +19,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年04月18日 每日任务
+## 📅 2026年04月19日 每日任务
 
-> 最后更新: 2026年04月18日 08:32:49 (北京时间)
+> 最后更新: 2026年04月19日 08:36:19 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在禁阁追逐散落的星光
-2. 和朋友击掌
-3. 在荧光小菇旁回复能量
-4. 前往禁阁，重温冥想大师的美好回忆
+1. 在云野追逐散落的星光
+2. 向一位玩家鞠躬
+3. 拾起一只螃蟹
+4. 帮助苦修行者
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在秘密花园
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/f556cca90c75ff0c11fd19ba59ce8da0570d2f8c.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/c4cc81638b4b2111e6ff6389d821a7f997ac7c81.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/3ec9e60fa2b272546d22c4f828bb57abd36763da.jpg)
 
 
 ### 📅 本月日历
@@ -48,34 +56,29 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在禁阁追逐散落的星光
+#### 📍 每日任务－在云野追逐散落的星光
 
-【每日任务－在禁阁追逐散落的星光】
-位置：禁阁大厅
-指引：进入禁阁后即可看到天上的星光在飞哦
-大神推荐：立即预约狂欢季https://h5.ds.163.com/v1/69dcc2f9ebcc480032a3aa69/?utm_content=f_ma75.jl.jlctPT.default.06odfr&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在禁阁追逐散落的星光
+【每日任务－在云野追逐散落的星光】
+位置：云野·蝴蝶平原
+指引：进入云野后往前飞，来到蝴蝶平原处，云野里的星光就在这附近飞啦
+大神推荐：云野拾光·壁纸库https://h5.ds.163.com/v1/69dcc1301586040039d7e8a7/?utm_content=f_ma75.jl.jlctPT.default.66s99u&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在云野追逐散落的星光
 
 
-![禁阁星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211109/3a610f3ddd435119a767553347d5fd8ee76c3763.png)
+![云野星光-1](https://ok.166.net/gameyw-gbox/bot/205/20260114/b4d7aa1535e604984bca6aa9a40152225d236693.jpg)
 
 ---
 
 
-#### 📍 冥想大师
+#### 📍 每日任务-苦修行者在圣岛需要帮助
 
-【禁阁·冥想大师】
-先祖位置：禁阁第四层
-详细指引：
-1.来到禁阁第四层后，飞到有残缺破屋的小岛
-2.向上看，在上方小浮石上找到石碑
-3.通过自己或小伙伴用祈祷动作点亮石碑，召唤先祖
-兑换图鉴：>>点击查看
-如何兑换：>>点击查看
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlsy.default.zb30gm&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=冥想大师
+【每日任务－帮助苦修行者】
+请旅人先查看接到的任务名称，然后在下方选择对应指南
+在云峰找到苦修行者　｜　苦修行者在圣岛需要帮助
+小精灵提示：
+1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；
+2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在圣岛需要帮助
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-苦修行者在圣岛需要帮助
 
-
-![冥想大师-1](https://ok.166.net/gameyw-gbox/bot/205/20220516/9b6a3bca0d7e9a200c604a037bd57a0d8722a14c.png)
-![冥想大师-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/8e4be4efefd0e246d8952f385847e72f326fca0c.png)
 
 ---
 
