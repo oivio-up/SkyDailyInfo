@@ -19,29 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年04月22日 每日任务
+## 📅 2026年04月23日 每日任务
 
-> 最后更新: 2026年04月22日 08:33:55 (北京时间)
+> 最后更新: 2026年04月23日 08:39:08 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在暮土追逐散落的星光
-2. 给一位朋友送礼
-3. 点燃20根蜡烛
-4. 前往暮土，重温瞭望哨兵的美好回忆
+1. 在禁阁第二层冥想
+2. 向一位玩家鞠躬
+3. 拾起一只螃蟹
+4. 前往禁阁，重温浮空宗师的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有冷却碎片坠落在星光沙漠
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/9c8b756316ecff6027abc59b24c4d2481b07faf2.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/812c68a5116439a182edfc386e89bd2b796c5e08.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
 
 
 ### 📅 本月日历
@@ -52,31 +48,41 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在暮土追逐散落的星光
+#### 📍 在禁阁第二层冥想
 
-【每日任务－在暮土追逐散落的星光】
-位置：暮土－边陲荒漠
-指引：进入暮土后，勇敢往下跳进边陲荒漠，星光就在荒漠里飞
-大神推荐：神龛实用指南https://ds.163.com/feed/69a9629d3172db0f4cca6a23/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.cgconi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在暮土追逐散落的星光
+【每日任务－在禁阁第二层冥想】
+位置：禁阁－禁阁二层
+指引：
+进入禁阁后，往前走，通过机关电梯一路向上
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20250726/aed956b011e99d3bdb90d097f65810380d0b4e5f.mp4
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=在禁阁第二层冥想
 
 
-![暮土星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211104/e84b1ed80a7fe03182a67d07986a9d433401c6d8.png)
-![暮土星光-2](https://ok.166.net/gameyw-gbox/bot/205/20211104/76fbf76f3306459faded453e46907f9066bad0f4.png)
+![禁阁二层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220831/20a4fb20f4615c9d3351bf2631ef340765f6f410.jpg)
+![禁阁二层冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220831/f53298d258c0b0ab2cfb3acfa8376a8838591bb9.jpg)
+![禁阁二层冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20250726/aaf0f6bc1a998369768087a42240299737e856d5.jpg)
 
 ---
 
 
-#### 📍 暮土-瞭望哨兵
+#### 📍 气功动作
 
-【暮土·瞭望哨兵】
-先祖位置：从巨兽荒原到达 远古战场，从有尖顶的城墙下穿过，左侧的石阶上，失落的先祖在此等候~
-视频攻略：
-兑换图鉴：
+【禁阁·浮空宗师】
+先祖位置：来到禁阁的第二层后，打开四人门，在门背后的柱子边，先祖在静静等候~
+大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=气功动作
 
 
-![瞭望哨兵-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/b10f49d838fd96c6343a92c7a6955f7eba93e922.png)
-![瞭望哨兵-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/be7626a6f974560ea816ea8ad07182cd87953174.png)
-![瞭望哨兵-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/25786fb560e9ef90386daa9b24b2c0ecc2089db3.png)
+![浮空宗师-1](https://ok.166.net/gameyw-gbox/bot/205/20240705/92a8ce1f3e08054764b39242b4beb3a73f08e84c.jpg)
+![浮空宗师-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/c387ae7c6da171946c2533a926ee58c843073039.png)
+
+---
+
+
+#### 📍 季节蜡烛探索指南
+
+https://h5.ds.163.com/v1/69e5ead0d194ff003804f822/?utm_content=f_ma75.jl.jlct.default.tj3wil&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be
+
 
 ---
 
