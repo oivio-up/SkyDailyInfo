@@ -19,62 +19,70 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年04月23日 每日任务
+## 📅 2026年04月24日 每日任务
 
-> 最后更新: 2026年04月23日 08:39:08 (北京时间)
+> 最后更新: 2026年04月24日 08:38:36 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在禁阁第二层冥想
-2. 向一位玩家鞠躬
-3. 拾起一只螃蟹
-4. 前往禁阁，重温浮空宗师的美好回忆
+1. 在云野的山洞里找到篝火堆
+2. 和朋友击掌
+3. 点燃20根蜡烛
+4. 前往云野，重温欢笑追光者的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在雨林-大树屋
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/aa2ed8b23983375da79af99177ee6b153cbdbf9a.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/67a1ee2892e4c9d627d89e416bcec5c733e0f7b0.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/48770a5dcdd8ea3f75d2ebc218d52b703c263d79.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260415/6c849f9d441b4310c06f2aefa10e8235ff5cb589.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260423/fdffdf2f4ba34c968571d9014baa3909189dd2a7.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 在禁阁第二层冥想
+#### 📍 每日任务－在云野的山洞里找到篝火堆
 
-【每日任务－在禁阁第二层冥想】
-位置：禁阁－禁阁二层
-指引：
-进入禁阁后，往前走，通过机关电梯一路向上
+【每日任务－在云野的山洞里找到篝火堆】
+1、前往云野大厅后，一直往前走
+2、到达蝴蝶平原后，从左边的入口进入，前往幽光山洞
+3、到达幽光山洞后，进入入口右上方的洞口
+4、进入洞口后一直往前走，篝火堆就在道路的尽头
+幽光山洞需要先解锁 2个晨岛先祖 和 3个云野先祖 才能进入
+　　　　　　　　　　　　　　　　　　>>>晨岛常驻先祖
+　　　　　　　　　　　　　　　　　　>>>云野常驻先祖
+图片指引：
 视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20250726/aed956b011e99d3bdb90d097f65810380d0b4e5f.mp4
-大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=在禁阁第二层冥想
+https://ok.166.net/gameyw-gbox/bot/205/20260423/8a951b012bb4684789ffb436aca5732fdaea5773.mp4
 
 
-![禁阁二层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220831/20a4fb20f4615c9d3351bf2631ef340765f6f410.jpg)
-![禁阁二层冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220831/f53298d258c0b0ab2cfb3acfa8376a8838591bb9.jpg)
-![禁阁二层冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20250726/aaf0f6bc1a998369768087a42240299737e856d5.jpg)
+![云野的山洞篝火堆-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/effcd6c7d666853ef93ff03139e772c65985f5ac.jpg)
+![云野的山洞篝火堆-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7e5e9cc9846b7ca0daeadb965deaa2db8f064282.jpg)
+![云野的山洞篝火堆-3](https://ok.166.net/gameyw-gbox/bot/205/20260423/7add14d9b78641010cc0980a7ed94ef204b67fff.jpg)
 
 ---
 
 
-#### 📍 气功动作
+#### 📍 云野-欢笑追光者
 
-【禁阁·浮空宗师】
-先祖位置：来到禁阁的第二层后，打开四人门，在门背后的柱子边，先祖在静静等候~
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=气功动作
+【云野·欢笑追光者】
+先祖位置：进入云野仙乡，飞向右边的小岛，在小岛前方的洞穴里，先祖就在里面等候~
+兑换图鉴：
 
 
-![浮空宗师-1](https://ok.166.net/gameyw-gbox/bot/205/20240705/92a8ce1f3e08054764b39242b4beb3a73f08e84c.jpg)
-![浮空宗师-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/c387ae7c6da171946c2533a926ee58c843073039.png)
+![欢笑追光者-1](https://ok.166.net/gameyw-gbox/bot/205/20210722/9f04e4499baa558622aaa09d9097364d4b94ecc5.png)
+![欢笑追光者-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/884696a34648bdefe18ee4002a3792b4d29490a8.png)
 
 ---
 
