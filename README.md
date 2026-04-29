@@ -19,25 +19,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年04月28日 每日任务
+## 📅 2026年04月29日 每日任务
 
-> 最后更新: 2026年04月28日 08:41:37 (北京时间)
+> 最后更新: 2026年04月29日 08:42:55 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 收集紫色光芒
-2. 向一位朋友做个动作
-3. 收集30点烛火
-4. 前往禁阁，重温祈祷侍从的美好回忆
+1. 与蝴蝶在蝴蝶平原中一起飞翔
+2. 给一位朋友送礼
+3. 拾起一只螃蟹
+4. 帮助风行季向导
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有冷却碎片坠落在密林遗迹
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/a544b6f3757febce03e1a4fb480e22aebd82ef8b.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/8bf47c63932203ab1af656871dc6fe258786fd7c.jpg)
 
 
 ### 📅 本月日历
@@ -48,33 +56,44 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－紫色光芒
+#### 📍 每日任务-与蝴蝶在蝴蝶平原中一起飞翔
 
-【每日任务－紫色光芒】
-位置：禁阁右侧双人门
-指引：进入禁阁后往右飞，进入双人门后往前走，在右侧建筑附近即可找到
+【与蝴蝶在蝴蝶平原中一起飞翔】
+位置：云野－蝴蝶平原
+指引：
+1、先前往云野大厅
+2、向前方一直飞穿过云层抵达蝴蝶平原
+3、在蝴蝶平原上与蝴蝶一起飞翔一段时间
+4、任务栏的进度条满后即可完成任务
+1、需要同时满足在蝴蝶平原上、与蝴蝶一起飞翔这两个条件才会累计任务进度
+2、任务未完成可以尝试多飞一会哦~
+视频攻略：
+https://ok.166.net/gameyw-gbox/bot/205/20260428/2682298d120f67aa3800c334f3a2d2338f54d3ed.mp4
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-与蝴蝶在蝴蝶平原中一起飞翔
 
 
-![紫色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20240418/8e59d4bdc22b6d6da5c927062bf2facf5d861906.jpg)
+![与蝴蝶在蝴蝶平原一起飞-1](https://ok.166.net/gameyw-gbox/bot/205/20260428/c944d08098c49fbc9ebf4ca8373122249c4c1339.jpg)
 
 ---
 
 
-#### 📍 祈祷侍从
+#### 📍 每日任务-风行季向导在仙乡需要帮助
 
-【禁阁·祈祷侍从】
-先祖位置：禁阁一楼四人门里
-如何进入：
-1.需先获得禁阁二层先祖的动作(气功动作)
-2.接着来到禁阁的第一层，在升降台的右侧和小伙伴合力打开四人门
-3.先祖就在走廊的尽头安静等候~
-兑换图鉴：
-大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=祈祷侍从
+【风行季向导在仙乡需要帮助】
+任务地点：云野－仙乡
+如何完成：
+1、先前往仙乡，找到风行季向导
+2、牵起风行季向导前往云野神殿门口
+3、抵达云野神殿外即可完成任务
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260211/649dbaa524e02bdd78e4d8e6e1f3a9618a402d9a.mp4
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-风行季向导在仙乡需要帮助
 
 
-![祈祷侍从-1](https://ok.166.net/gameyw-gbox/bot/205/20220512/86afcfb629391f3cb0cd51a3022bb4298a31d8e5.png)
-![祈祷侍从-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/94472a24a7ded6b9064de82f8e30efbfb77a7701.png)
-![祈祷侍从-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/b4ca8bf4a26ffdbd017ec6b72fafd046351d7259.png)
+![仙乡帮助风行季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg)
+![仙乡帮助风行季向导-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg)
+![仙乡帮助风行季向导-3](https://ok.166.net/gameyw-gbox/bot/205/20260211/ceda074649b0e0586b41586ceab0660a27fc1139.jpg)
+![仙乡帮助风行季向导-4](https://ok.166.net/gameyw-gbox/bot/205/20220823/7b406da97943b2e905431c7905099d106fc934e8.jpg)
+![仙乡帮助风行季向导-5](https://ok.166.net/gameyw-gbox/bot/205/20260211/bc9f3c3fdb270faddce097e01804afde9c0c191a.jpg)
 
 ---
 
