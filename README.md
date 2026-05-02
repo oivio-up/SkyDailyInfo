@@ -19,25 +19,31 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月01日 每日任务
+## 📅 2026年05月02日 每日任务
 
-> 最后更新: 2026年05月01日 08:44:53 (北京时间)
+> 最后更新: 2026年05月02日 08:41:11 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在霞谷的滑行比赛中捕捉3个光点
-2. 向一位朋友做个动作
-3. 在水母上回复能量
-4. 前往霞谷，重温杂耍演员的美好回忆
+1. 在暮土追逐散落的星光
+2. 接受一位朋友的礼物
+3. 掀翻5只螃蟹
+4. 找到一位位于暮土的先祖
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区夜间晴朗，星光沙漠一隅将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/2dab86c7a2b318ddc00028fa10995354894a0753.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220825/a7df7126fe49a6cd5e7410e0b45e611eb2874910.png)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221125/cf86416e9cf3803c0c0d16990294a5e3fdf74915.jpg)
 
 
 ### 📅 本月日历
@@ -48,38 +54,26 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在霞谷的滑行比赛中捕捉浮动的光点
+#### 📍 每日任务－在暮土追逐散落的星光
 
-【在霞谷的滑行比赛中捕捉浮动的光点】
-1.先前往霞谷滑行赛道
-2.进入赛道后光点将依次出现并向前飞行，触碰后可捕捉光点
-小精灵提醒您：
-1、光点向前飞行一段距离后将停止，以便旅人们收集
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在霞谷的滑行比赛中捕捉浮动的光点
+【每日任务－在暮土追逐散落的星光】
+位置：暮土－边陲荒漠
+指引：进入暮土后，勇敢往下跳进边陲荒漠，星光就在荒漠里飞
 
 
-![滑行赛道捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/3c1c6aa5e3bf6f57dbf00630ec388f14cf51732e.jpg)
-![滑行赛道捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/42ad2ed0a52109da6557bdabef266287e35232e5.jpg)
-![滑行赛道捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260320/cdc7b11152e573e6d28d0f17461a78b888a13681.jpg)
+![暮土星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211104/e84b1ed80a7fe03182a67d07986a9d433401c6d8.png)
+![暮土星光-2](https://ok.166.net/gameyw-gbox/bot/205/20211104/76fbf76f3306459faded453e46907f9066bad0f4.png)
 
 ---
 
 
-#### 📍 音韵季杂耍演员路线
+#### 📍 每日任务-找到一名位于暮土的先祖
 
-【音韵季·杂耍演员位置】
-先祖位置：霞谷·滑冰场
-图片指引：
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20241023/e8b6b222913545c120100aed3352ffbed4e3c1fc.mp4
-2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=音韵季杂耍演员路线
+【每日任务-找到一名位于暮土的先祖】
+1.前往暮土
+2.任意收集一个位于暮土的先祖均可以完成任务　　>>暮土常驻先祖位置
+>>大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-找到一名位于暮土的先祖
 
-
-![杂耍演员路线-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/5f5a3048e44c089502daceacc2da1bc6cacc4bb3.jpg)
 
 ---
 
