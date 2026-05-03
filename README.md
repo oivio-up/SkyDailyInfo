@@ -19,31 +19,31 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月02日 每日任务
+## 📅 2026年05月03日 每日任务
 
-> 最后更新: 2026年05月02日 08:41:11 (北京时间)
+> 最后更新: 2026年05月03日 08:42:49 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在暮土追逐散落的星光
-2. 接受一位朋友的礼物
-3. 掀翻5只螃蟹
-4. 找到一位位于暮土的先祖
+1. 在禁阁追逐散落的星光
+2. 向一位玩家鞠躬
+3. 拾起一只螃蟹
+4. 前往禁阁，重温礼貌学者的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区夜间晴朗，星光沙漠一隅将会有灼热碎片降落
+天气播报：大部分地区晴朗，圣岛将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/2dab86c7a2b318ddc00028fa10995354894a0753.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/3b9ba0c28bc1475318594364f8bc9abd459177c6.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7eb7da8ebdaedec9d1c02045a79081487424daab.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220825/a7df7126fe49a6cd5e7410e0b45e611eb2874910.png)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/8ad3cf89e9d1914e2c029acbef579fca80fd2830.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221125/cf86416e9cf3803c0c0d16990294a5e3fdf74915.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/45550c764ba6f31572e2c992663dfa4f881734bd.jpg)
 
 
 ### 📅 本月日历
@@ -54,26 +54,29 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在暮土追逐散落的星光
+#### 📍 每日任务－在禁阁追逐散落的星光
 
-【每日任务－在暮土追逐散落的星光】
-位置：暮土－边陲荒漠
-指引：进入暮土后，勇敢往下跳进边陲荒漠，星光就在荒漠里飞
+【每日任务－在禁阁追逐散落的星光】
+位置：禁阁大厅
+指引：进入禁阁后即可看到天上的星光在飞哦
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在禁阁追逐散落的星光
 
 
-![暮土星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211104/e84b1ed80a7fe03182a67d07986a9d433401c6d8.png)
-![暮土星光-2](https://ok.166.net/gameyw-gbox/bot/205/20211104/76fbf76f3306459faded453e46907f9066bad0f4.png)
+![禁阁星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211109/3a610f3ddd435119a767553347d5fd8ee76c3763.png)
 
 ---
 
 
-#### 📍 每日任务-找到一名位于暮土的先祖
+#### 📍 礼貌学者
 
-【每日任务-找到一名位于暮土的先祖】
-1.前往暮土
-2.任意收集一个位于暮土的先祖均可以完成任务　　>>暮土常驻先祖位置
->>大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-找到一名位于暮土的先祖
+【禁阁·礼貌学者】
+先祖位置：来到禁阁的第三层后，飞到远处飘浮石板上，先祖就在浮石上等候~
+（找不到先祖时，可留意下是否其他旅人正在收集）
+点击查看：如何前往禁阁第三层
+大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=礼貌学者
 
+
+![礼貌学者-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/7545b38b8ca536aab8c8c80ac1930c779ddd66d8.png)
 
 ---
 
