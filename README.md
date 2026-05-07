@@ -19,25 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月06日 每日任务
+## 📅 2026年05月07日 每日任务
 
-> 最后更新: 2026年05月06日 08:39:07 (北京时间)
+> 最后更新: 2026年05月07日 08:41:30 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在霞谷的滑行比赛中捕捉3个光点
-2. 向一位玩家鞠躬
-3. 掀翻5只螃蟹
-4. 前往霞谷，重温鞠躬季军的美好回忆
+1. 在暮土追逐散落的星光
+2. 给一位朋友送礼
+3. 净化10株黑暗植物
+4. 前往暮土，重温无畏士兵的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
 天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
 
 
 ### 📅 本月日历
@@ -48,38 +48,29 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在霞谷的滑行比赛中捕捉浮动的光点
+#### 📍 每日任务－在暮土追逐散落的星光
 
-【在霞谷的滑行比赛中捕捉浮动的光点】
-1.先前往霞谷滑行赛道
-2.进入赛道后光点将依次出现并向前飞行，触碰后可捕捉光点
-小精灵提醒您：
-1、光点向前飞行一段距离后将停止，以便旅人们收集
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在霞谷的滑行比赛中捕捉浮动的光点
+【每日任务－在暮土追逐散落的星光】
+位置：暮土－边陲荒漠
+指引：进入暮土后，勇敢往下跳进边陲荒漠，星光就在荒漠里飞
 
 
-![滑行赛道捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/3c1c6aa5e3bf6f57dbf00630ec388f14cf51732e.jpg)
-![滑行赛道捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/42ad2ed0a52109da6557bdabef266287e35232e5.jpg)
-![滑行赛道捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260320/cdc7b11152e573e6d28d0f17461a78b888a13681.jpg)
+![暮土星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211104/e84b1ed80a7fe03182a67d07986a9d433401c6d8.png)
+![暮土星光-2](https://ok.166.net/gameyw-gbox/bot/205/20211104/76fbf76f3306459faded453e46907f9066bad0f4.png)
 
 ---
 
 
-#### 📍 霞谷·鞠躬季军
+#### 📍 暮土-无畏士兵
 
-【霞谷·鞠躬季军】
-先祖位置：从霞谷的赛道一路滑行到达霞谷落日竞技场，神庙的右边城墙下有三个门洞，先祖在第一个门洞前等候~
-视频攻略：
-https://ok.166.net/gameyw-gbox/bot/205/20260501/064f688cd632d9ee676b93068120c2db59b51a5c.mp4
+【暮土·无畏士兵】
+先祖位置：进入边陲荒漠大门，直走后先祖就在大门后静静等待~
 兑换图鉴：
-大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=霞谷·鞠躬季军
+大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-无畏士兵
 
 
-![鞠躬季军-1](https://ok.166.net/gameyw-gbox/bot/205/20260319/567bb9e4fe26cfd88313053a55134b05b7d37e74.png)
-![鞠躬季军-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/77da53eb2fa8bdaaf6c990d827cb3c5765c6ad6f.png)
+![无畏士兵-1](https://ok.166.net/gameyw-gbox/bot/205/20260402/444632f792c634175ca533265cd427f9eae567dc.jpg)
+![无畏士兵-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/5b5c5940cbeba2cb89cf70bec103b3f3844bede3.png)
 
 ---
 
