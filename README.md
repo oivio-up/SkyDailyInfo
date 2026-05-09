@@ -19,25 +19,39 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月08日 每日任务
+## 📅 2026年05月09日 每日任务
 
-> 最后更新: 2026年05月08日 08:42:08 (北京时间)
+> 最后更新: 2026年05月09日 08:42:35 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在禁阁追逐散落的星光
-2. 向一位朋友招手
-3. 点燃20根蜡烛
-4. 前往禁阁，重温冥想大师的美好回忆
+1. 在云野追逐散落的星光
+2. 和陌生人一起坐在长凳上
+3. 收集30点烛火
+4. 前往云野，重温礼花表亲的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区有降雨，雨林神殿将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/52351c8b52321f498f702a290b7e1efec9e168c4.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/0a2180bf29047641dd3e08bdfcd4cc0bcc36711a.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/cf1ee555676c2da00388f2197ca73804d1e0a6f7.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260124/533c80889621c8f41f37a3a988b0285b2f330535.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260124/1a994cc939a2d04ff2b5afb4f591ede4f842fbbb.jpg)
 
 
 ### 📅 本月日历
@@ -48,34 +62,28 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在禁阁追逐散落的星光
+#### 📍 每日任务－在云野追逐散落的星光
 
-【每日任务－在禁阁追逐散落的星光】
-位置：禁阁大厅
-指引：进入禁阁后即可看到天上的星光在飞哦
-大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在禁阁追逐散落的星光
+【每日任务－在云野追逐散落的星光】
+位置：云野·蝴蝶平原
+指引：进入云野后往前飞，来到蝴蝶平原处，云野里的星光就在这附近飞啦
+大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在云野追逐散落的星光
 
 
-![禁阁星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211109/3a610f3ddd435119a767553347d5fd8ee76c3763.png)
+![云野星光-1](https://ok.166.net/gameyw-gbox/bot/205/20260114/b4d7aa1535e604984bca6aa9a40152225d236693.jpg)
 
 ---
 
 
-#### 📍 冥想大师
+#### 📍 归属季礼花表亲路线
 
-【禁阁·冥想大师】
-先祖位置：禁阁第四层
-详细指引：
-1.来到禁阁第四层后，飞到有残缺破屋的小岛
-2.向上看，在上方小浮石上找到石碑
-3.通过自己或小伙伴用祈祷动作点亮石碑，召唤先祖
-兑换图鉴：>>点击查看
-如何兑换：>>点击查看
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=冥想大师
+【归属季·礼花表亲路线】
+先祖位置：云野·蝴蝶平原
+2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
+ 大神推荐：蓬头青年位置速看https://ds.163.com/feed/692f9595af69532c99052a36/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.17fy9q&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=归属季礼花表亲路线
 
 
-![冥想大师-1](https://ok.166.net/gameyw-gbox/bot/205/20220516/9b6a3bca0d7e9a200c604a037bd57a0d8722a14c.png)
-![冥想大师-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/8e4be4efefd0e246d8952f385847e72f326fca0c.png)
+![礼花表亲路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240905/3e2320aba8bc86be1379714ab6ba44d6981b5444.jpg)
 
 ---
 
