@@ -19,71 +19,69 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月09日 每日任务
+## 📅 2026年05月10日 每日任务
 
-> 最后更新: 2026年05月09日 08:42:35 (北京时间)
+> 最后更新: 2026年05月10日 08:44:35 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在云野追逐散落的星光
-2. 和陌生人一起坐在长凳上
-3. 收集30点烛火
-4. 前往云野，重温礼花表亲的美好回忆
+1. 拯救一只被黑暗藤蔓困住的遥鲲
+2. 给一位朋友送礼
+3. 点燃20根蜡烛
+4. 前往雨林，重温颤抖开拓者的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区有降雨，雨林神殿将会有灼热碎片降落
+天气播报：大部分地区降雪，雪隐峰将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/52351c8b52321f498f702a290b7e1efec9e168c4.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/e55037cbfda140212726191decc074423dc871ba.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/0a2180bf29047641dd3e08bdfcd4cc0bcc36711a.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/cf1ee555676c2da00388f2197ca73804d1e0a6f7.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260124/533c80889621c8f41f37a3a988b0285b2f330535.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260124/1a994cc939a2d04ff2b5afb4f591ede4f842fbbb.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/f6f6f4e0dcdc8cd24d1c8ca57ce831115433a127.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260423/fdffdf2f4ba34c968571d9014baa3909189dd2a7.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260507/a674ecdf6f7c68a3e5216d3fce37ba9968be26b8.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在云野追逐散落的星光
+#### 📍 每日任务－拯救遥鲲
 
-【每日任务－在云野追逐散落的星光】
-位置：云野·蝴蝶平原
-指引：进入云野后往前飞，来到蝴蝶平原处，云野里的星光就在这附近飞啦
-大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在云野追逐散落的星光
+【每日任务－拯救遥鲲】
+任务：拯救一只被黑暗藤蔓困住的遥鲲
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，一共有两处地点
+大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－拯救遥鲲
 
 
-![云野星光-1](https://ok.166.net/gameyw-gbox/bot/205/20260114/b4d7aa1535e604984bca6aa9a40152225d236693.jpg)
+![拯救遥鲲-1](https://ok.166.net/gameyw-gbox/bot/205/20260403/8ba2f18ad96e6e3821e2c1ae470e9416f0c80f44.jpg)
 
 ---
 
 
-#### 📍 归属季礼花表亲路线
+#### 📍 雨林·发抖动作先祖
 
-【归属季·礼花表亲路线】
-先祖位置：云野·蝴蝶平原
-2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
- 大神推荐：蓬头青年位置速看https://ds.163.com/feed/692f9595af69532c99052a36/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.17fy9q&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=归属季礼花表亲路线
+【雨林·发抖动作先祖】
+先祖位置：穿过云洞进入雨林静谧庭院，穿过第一道门，在第二道门前左侧，先祖静坐在亭子下等待~
+兑换图鉴：
 
 
-![礼花表亲路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240905/3e2320aba8bc86be1379714ab6ba44d6981b5444.jpg)
+![颤抖开拓者-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/3590bc83d7314ed237bf8f94beb8c29cf6c38126.png)
+![颤抖开拓者-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/213f80191d6427e5beb24b239397c659f777c781.png)
+![颤抖开拓者-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/65e56e8a62bfa9c7e25d76334a34a3fb5a1d6aba.png)
 
 ---
 
