@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月11日 每日任务
+## 📅 2026年05月12日 每日任务
 
-> 最后更新: 2026年05月11日 08:44:59 (北京时间)
+> 最后更新: 2026年05月12日 08:41:06 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在雪隐峰捕捉浮动的光点
-2. 向一位玩家鞠躬
-3. 收集30点烛火
-4. 前往霞谷，重温偷窥邮差的美好回忆
+1. 面对冥龙
+2. 点亮一位玩家
+3. 在荧光小菇旁回复能量
+4. 前往暮土，重温行礼船长的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区晴朗，星光沙漠将会有冷却碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/9c8b756316ecff6027abc59b24c4d2481b07faf2.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/812c68a5116439a182edfc386e89bd2b796c5e08.jpg)
 
 
 ### 📅 本月日历
@@ -48,42 +52,29 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在雪隐峰捕捉浮动的光点
+#### 📍 每日任务－面对冥龙
 
-【在雪隐峰捕捉浮动的光点】
-1.进入霞谷后，往右走，前往圆梦村
-2.来到圆梦村后，往前走找到飞船站点
-3.点亮飞船站点的机关，召唤飞船
-4.乘坐飞船一路往上走即可来到雪隐峰
-5.到达雪隐峰后向前走，能看到浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、进入圆梦村需要收集一位暮土常驻先祖　　　　　>>>点击查看
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在雪隐峰捕捉浮动的光点
+【每日任务－面对冥龙】
+如何完成：被冥龙的探照灯照到一下即可完成
+推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
 
-
-![雪隐峰捕捉浮点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
-![雪隐峰捕捉浮点-2](https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg)
-![雪隐峰捕捉浮点-3](https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg)
-![雪隐峰捕捉浮点-4](https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg)
-![雪隐峰捕捉浮点-5](https://ok.166.net/gameyw-gbox/bot/205/20260209/e1b90d51ad16994f40a7c5630d83f21112b05a65.jpg)
-![雪隐峰捕捉浮点-6](https://ok.166.net/gameyw-gbox/bot/205/20260209/2bcdb4bf30e310601930be01ed60b9a89cdd5980.jpg)
 
 ---
 
 
-#### 📍 梦想季偷窥邮差路线
+#### 📍 暮土-行礼船长
 
-【梦想季偷窥邮差路线】
-先祖位置：霞谷·圆梦村
-图片指引：
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20241107/0c307fb06128b2c4a4b3c9b0d3f25f36ff783e03.mp4
+【暮土·行礼船长】
+先祖位置：解锁一个暮土先祖后，进入巨兽荒原(沉船图)里，飞到沉船的残骸后面，即可看到先祖
+视频攻略：
+https://ok.166.net/gameyw-gbox/bot/205/20260511/8736af761b3e2a81e9552aaebfd895acfc1e0135.mp4
+兑换图鉴：
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-行礼船长
 
 
-![偷窥邮差路线-1](https://ok.166.net/gameyw-gbox/bot/205/20241107/ac8f097b36a928799fc1e0231032711523fedd7d.jpg)
+![行礼船长-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/ea3571d003d52ab8e9d53296d40e3f5fe8b9295b.png)
+![行礼船长-2](https://ok.166.net/gameyw-gbox/bot/205/20220511/16d5adfbc750e35f9c868b0ac43f867dbde67ad1.png)
+![行礼船长-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/d5641a22f082c6be69e9e61f6629c91579229575.png)
 
 ---
 
