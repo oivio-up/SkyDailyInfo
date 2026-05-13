@@ -19,29 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月12日 每日任务
+## 📅 2026年05月13日 每日任务
 
-> 最后更新: 2026年05月12日 08:41:06 (北京时间)
+> 最后更新: 2026年05月13日 08:45:32 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 面对冥龙
-2. 点亮一位玩家
-3. 在荧光小菇旁回复能量
-4. 前往暮土，重温行礼船长的美好回忆
+1. 在禁阁第二层冥想
+2. 和陌生人一起坐在长凳上
+3. 点燃20根蜡烛
+4. 帮助二重奏季向导
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区晴朗，星光沙漠将会有冷却碎片降落
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/9c8b756316ecff6027abc59b24c4d2481b07faf2.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260323/aa833d12f5aa203c090c968e89ba3c47f10d8f4f.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/812c68a5116439a182edfc386e89bd2b796c5e08.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
 
 
 ### 📅 本月日历
@@ -52,29 +48,37 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－面对冥龙
+#### 📍 在禁阁第二层冥想
 
-【每日任务－面对冥龙】
-如何完成：被冥龙的探照灯照到一下即可完成
-推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
+【每日任务－在禁阁第二层冥想】
+位置：禁阁－禁阁二层
+指引：
+进入禁阁后，往前走，通过机关电梯一路向上
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20250726/aed956b011e99d3bdb90d097f65810380d0b4e5f.mp4
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=在禁阁第二层冥想
 
+
+![禁阁二层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220831/20a4fb20f4615c9d3351bf2631ef340765f6f410.jpg)
+![禁阁二层冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220831/f53298d258c0b0ab2cfb3acfa8376a8838591bb9.jpg)
+![禁阁二层冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20250726/aaf0f6bc1a998369768087a42240299737e856d5.jpg)
 
 ---
 
 
-#### 📍 暮土-行礼船长
+#### 📍 每日任务－二重奏季向导在星光沙漠需要帮助
 
-【暮土·行礼船长】
-先祖位置：解锁一个暮土先祖后，进入巨兽荒原(沉船图)里，飞到沉船的残骸后面，即可看到先祖
-视频攻略：
-https://ok.166.net/gameyw-gbox/bot/205/20260511/8736af761b3e2a81e9552aaebfd895acfc1e0135.mp4
-兑换图鉴：
-大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-行礼船长
+【二重奏季向导在星光沙漠需要帮助】
+任务地点：禁阁－星光沙漠一隅
+如何完成：
+1、先前往星光沙漠一隅，找到二重季向导
+2、与二重季向导一起演奏
+3、演奏完毕后，与二重季向导互动拥抱，即可完成任务
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260123/37830bf929d780ee294e273d7ab3212c31a418da.mp4
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－二重奏季向导在星光沙漠需要帮助
 
 
-![行礼船长-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/ea3571d003d52ab8e9d53296d40e3f5fe8b9295b.png)
-![行礼船长-2](https://ok.166.net/gameyw-gbox/bot/205/20220511/16d5adfbc750e35f9c868b0ac43f867dbde67ad1.png)
-![行礼船长-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/d5641a22f082c6be69e9e61f6629c91579229575.png)
+![帮助二重季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20260123/1af9c9fe6a8df4da1667f894f6369ba360f51213.jpg)
 
 ---
 
