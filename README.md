@@ -19,39 +19,43 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年05月28日 每日任务
+## 📅 2026年05月29日 每日任务
 
-> 最后更新: 2026年05月28日 08:44:33 (北京时间)
+> 最后更新: 2026年05月29日 09:26:24 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 帮助焦虑渔夫或鸣谢收藏家在圣岛寻找宝藏
-2. 向一位玩家鞠躬
-3. 在水母上回复能量
-4. 前往禁阁，重温祈祷侍从的美好回忆
+1. 帮助嬉笑炮手或犯困船匠在仙乡寻找宝藏
+2. 点亮一位玩家
+3. 收集30点烛火
+4. 前往云野，重温挥手钟匠的美好回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在大树屋
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/aa2ed8b23983375da79af99177ee6b153cbdbf9a.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/67a1ee2892e4c9d627d89e416bcec5c733e0f7b0.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/48770a5dcdd8ea3f75d2ebc218d52b703c263d79.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260521/d6b4c20a35aa8a68e4a29e5c91f5c8c0078ecb5a.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260528/604d20e07cbc13b2e53d1bcb0c59b31847e01b4b.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 帮助焦虑渔夫或鸣谢收藏家在圣岛寻找宝藏
+#### 📍 帮助嬉笑炮手或犯困船匠在仙乡寻找宝藏
 
-【帮助焦虑渔夫或鸣谢收藏家在圣岛寻找宝藏】
-宝藏位置：云野·圣岛
+【帮助嬉笑炮手或犯困船匠在仙乡寻找宝藏】
+宝藏位置：云野·仙乡
 如何前往：
 1、通过遇境/云巢的寻宝节向导传送至藏宝岛礁
 2、通过藏宝岛礁的当日寻宝先祖前往寻宝地图
@@ -62,25 +66,22 @@
 视频指南：
 
 
-![帮助焦虑渔夫或鸣谢收藏家在圣岛寻找宝藏-1](https://ok.166.net/gameyw-gbox/bot/205/20260527/12cd8edd69322195c4334da4aa65b38b4798f702.jpg)
+![帮助嬉笑炮手或犯困船匠在仙乡寻找宝藏-1](https://ok.166.net/gameyw-gbox/bot/205/20260527/4df0a79061b0bf170cc1367b90cc8911f6746d09.jpg)
 
 ---
 
 
-#### 📍 祈祷侍从
+#### 📍 云野-挥手钟匠
 
-【禁阁·祈祷侍从】
-先祖位置：禁阁一楼四人门里
-如何进入：
-1.需先获得禁阁二层先祖的动作(气功动作)　　　>>>气功动作第一层，在升降台的右侧和小伙伴合力打开四人门
-3.先祖就在走廊的尽头安静等候~
+【云野·挥手钟匠】
+先祖位置：进入云野仙乡，飞向中间的小岛，在小岛主路上，先祖就在路旁等候~
 兑换图鉴：
-大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=祈祷侍从
+ 大神推荐：迁徙季第九个任务，寻找迁徙钟匠！https://ds.163.com/feed/69425687bf5d676d0fa306ca/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.561y1a&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=云野-挥手钟匠
 
 
-![祈祷侍从-1](https://ok.166.net/gameyw-gbox/bot/205/20220512/86afcfb629391f3cb0cd51a3022bb4298a31d8e5.png)
-![祈祷侍从-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/94472a24a7ded6b9064de82f8e30efbfb77a7701.png)
-![祈祷侍从-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/b4ca8bf4a26ffdbd017ec6b72fafd046351d7259.png)
+![挥手钟匠-1](https://ok.166.net/gameyw-gbox/bot/205/20210722/11ce5830a364a8d17bdf5b67439dcb767c9942dd.png)
+![挥手钟匠-2](https://ok.166.net/gameyw-gbox/bot/205/20230717/2bede0f93b2916977c3d9bc8ea19d36815cbeb9b.jpg)
+![挥手钟匠-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/694b721934510e82dee02cbfcf9699aef8058bb7.png)
 
 ---
 
