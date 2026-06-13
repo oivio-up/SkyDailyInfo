@@ -19,60 +19,52 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年06月12日 每日任务
+## 📅 2026年06月13日 每日任务
 
-> 最后更新: 2026年06月12日 08:56:17 (北京时间)
+> 最后更新: 2026年06月13日 08:55:41 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在禁阁追逐散落的星光
-2. 向一位朋友招手
-3. 在荧光小菇旁回复能量
-4. 前往禁阁，重温礼貌学者的回忆
+1. 点燃20根蜡烛
+2. 点亮一位玩家
+3. 拾起一只螃蟹
+4. 前往云野，重温鸟语者的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区晴朗，幽光山洞将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/715405a13b73fcd6d63a29c3abc476e076a10ea6.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/effcd6c7d666853ef93ff03139e772c65985f5ac.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7e5e9cc9846b7ca0daeadb965deaa2db8f064282.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260609/dfc60b275f5edba3e60601132f2a0bf389c46688.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260612/f7e329edac0781712f6a91182a12607ac6643956.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在禁阁追逐散落的星光
+#### 📍 云野-鸟语者
 
-【每日任务－在禁阁追逐散落的星光】
-位置：禁阁大厅
-指引：进入禁阁后即可看到天上的星光在飞哦
-大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在禁阁追逐散落的星光
-
-
-![禁阁星光-1](https://ok.166.net/gameyw-gbox/bot/205/20211109/3a610f3ddd435119a767553347d5fd8ee76c3763.png)
-
----
+【云野·鸟语者】　>>点击查看：迁徙鸟语者位置先祖位置：
+1、先来到云野蝴蝶平原
+2、在解锁四个云野先祖后右边会出现一个云洞，进入云洞前往云顶浮石
+3、来到云顶浮石后飞到前方高处残塔前，先祖在塔下等候~
+兑换图鉴：
+2、若在图示位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=云野-鸟语者
 
 
-#### 📍 礼貌学者
-
-【禁阁·礼貌学者】
-先祖位置：来到禁阁的第三层后，飞到远处飘浮石板上，先祖就在浮石上等候~
-（找不到先祖时，可留意下是否其他旅人正在收集）
-视频攻略：
-https://ok.166.net/gameyw-gbox/bot/205/20260518/b47c074eedb3f0b57b398aec1fac3a364d392ede.mp4
-点击查看：如何前往禁阁第三层
-大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=礼貌学者
-
-
-![礼貌学者-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/7545b38b8ca536aab8c8c80ac1930c779ddd66d8.png)
+![鸟语者-1](https://ok.166.net/gameyw-gbox/bot/205/20250521/0d2fdb1d3bef3a7d7e172565b2e6f37954899865.jpg)
+![鸟语者-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/fde708326debdaae683ef648eac998845c847c1f.png)
 
 ---
 
