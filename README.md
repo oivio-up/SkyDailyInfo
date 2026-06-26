@@ -19,25 +19,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年06月25日 每日任务
+## 📅 2026年06月26日 每日任务
 
-> 最后更新: 2026年06月25日 08:49:54 (北京时间)
+> 最后更新: 2026年06月26日 08:51:39 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在水母上回复能量
-2. 点亮一位玩家
-3. 接受一位朋友的礼物
-4. 在霞光城捕捉浮动的光点
+1. 点燃20根蜡烛
+2. 向一位朋友招手
+3. 向一位玩家鞠躬
+4. 与火花家长一起欣赏鱼群
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在黑水港湾
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/1460da0ae70d5f4c56ba23c0b51510eb271320e1.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/e7df53cc9e6cee939bffe4bc4fc92e702f61b38e.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/26adc6bbf8f6db1fb6231d67796173db0d15f92c.jpg)
 
 
 ### 📅 本月日历
@@ -48,38 +56,18 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 每日任务-火花家长在云巢需要帮助
 
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
-大神推荐：雨林开图攻略，萌新必看！https://ds.163.com/feed/69f863f7add4467985dbc8d3/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.crx7h0&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
-
-
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
-
----
-
-
-#### 📍 每日任务-在霞光城捕捉浮动的光点
-
-【每日任务-在霞光城捕捉浮动的光点】
-1.进入霞谷后，一路往前，前往滑冰场
-2.来到滑冰场后，往左走即可前往霞光城
-3.到达霞光城，能看到天空上浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、需先收集一位霞谷的先祖，才能进入霞光城哦
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
+【火花家长在云巢需要帮助】
+任务流程：
+1、前往云巢-冥想之地
+3、在冥想之地找到先祖
+4、与先祖一起欣赏鱼群
 图片指引：
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在霞光城捕捉浮动的光点
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-火花家长在云巢需要帮助
 
 
-![霞光城捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ec97ceeef2392122f263e9c25899fe11be2f92ab.jpg)
-![霞光城捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/26a1c7103709cd47696cbfbed09a950a8c63bd6c.jpg)
-![霞光城捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260410/1af7c105f15d0c1914ba862b88d02529f07e6ab6.jpg)
+![云巢帮助火花家长-1](https://ok.166.net/gameyw-gbox/bot/205/20260618/4085230834904fe632fa9b5d4344fb78d0574a84.jpg)
 
 ---
 
