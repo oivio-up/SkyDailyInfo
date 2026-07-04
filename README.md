@@ -19,58 +19,62 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年07月03日 每日任务
+## 📅 2026年07月04日 每日任务
 
-> 最后更新: 2026年07月03日 10:49:27 (北京时间)
+> 最后更新: 2026年07月04日 10:45:13 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在幽光山洞里冥想
-2. 接受一位朋友的礼物
-3. 向一位朋友招手
-4. 前往云野重温犯困船匠的回忆
+1. 给一位朋友送礼
+2. 点亮一位玩家
+3. 收集30点烛火
+4. 在风行网道捕捉三个光之碎片
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区地区夜间晴朗，雨林神殿将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221103/cc8d6b88287e18a3518cea2a91990203f5f26d8c.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/52351c8b52321f498f702a290b7e1efec9e168c4.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/0a2180bf29047641dd3e08bdfcd4cc0bcc36711a.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/cf1ee555676c2da00388f2197ca73804d1e0a6f7.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260618/bb46057be80ae38042046da47a594f7869af7902.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260703/dc60ba3117b87c7c9ba7be1faee2cc681a26617d.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在幽光山洞里冥想
+#### 📍 每日任务-在风行网道捕捉浮动的光点
 
-【每日任务－在幽光山洞里冥想】
-任务：在幽光山洞里冥想
-位置：在云野－幽光山洞(左侧隐藏图)
-步骤：穿越云野大厅后，前往左侧隐藏门，进去后往洞口里飞就看到啦
+【在风行网道捕捉浮动的光点】
+1、先前往雨林大厅
+2、往右飞，找到风行网道入口
+3、到达风行网道后向前飞，能看到浮动的光点，触碰后可捕捉光点.
+小精灵提醒您：
+1、进入风行网道先收集一位禁阁常驻先祖哦　　　　　>>>点击查看
+2、需要收集三个光点
+3、在收集过程中若光点消失，旅人可尝试重新进入地图
+图片指引：
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在风行网道捕捉浮动的光点
 
 
-![幽光山洞冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20211213/55e770eb3e49e6071a0daf11d00ea939d60ee867.png)
-![幽光山洞冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211213/c95a813a68571c91ad755b1bd318835383a399d4.png)
-
----
-
-
-#### 📍 犯困船匠
-
-【云野·犯困船匠】
-先祖位置：进入云野仙乡，飞向中间尖塔下的大门，和小伙伴合力打开大门，先祖在门里等你~
-https://ok.166.net/gameyw-gbox/bot/205/20210722/11ce5830a364a8d17bdf5b67439dcb767c9942dd.png
-https://ok.166.net/gameyw-gbox/bot/205/20210722/fcdd618ce4ff1adecc95286519407833cd165512.jpg
-兑换图鉴：https://ok.166.net/gameyw-gbox/bot/205/20210722/f9656e44f7b41164c0e61ad718b843ce7a3bd21d.png
-https://ok.166.net/gameyw-gbox/bot/205/20230428/1aaf6de028543afd3015eb6ca2b387c233decfc4.png?exter=dianzanv3
-
+![风行网道捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a7eddd11925c36d014e6977cab531af7e196a76b.jpg)
+![风行网道捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/76d0c8dc8163fd0560185a10da4f25bb83a3b263.jpg)
+![风行网道捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260702/f042a0e1279a0b1b3f3d12cff2b4387e5d0669b0.jpg)
 
 ---
 
