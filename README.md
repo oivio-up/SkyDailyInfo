@@ -19,35 +19,35 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年07月04日 每日任务
+## 📅 2026年07月05日 每日任务
 
-> 最后更新: 2026年07月04日 10:45:13 (北京时间)
+> 最后更新: 2026年07月05日 10:55:45 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 给一位朋友送礼
-2. 点亮一位玩家
-3. 收集30点烛火
-4. 在风行网道捕捉三个光之碎片
+1. 在霞光城拱门上冥想
+2. 净化10株黑暗植物
+3. 掀翻5只螃蟹
+4. 帮助健忘说书人
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区地区夜间晴朗，雨林神殿将会有灼热碎片降落
+天气播报：大部分地区地区阴天多云，雪隐峰将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/52351c8b52321f498f702a290b7e1efec9e168c4.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220826/e9fc29dad0dc87f517b5909294a55e0c618427d5.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/0a2180bf29047641dd3e08bdfcd4cc0bcc36711a.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/cf1ee555676c2da00388f2197ca73804d1e0a6f7.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/f6f6f4e0dcdc8cd24d1c8ca57ce831115433a127.jpg)
 
 
 ### 📅 本月日历
@@ -58,23 +58,32 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在风行网道捕捉浮动的光点
+#### 📍 每日任务－在霞光城拱门上冥想
 
-【在风行网道捕捉浮动的光点】
-1、先前往雨林大厅
-2、往右飞，找到风行网道入口
-3、到达风行网道后向前飞，能看到浮动的光点，触碰后可捕捉光点.
-小精灵提醒您：
-1、进入风行网道先收集一位禁阁常驻先祖哦　　　　　>>>点击查看
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在风行网道捕捉浮动的光点
+【每日任务－在霞光城拱门上冥想】
+任务：在霞光城拱门上冥想
+位置：霞光城－城门上
+步骤：通过霞谷溜冰场左侧的入口进入霞光城，在霞光城门口上面
+https://ok.166.net/gameyw-gbox/bot/205/20241023/971aab811c5c15a1b7019745d2cf30c69bb353ee.mp4
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在霞光城拱门上冥想
 
 
-![风行网道捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a7eddd11925c36d014e6977cab531af7e196a76b.jpg)
-![风行网道捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/76d0c8dc8163fd0560185a10da4f25bb83a3b263.jpg)
-![风行网道捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260702/f042a0e1279a0b1b3f3d12cff2b4387e5d0669b0.jpg)
+![霞光城拱门冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/8328fe1f13023335f06db270abe18c745f647a68.jpg)
+![霞光城拱门冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211116/ebfaeee8b1ab2e647ec910cf45fda3d812f31126.png)
+
+---
+
+
+#### 📍 每日任务－帮助健忘说书人
+
+【每日任务－帮助健忘说书人】
+请旅人先查看接到的任务名称，然后在下方选择对应指南
+在圆梦村剧场找到健忘说书人　｜　健忘说书人在圆梦村需要帮忙
+小精灵提示：
+1、若旅人从未收集过该先祖，任务会显示为：在圆梦村剧场找到健忘说书人；
+2、若旅人之前已收集过该先祖，任务会显示为：健忘说书人在在圆梦村需要帮忙
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－帮助健忘说书人
+
 
 ---
 
