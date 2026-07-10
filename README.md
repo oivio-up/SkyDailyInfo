@@ -19,25 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年07月09日 每日任务
+## 📅 2026年07月10日 每日任务
 
-> 最后更新: 2026年07月09日 10:50:12 (北京时间)
+> 最后更新: 2026年07月10日 10:52:31 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 拯救一只被黑暗藤蔓困住的遥鲲
-2. 接受一位朋友的礼物
-3. 向一位朋友招手
-4. 前往雨林重温躲猫猫拓荒者的回忆
+1. 和陌生人一起坐在长凳上
+2. 向一位玩家鞠躬
+3. 拾起一只螃蟹
+4. 收集蓝色光芒
 ```
 
 ### 🌤️ 天气预报
 
 天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
 
 
 ### 📅 本月日历
@@ -48,40 +48,41 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－拯救遥鲲
+#### 📍 掀螃蟹攻略
 
-【每日任务－拯救遥鲲】
-任务：拯救一只被黑暗藤蔓困住的遥鲲
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，一共有两处地点
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－拯救遥鲲
+【掀螃蟹】
+在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。走近后会出现小图标，点击就可以抓螃蟹了~
 
-
-![拯救遥鲲-1](https://ok.166.net/gameyw-gbox/bot/205/20260403/8ba2f18ad96e6e3821e2c1ae470e9416f0c80f44.jpg)
 
 ---
 
 
-#### 📍 雨林·躲猫猫拓荒者
+#### 📍 每日任务－蓝色光芒
 
-【雨林·躲猫猫拓荒者】
-先祖位置：（如果先祖不在原地，可能是其他旅人在进行收集，您可以在原地耐心等待其他旅人收集完毕或加入收集哦～～）
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260708/30f1cb881ef8397cbb89897c63a6dc7e8c4221e1.mp4
-兑换图鉴：
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=雨林·躲猫猫拓荒者
+【蓝色光芒】
+出现时机：
+1、当日的每日任务有“收集蓝色光芒”时
+2、接取了魔法季任务二时
+3、森灵日活动期间，当旅人任务解锁至“收集蓝色光芒 储备净水”时
+所在地图：霞谷溜冰场
+位置指引：进入溜冰场就可以看到蓝色光芒啦，但要注意它有时候会潜入水底哦
+今日推荐：猜猜看小萌新学会了吗？https://ds.163.com/feed/6a1f68f3b38b5c764c2f4d19/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.4k5r6o&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－蓝色光芒
 
 
-![躲猫猫拓荒者路线-1](https://ok.166.net/gameyw-gbox/bot/205/20251201/8a88417418f58635cb498db45cd981811f636f56.jpg)
-![躲猫猫拓荒者路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/04dce0b366417cab9fd318e06bb04b57249382ad.png)
+![蓝色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg)
+![蓝色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg)
+![蓝色光芒-3](https://ok.166.net/gameyw-gbox/bot/205/20211028/e79f01c1200fdebfee163d93701485982417fb61.png)
 
 ---
 
 
-#### 📍 季节蜡烛探索指南
+#### 📍 妙脆角-一颗爱心
 
-https://h5.ds.163.com/v1/69e5ead0d194ff003804f822/?utm_content=f_ma75.jl.jlct.default.tj3wil&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be
+小精灵被抓住啦！
+点击图片中的图标助力小精灵重获自由吧！
 
+
+![拯救小精灵-1](https://ok.166.net/gameyw-gbox/bot/205/20260709/fbd633d1ec75102b6139e8a3d1ca6649ec8d6d66.png)
 
 ---
 
