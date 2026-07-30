@@ -19,33 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年07月29日 每日任务
+## 📅 2026年07月30日 每日任务
 
-> 最后更新: 2026年07月29日 10:28:35 (北京时间)
+> 最后更新: 2026年07月30日 10:10:54 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 拾起一只螃蟹
-2. 在水母上回复能量
-3. 和朋友击掌
-4. 帮助火花家长
+1. 在霞光城上层冥想
+2. 点燃20根蜡烛
+3. 和陌生人一起坐在长凳上
+4. 帮助苦修行者
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有冷却碎片坠落在密林遗迹
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/a544b6f3757febce03e1a4fb480e22aebd82ef8b.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/8bf47c63932203ab1af656871dc6fe258786fd7c.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
 
 
 ### 📅 本月日历
@@ -56,45 +48,33 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 掀螃蟹攻略
+#### 📍 每日任务－在霞光城上层冥想
 
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
-今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
-![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
+【每日任务－在霞光城上层冥想】
+任务：在霞光城上层冥想
+位置：霞光城－飞行赛道入口前的平台
+步骤：通过霞谷溜冰场左侧的入口进入霞光城，在飞行赛道入口前的平台上即可看到
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260729/5414d023ea1c4925459aaf0c05d95aa2bb50d0cc.mp4
 
 
-#### 📍 每日任务·在水母上恢复能量
-
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
-大神推荐：雨林开图攻略，萌新必看！https://ds.163.com/feed/69f863f7add4467985dbc8d3/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.crx7h0&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
-
-
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
+![霞光城上层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ec97ceeef2392122f263e9c25899fe11be2f92ab.jpg)
+![霞光城上层冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/26a1c7103709cd47696cbfbed09a950a8c63bd6c.jpg)
+![霞光城上层冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20211026/57e513d11bbd8beb770b00b955b4ec435510b3b7.png)
 
 ---
 
 
-#### 📍 火花家长在云巢需要帮助
+#### 📍 苦修行者任务
 
-【火花家长在云巢需要帮助】
-先祖位置：云巢·冥想之地
-任务流程：
-1、在云巢找到冥想之地
-2、找到火花家长先祖，并在旁边坐下欣赏一会儿鱼群即可完成任务
-图片流程：
+【每日任务－帮助苦修行者】
+请旅人先查看接到的任务名称，然后在下方选择对应指南
+在云峰找到苦修行者　｜　苦修行者在云巢需要帮助
+小精灵提示：
+1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；
+2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在云巢需要帮助。
+今日推荐：当主包们一起直播七周年群星盛典https://ds.163.com/feed/6a55b3e33eeae9212c401c7d?utm_content=f_ma75.jl.jlctPT.default.i5xetj&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务
 
-
-![与火花家长一起欣赏鱼群-1](https://ok.166.net/gameyw-gbox/bot/205/20260618/4085230834904fe632fa9b5d4344fb78d0574a84.jpg)
 
 ---
 
