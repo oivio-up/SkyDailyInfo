@@ -19,33 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月09日 每日任务
+## 📅 2026年08月10日 每日任务
 
-> 最后更新: 2026年08月09日 09:35:44 (北京时间)
+> 最后更新: 2026年08月10日 09:39:19 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在雪隐峰捕捉浮动的光点
-2. 拾起一只螃蟹
-3. 收集30点烛火
-4. 前往霞谷重温杂耍演员的回忆
+1. 向一位玩家鞠躬
+2. 净化10株黑暗植物
+3. 和陌生人一起坐在长凳上
+4. 前往暮土重温行礼船长的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区地区阴天多云，秘密花园将会有灼热碎片降落
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220908/055ea4cb33d2947515bc7939b0bb3b43361cdc7f.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/c4cc81638b4b2111e6ff6389d821a7f997ac7c81.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/3ec9e60fa2b272546d22c4f828bb57abd36763da.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
 
 
 ### 📅 本月日历
@@ -56,58 +48,23 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在雪隐峰捕捉浮动的光点
+#### 📍 暮土-行礼船长
 
-【在雪隐峰捕捉浮动的光点】
-1.进入霞谷后，往右走，前往圆梦村
-2.来到圆梦村后，往前走找到飞船站点
-3.点亮飞船站点的机关，召唤飞船
-4.乘坐飞船一路往上走即可来到雪隐峰
-5.到达雪隐峰后向前走，能看到浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、进入圆梦村需要收集一位暮土常驻先祖　　　　　>>>点击查看
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/020bae4fb35971d6064cb7d53b9d11263a505c9f.mp4
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在雪隐峰捕捉浮动的光点
+【暮土·行礼船长】
+先祖位置：解锁一个暮土先祖后，进入黑水港湾(沉船图)里，飞到沉船的残骸后面，即可看到先祖
+视频攻略：
+https://ok.166.net/gameyw-gbox/bot/205/20260511/8736af761b3e2a81e9552aaebfd895acfc1e0135.mp4
+兑换图鉴：
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=暮土-行礼船长
 
 
-![雪隐峰捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
-![雪隐峰捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg)
-![雪隐峰捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg)
-![雪隐峰捕捉光点-4](https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg)
-![雪隐峰捕捉光点-5](https://ok.166.net/gameyw-gbox/bot/205/20260209/e1b90d51ad16994f40a7c5630d83f21112b05a65.jpg)
-![雪隐峰捕捉光点-6](https://ok.166.net/gameyw-gbox/bot/205/20260209/2bcdb4bf30e310601930be01ed60b9a89cdd5980.jpg)
-
----
-
-
-#### 📍 掀螃蟹攻略
-
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
-今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
-![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
-
-
-#### 📍 音韵季杂耍演员路线
-
-【音韵季·杂耍演员位置】
-先祖位置：霞谷·滑冰场
-图片指引：
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20241023/e8b6b222913545c120100aed3352ffbed4e3c1fc.mp4
-2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
-大神推荐：自然净化大作战https://h5.ds.163.com/v1/69e0a345ebcc480032a3b0f0/?utm_content=f_ma75.jl.jlctPT.default.zewjdu&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=音韵季杂耍演员路线
-
-
-![杂耍演员路线-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/5f5a3048e44c089502daceacc2da1bc6cacc4bb3.jpg)
+![行礼船长路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
+![行礼船长路线-2](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
+![行礼船长路线-3](https://ok.166.net/gameyw-gbox/bot/205/20220830/e7df53cc9e6cee939bffe4bc4fc92e702f61b38e.jpg)
+![行礼船长路线-4](https://ok.166.net/gameyw-gbox/bot/205/20220823/26adc6bbf8f6db1fb6231d67796173db0d15f92c.jpg)
+![行礼船长路线-5](https://ok.166.net/gameyw-gbox/bot/205/20210723/ea3571d003d52ab8e9d53296d40e3f5fe8b9295b.png)
+![行礼船长路线-6](https://ok.166.net/gameyw-gbox/bot/205/20220511/16d5adfbc750e35f9c868b0ac43f867dbde67ad1.png)
+![行礼船长路线-7](https://ok.166.net/gameyw-gbox/bot/205/20210722/d5641a22f082c6be69e9e61f6629c91579229575.png)
 
 ---
 
