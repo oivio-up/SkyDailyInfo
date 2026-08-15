@@ -19,54 +19,69 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月14日 每日任务
+## 📅 2026年08月15日 每日任务
 
-> 最后更新: 2026年08月14日 09:47:05 (北京时间)
+> 最后更新: 2026年08月15日 09:06:30 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 接受一位朋友的礼物
-2. 向一位玩家鞠躬
-3. 点亮一位玩家
-4. 在霞光城捕捉浮动的光点
+1. 在黑水港湾的沉船上冥想
+2. 收集30点烛火
+3. 向一位朋友招手
+4. 前往暮土重温敬礼护卫的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区地区夜间晴朗，圆梦村将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/ddb5d4517646aad4414b40c94671daf2eaec7782.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220824/69b5010968240ef0a63be0c6ebd9c565b1280279.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260731/21554cf20954f4e59b04741123cb1d9d30a42774.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260814/dbfc449d9cc57eac3ecc20566ad40f5d8902ac7c.png)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在霞光城捕捉浮动的光点
+#### 📍 每日任务－在黑水港湾的沉船上冥想
 
-【每日任务-在霞光城捕捉浮动的光点】
-1.进入霞谷后，一路往前，前往滑冰场
-2.来到滑冰场后，往左走即可前往霞光城
-3.到达霞光城，能看到天空上浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、需先收集一位霞谷的先祖，才能进入霞光城哦
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
+【每日任务－在黑水港湾的沉船上冥想】
+任务：在黑水港湾的沉船上冥想
+位置：暮土黑水港湾(沉船图)－沉船里
+步骤：进入暮土后在第二个地图进入黑水港湾，前往沉船里即可找到冥想点
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260721/cd37ce37b98f363f10a57461122962012528eab5.mp4
+今日推荐：当主包们一起直播七周年群星盛典https://ds.163.com/feed/6a55b3e33eeae9212c401c7d?utm_content=f_ma75.jl.jlctPT.default.i5xetj&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在黑水港湾的沉船上冥想
+
+
+![黑水港湾冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
+![黑水港湾冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
+![黑水港湾冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20220830/e7df53cc9e6cee939bffe4bc4fc92e702f61b38e.jpg)
+![黑水港湾冥想-4](https://ok.166.net/gameyw-gbox/bot/205/20220823/26adc6bbf8f6db1fb6231d67796173db0d15f92c.jpg)
+![黑水港湾冥想-5](https://ok.166.net/gameyw-gbox/bot/205/20211101/bc45389fb0066906ac9131e6ac0b453d0e06d84f.png)
+
+---
+
+
+#### 📍 感谢季敬礼护卫路线
+
+【感谢季·敬礼护卫路线】
+先祖位置：暮土·巨兽荒原
 视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260813/bab7ca918588f50495903f6bf9f7e4e1716387c3.mp4
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在霞光城捕捉浮动的光点
+https://ok.166.net/gameyw-gbox/bot/205/20260814/7f81fc66c29fa72956655e549a797ecce0b1ff7e.mp4
+今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=感谢季敬礼护卫路线
 
 
-![霞光城捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ec97ceeef2392122f263e9c25899fe11be2f92ab.jpg)
-![霞光城捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/26a1c7103709cd47696cbfbed09a950a8c63bd6c.jpg)
-![霞光城捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260410/1af7c105f15d0c1914ba862b88d02529f07e6ab6.jpg)
+![敬礼护卫路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240928/ebaff0077a37e2d2f7da0a94bb2abfc8d3e58d37.jpg)
+![敬礼护卫路线-2](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
 
 ---
 
