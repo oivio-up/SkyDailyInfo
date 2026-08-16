@@ -19,29 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月15日 每日任务
+## 📅 2026年08月16日 每日任务
 
-> 最后更新: 2026年08月15日 09:06:30 (北京时间)
+> 最后更新: 2026年08月16日 09:10:45 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在黑水港湾的沉船上冥想
-2. 收集30点烛火
-3. 向一位朋友招手
-4. 前往暮土重温敬礼护卫的回忆
+1. 给一位朋友送礼
+2. 净化10株黑暗植物
+3. 接受一位朋友的礼物
+4. 二重奏季向导在星光沙漠需要帮助
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区地区夜间晴朗，圆梦村将会有灼热碎片降落
+天气播报：今日将会有灼热碎片坠落在失落方舟
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/ddb5d4517646aad4414b40c94671daf2eaec7782.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/a02205bc4f8fe7b09e42af43633dceaf0d672544.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/f5fe6ec25730803d454c3e0207a11f84788e9243.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220824/69b5010968240ef0a63be0c6ebd9c565b1280279.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/854dc8ac7d80bdc66e5644d3bfe34c52b2bf3dff.jpg)
 
 
 ### 📅 本月日历
@@ -52,36 +52,21 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在黑水港湾的沉船上冥想
+#### 📍 每日任务－二重奏季向导在星光沙漠需要帮助
 
-【每日任务－在黑水港湾的沉船上冥想】
-任务：在黑水港湾的沉船上冥想
-位置：暮土黑水港湾(沉船图)－沉船里
-步骤：进入暮土后在第二个地图进入黑水港湾，前往沉船里即可找到冥想点
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260721/cd37ce37b98f363f10a57461122962012528eab5.mp4
-今日推荐：当主包们一起直播七周年群星盛典https://ds.163.com/feed/6a55b3e33eeae9212c401c7d?utm_content=f_ma75.jl.jlctPT.default.i5xetj&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在黑水港湾的沉船上冥想
-
-
-![黑水港湾冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
-![黑水港湾冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
-![黑水港湾冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20220830/e7df53cc9e6cee939bffe4bc4fc92e702f61b38e.jpg)
-![黑水港湾冥想-4](https://ok.166.net/gameyw-gbox/bot/205/20220823/26adc6bbf8f6db1fb6231d67796173db0d15f92c.jpg)
-![黑水港湾冥想-5](https://ok.166.net/gameyw-gbox/bot/205/20211101/bc45389fb0066906ac9131e6ac0b453d0e06d84f.png)
-
----
+【二重奏季向导在星光沙漠需要帮助】
+任务地点：禁阁－星光沙漠一隅
+如何完成：
+1、先前往星光沙漠一隅，找到二重季向导
+2、与二重季向导一起演奏
+3、演奏完毕后，与二重季向导互动拥抱，即可完成任务
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260722/d0ca6252fa81876a8805324689460cbcce8e4c58.mp4
+今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－二重奏季向导在星光沙漠需要帮助
 
 
-#### 📍 感谢季敬礼护卫路线
-
-【感谢季·敬礼护卫路线】
-先祖位置：暮土·巨兽荒原
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260814/7f81fc66c29fa72956655e549a797ecce0b1ff7e.mp4
-今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=感谢季敬礼护卫路线
-
-
-![敬礼护卫路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240928/ebaff0077a37e2d2f7da0a94bb2abfc8d3e58d37.jpg)
-![敬礼护卫路线-2](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+![帮助二重季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20260721/c85a100e629deb45fff0e5342c946f27d3ef9f32.jpg)
+![帮助二重季向导-2](https://ok.166.net/gameyw-gbox/bot/205/20260721/45fb4cdc9f4ae8bf3f746d952bf9b3830ec6c0c9.jpg)
+![帮助二重季向导-3](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
 
 ---
 
