@@ -19,25 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月17日 每日任务
+## 📅 2026年08月18日 每日任务
 
-> 最后更新: 2026年08月17日 09:08:08 (北京时间)
+> 最后更新: 2026年08月18日 09:06:12 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在云顶浮石上冥想
-2. 在水母上回复能量
-3. 向一位朋友做个动作
-4. 风行季向导在仙乡需要帮助
+1. 在风行网道捕捉三个光之碎片
+2. 和陌生人一起坐在长凳上
+3. 拯救一只被黑暗藤蔓困住的遥鲲
+4. 帮助火花家长
 ```
 
 ### 🌤️ 天气预报
 
 天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221103/cc8d6b88287e18a3518cea2a91990203f5f26d8c.jpg)
 
 
 ### 📅 本月日历
@@ -48,51 +48,53 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在云顶浮石上冥想
+#### 📍 每日任务-在风行网道捕捉浮动的光点
 
-【每日任务－在云顶浮石上冥想】
-位置：云野右侧隐藏地图
-路线：进入云野后，往右进入隐藏图，前往第二个浮岛
-图文指引：
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260811/7d07e52aa6ab003f390ba74012886c663f8533c5.mp4
-今日推荐：猜猜看小萌新学会了吗？https://ds.163.com/feed/6a1f68f3b38b5c764c2f4d19/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.4k5r6o&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在云顶浮石上冥想
+【在风行网道捕捉浮动的光点】
+1、先前往雨林大厅
+2、往右飞，找到风行网道入口
+3、到达风行网道后向前飞，能看到浮动的光点，触碰后可捕捉光点.
+小精灵提醒您：
+1、进入风行网道先收集一位禁阁常驻先祖哦　　　　　>>>点击查看
+2、需要收集三个光点
+3、在收集过程中若光点消失，旅人可尝试重新进入地图
+图片指引：
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在风行网道捕捉浮动的光点
 
 
-![云顶浮石冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20211027/1101b1e9a892f4f47164cef562f465856a157e27.png)
-![云顶浮石冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211109/8c2128f2a4b5f5b37be17c2c517086a918ea9013.png)
+![风行网道捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a7eddd11925c36d014e6977cab531af7e196a76b.jpg)
+![风行网道捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/76d0c8dc8163fd0560185a10da4f25bb83a3b263.jpg)
+![风行网道捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260702/f042a0e1279a0b1b3f3d12cff2b4387e5d0669b0.jpg)
 
 ---
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 每日任务－拯救遥鲲
 
-【每日任务－在水母上恢复能量】
+【每日任务－拯救遥鲲】
+任务：拯救一只被黑暗藤蔓困住的遥鲲
 位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+步骤：密林遗迹后往前飞，一共有两处地点
+ 今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－拯救遥鲲
 
 
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
+![拯救遥鲲-1](https://ok.166.net/gameyw-gbox/bot/205/20260403/8ba2f18ad96e6e3821e2c1ae470e9416f0c80f44.jpg)
 
 ---
 
 
-#### 📍 每日任务-风行季向导在仙乡需要帮助（读书）
+#### 📍 火花家长任务
 
-【风行季向导在仙乡需要帮助】
-任务地点：云野－仙乡
-如何完成：
-1、先前往仙乡，找到风行季向导
-2、与风行季向导一同阅读一段时间即可完成任务
-小精灵提醒旅人：到达仙乡后点击角色可以获得星光指引，星光将指引旅人更快的找到先祖位置哦~
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260814/386fdaf21a3893dcc4964afffdb430671ea1fc08.mp4
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-风行季向导在仙乡需要帮助（读书）
+【每日任务－帮助火花家长】
+请旅人先查看接到的任务名称，然后在下方选择对应指南
+在霞谷神殿找到火花家长　｜　火花家长在云巢需要帮助
+小精灵提示：
+1、若旅人从未收集过该先祖，任务会显示为：在霞谷神殿找到火花家长；
+2、若旅人之前已收集过该先祖，任务会显示为：火花家长在云巢需要帮助。
+今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=火花家长任务
 
 
-![仙乡与风行季向导读书-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg)
-![仙乡与风行季向导读书-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg)
-![仙乡与风行季向导读书-3](https://ok.166.net/gameyw-gbox/bot/205/20260814/31de60c378b9c87152379fa9542e2944ec55a40b.jpg)
+![火花家长任务-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
 
 ---
 
