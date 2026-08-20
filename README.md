@@ -19,33 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月19日 每日任务
+## 📅 2026年08月20日 每日任务
 
-> 最后更新: 2026年08月19日 09:06:58 (北京时间)
+> 最后更新: 2026年08月20日 09:06:22 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 净化10株黑暗植物
-2. 掀翻5只螃蟹
-3. 接受一位朋友的礼物
-4. 帮助鸣谢收藏家
+1. 和陌生人一起坐在长凳上
+2. 给一位朋友送礼
+3. 点亮一位玩家
+4. 前往暮土重温昏厥战士的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有冷却碎片坠落在密林遗迹
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/a544b6f3757febce03e1a4fb480e22aebd82ef8b.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/8bf47c63932203ab1af656871dc6fe258786fd7c.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
 
 
 ### 📅 本月日历
@@ -56,28 +48,17 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 掀螃蟹攻略
+#### 📍 暮土-昏厥战士
 
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
-今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
-![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
+【暮土·昏厥战士】
+先祖位置：穿过暮土风暴，降落后寻找一根倾斜的柱子，先祖在柱子周围等候~
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260819/4cb03c31a64ff4e10c115d078d764b2db37547ee.mp4
+兑换图鉴：
+ 今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-昏厥战士
 
 
-#### 📍 鸣谢收藏家任务
-
-【每日任务－帮助鸣谢收藏家】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在圣岛找到鸣谢收藏家　｜　鸣谢收藏家在云巢需要帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在圣岛找到鸣谢收藏家；
-2、若旅人之前已收集过该先祖，任务会显示为：鸣谢收藏家在云巢需要帮助。
-
+![昏厥战士路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220922/4045aeb960b0d553b65f593adbc6e41dc742be9f.jpg)
+![昏厥战士路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/030914bd48b5b68c332911c45fb0e7c0ab78f20b.png)
 
 ---
 
