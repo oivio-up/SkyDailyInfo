@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月22日 每日任务
+## 📅 2026年08月23日 每日任务
 
-> 最后更新: 2026年08月22日 09:06:26 (北京时间)
+> 最后更新: 2026年08月23日 09:11:34 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 收集绿色光芒
-2. 给一位朋友送礼
-3. 向一位朋友做个动作
-4. 帮助光之低语者
+1. 在雨林追逐散落的星光
+2. 接受一位朋友的礼物
+3. 拾起一只螃蟹
+4. 收集橙色光芒
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在圣岛
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/3b9ba0c28bc1475318594364f8bc9abd459177c6.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/8ad3cf89e9d1914e2c029acbef579fca80fd2830.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/45550c764ba6f31572e2c992663dfa4f881734bd.jpg)
 
 
 ### 📅 本月日历
@@ -48,33 +52,46 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 绿色光芒
+#### 📍 每日任务－在雨林追逐散落的星光
 
-【绿色光芒】
-光芒位置：云野右侧隐藏图
-位置指引：进入云野后，往右进入云顶浮石，前往左边第一个浮岛，绿色光芒会在每一个整点降落
-1、例如00:30、4:50、8:20这些刚好到10的整数的都是整点
-2、不建议踩点到达，建议提前一两分钟在上述地点等待，踩点到达非常容易错过
-3、若无论如何等待都无法看见光芒，请检查是否已接取相关任务
-大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=绿色光芒
+【每日任务－在雨林追逐散落的星光】
+位置：雨林－静谧庭院
+指引：进入雨林后，勇敢往下跳进入静谧庭院，星光就在庭院里飞
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在雨林追逐散落的星光
 
 
-![绿色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20211027/1101b1e9a892f4f47164cef562f465856a157e27.png)
-![绿色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20211027/ccaeb73909fe8b6d7815bd4b68bb9906aba637ae.png)
+![雨林星光-1](https://ok.166.net/gameyw-gbox/bot/205/20220529/d276e537a68b7afe34994a613f7d1f403d8d9ae4.png)
 
 ---
 
 
-#### 📍 每日任务-帮助光之低语者
+#### 📍 掀螃蟹攻略
 
-【每日任务－帮助光之低语者】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在风行网道找到光之低语者　｜　光之低语者在云顶浮石需要帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在风行网道找到光之低语者；
-2、若旅人之前已收集过该先祖，任务会显示为：光之低语者在云顶浮石需要帮助
-大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-帮助光之低语者
+【掀螃蟹】
+在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
+走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
 
+
+![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+
+---
+
+
+#### 📍 每日任务－橙色光芒
+
+【每日任务－橙色光芒】
+位置：雨林三图
+指引：进入雨林三图后往左飞，找到合适的点位等待即可
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260719/dd6b01556e0e569e39478a219a1c9dad2b06f259.mp4
+今日推荐：猜猜看小萌新学会了吗？https://ds.163.com/feed/6a1f68f3b38b5c764c2f4d19/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.4k5r6o&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－橙色光芒
+
+
+![橙色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+![橙色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+![橙色光芒-3](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+![橙色光芒-4](https://ok.166.net/gameyw-gbox/bot/205/20211104/cd73cd6824068c6822646356321b585dca54e817.png)
+![橙色光芒-5](https://ok.166.net/gameyw-gbox/bot/205/20211104/451f733ba36eda5ae2cc993a30e1b0c3dc45547f.png)
 
 ---
 
