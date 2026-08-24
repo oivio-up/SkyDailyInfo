@@ -19,29 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月23日 每日任务
+## 📅 2026年08月24日 每日任务
 
-> 最后更新: 2026年08月23日 09:11:34 (北京时间)
+> 最后更新: 2026年08月24日 09:09:28 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在雨林追逐散落的星光
-2. 接受一位朋友的礼物
-3. 拾起一只螃蟹
-4. 收集橙色光芒
+1. 在霞光城上层冥想
+2. 收集30点烛火
+3. 净化10株黑暗植物
+4. 前往霞谷重温螺旋舞蹈冠军的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在圣岛
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/3b9ba0c28bc1475318594364f8bc9abd459177c6.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/8ad3cf89e9d1914e2c029acbef579fca80fd2830.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/45550c764ba6f31572e2c992663dfa4f881734bd.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg)
 
 
 ### 📅 本月日历
@@ -52,46 +48,34 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在雨林追逐散落的星光
+#### 📍 每日任务－在霞光城上层冥想
 
-【每日任务－在雨林追逐散落的星光】
-位置：雨林－静谧庭院
-指引：进入雨林后，勇敢往下跳进入静谧庭院，星光就在庭院里飞
-今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在雨林追逐散落的星光
-
-
-![雨林星光-1](https://ok.166.net/gameyw-gbox/bot/205/20220529/d276e537a68b7afe34994a613f7d1f403d8d9ae4.png)
-
----
+【每日任务－在霞光城上层冥想】
+任务：在霞光城上层冥想
+位置：霞光城－飞行赛道入口前的平台
+步骤：通过霞谷溜冰场左侧的入口进入霞光城，在飞行赛道入口前的平台上即可看到
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260729/5414d023ea1c4925459aaf0c05d95aa2bb50d0cc.mp4
 
 
-#### 📍 掀螃蟹攻略
-
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
-今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
-![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+![霞光城上层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ec97ceeef2392122f263e9c25899fe11be2f92ab.jpg)
+![霞光城上层冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/26a1c7103709cd47696cbfbed09a950a8c63bd6c.jpg)
+![霞光城上层冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20211026/57e513d11bbd8beb770b00b955b4ec435510b3b7.png)
 
 ---
 
 
-#### 📍 每日任务－橙色光芒
+#### 📍 追光季螺旋舞蹈冠军路线
 
-【每日任务－橙色光芒】
-位置：雨林三图
-指引：进入雨林三图后往左飞，找到合适的点位等待即可
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260719/dd6b01556e0e569e39478a219a1c9dad2b06f259.mp4
-今日推荐：猜猜看小萌新学会了吗？https://ds.163.com/feed/6a1f68f3b38b5c764c2f4d19/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.4k5r6o&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－橙色光芒
+【追光季·螺旋舞蹈冠军路线】
+先祖位置：霞谷·滑冰场
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260821/71db0f069a1f160e4f6a3556b026a54ed811263c.mp4
+2、若在图示位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
+ 今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=追光季螺旋舞蹈冠军路线
 
 
-![橙色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
-![橙色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
-![橙色光芒-3](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
-![橙色光芒-4](https://ok.166.net/gameyw-gbox/bot/205/20211104/cd73cd6824068c6822646356321b585dca54e817.png)
-![橙色光芒-5](https://ok.166.net/gameyw-gbox/bot/205/20211104/451f733ba36eda5ae2cc993a30e1b0c3dc45547f.png)
+![螺旋舞蹈冠军路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240907/31c1cede7e773062ba2209fe8a6a5f5364697434.jpg)
 
 ---
 
