@@ -19,25 +19,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月25日 每日任务
+## 📅 2026年08月26日 每日任务
 
-> 最后更新: 2026年08月25日 09:08:15 (北京时间)
+> 最后更新: 2026年08月26日 09:10:38 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 点燃20根蜡烛
-2. 面对冥龙
-3. 在荧光小菇旁回复能量
-4. 帮助威严舰长
+1. 接受一位朋友的礼物
+2. 掀翻5只螃蟹
+3. 和陌生人一起坐在长凳上
+4. 向一位朋友招手
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有冷却碎片坠落在远古战场
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/5560667d9602b5a83c87e9362861ea306bc8bbad.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/8fc48d451ab6398373f0697fe56c4b2e076d3b18.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a1e7860f69a6dc598e88de24ebec4f99db39a3dd.jpg)
 
 
 ### 📅 本月日历
@@ -48,45 +56,15 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－面对冥龙
+#### 📍 掀螃蟹攻略
 
-【每日任务－面对冥龙】
-如何完成：被冥龙的探照灯照到一下即可完成
-推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
-推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4
-今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙
-
-
-![面对冥龙-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
+【掀螃蟹】
+在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
+走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
 
 
-#### 📍 荧光小菇
-
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
-今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
-
-
-![荧光小菇-1](https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png)
-![荧光小菇-2](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
-
-
-#### 📍 每日任务－帮助威严舰长
-
-【每日任务－帮助威严舰长】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在藏宝岛礁找到威严舰长　｜　威严舰长在藏宝岛礁需要帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在藏宝岛礁找到威严舰长；
-2、若旅人之前已收集过该先祖，任务会显示为：威严舰长在藏宝岛礁需要帮助
-
+![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
 
 ---
 
