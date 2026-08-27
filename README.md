@@ -19,33 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月26日 每日任务
+## 📅 2026年08月27日 每日任务
 
-> 最后更新: 2026年08月26日 09:10:38 (北京时间)
+> 最后更新: 2026年08月27日 15:21:30 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 接受一位朋友的礼物
-2. 掀翻5只螃蟹
-3. 和陌生人一起坐在长凳上
-4. 向一位朋友招手
+1. 向一位玩家鞠躬
+2. 点亮一位玩家
+3. 收集30点烛火
+4. 前往云野重温欢笑追光者的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有冷却碎片坠落在远古战场
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/5560667d9602b5a83c87e9362861ea306bc8bbad.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/8fc48d451ab6398373f0697fe56c4b2e076d3b18.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a1e7860f69a6dc598e88de24ebec4f99db39a3dd.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
 
 
 ### 📅 本月日历
@@ -56,15 +48,17 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 掀螃蟹攻略
+#### 📍 云野-欢笑追光者
 
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
-今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
+【云野·欢笑追光者】
+先祖位置：进入云野仙乡，飞向右边的小岛，在小岛前方的洞穴里，先祖就在里面等候~
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260826/07ad4961cd3c281bfe2cd921c0d07b974e647577.mp4兑换图鉴：
 
 
-![掀螃蟹攻略-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+![欢笑追光者路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg)
+![欢笑追光者路线-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg)
+![欢笑追光者路线-3](https://ok.166.net/gameyw-gbox/bot/205/20260826/b84e94b4d5a14522330f89c64566d88c6094bdd2.jpg)
+![欢笑追光者路线-4](https://ok.166.net/gameyw-gbox/bot/205/20210722/884696a34648bdefe18ee4002a3792b4d29490a8.png)
 
 ---
 
