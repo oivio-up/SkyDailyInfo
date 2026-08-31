@@ -19,35 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月30日 每日任务
+## 📅 2026年08月31日 每日任务
 
-> 最后更新: 2026年08月30日 11:42:12 (北京时间)
+> 最后更新: 2026年08月31日 11:42:55 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在巨兽荒原的神坛旁冥想
-2. 面对冥龙
-3. 向一位朋友做个动作
-4. 在水母上回复能量
+1. 和朋友击掌
+2. 给一位朋友送礼
+3. 点燃20根蜡烛
+4. 帮助二重奏季向导
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在雪隐峰
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/e55037cbfda140212726191decc074423dc871ba.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/f6f6f4e0dcdc8cd24d1c8ca57ce831115433a127.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
 
 
 ### 📅 本月日历
@@ -58,46 +48,21 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务·巨兽荒原冥想
+#### 📍 每日任务－二重奏季向导在星光沙漠需要帮助
 
-【每日任务－在巨兽荒原的神坛旁冥想】
-任务：在巨兽荒原的神坛旁冥想
-位置：暮土－巨兽荒原(四龙图)
-步骤：先进入暮土四龙图，往前飞，在下一个图的入口附近即可找到
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260724/5b379b72d2cc6c5bf8229ffe577806b88b190086.mp4
-
-
-![巨兽荒原冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220501/9f00b5292b249df318d4244b197bbd3e8087f16a.png)
-
----
+【二重奏季向导在星光沙漠需要帮助】
+任务地点：禁阁－星光沙漠一隅
+如何完成：
+1、先前往星光沙漠一隅，找到二重季向导
+2、与二重季向导一起演奏
+3、演奏完毕后，与二重季向导互动拥抱，即可完成任务
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260722/d0ca6252fa81876a8805324689460cbcce8e4c58.mp4
+今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－二重奏季向导在星光沙漠需要帮助
 
 
-#### 📍 每日任务－面对冥龙
-
-【每日任务－面对冥龙】
-如何完成：被冥龙的探照灯照到一下即可完成
-推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
-推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4
-今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙
-
-
-![面对冥龙-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
-
-
-#### 📍 每日任务·在水母上恢复能量
-
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
-大神推荐：雨林开图攻略，萌新必看！https://ds.163.com/feed/69f863f7add4467985dbc8d3/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.crx7h0&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
-
-
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
+![帮助二重季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20260721/c85a100e629deb45fff0e5342c946f27d3ef9f32.jpg)
+![帮助二重季向导-2](https://ok.166.net/gameyw-gbox/bot/205/20260721/45fb4cdc9f4ae8bf3f746d952bf9b3830ec6c0c9.jpg)
+![帮助二重季向导-3](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
 
 ---
 
