@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年08月31日 每日任务
+## 📅 2026年09月01日 每日任务
 
-> 最后更新: 2026年08月31日 11:42:55 (北京时间)
+> 最后更新: 2026年09月01日 11:37:28 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 和朋友击掌
-2. 给一位朋友送礼
-3. 点燃20根蜡烛
-4. 帮助二重奏季向导
+1. 和陌生人一起坐在长凳上
+2. 净化10株黑暗植物
+3. 向一位朋友做个动作
+4. 帮助风行季向导
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区地区阴天多云，边陲荒漠将会有冷却碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/be673eb1e0fd3dcca617ab74f9cb93eece21dc08.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/a3b9c920b2985fe4a2811634614fd5f8edebf920.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/94db03f650544a88830d8eb0d42b2838209f353a.jpg)
 
 
 ### 📅 本月日历
@@ -48,21 +52,24 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－二重奏季向导在星光沙漠需要帮助
+#### 📍 每日任务-风行季向导在云野神殿需要帮助
 
-【二重奏季向导在星光沙漠需要帮助】
-任务地点：禁阁－星光沙漠一隅
+【风行季向导在云野神殿需要帮助】
+任务地点：云野终点
 如何完成：
-1、先前往星光沙漠一隅，找到二重季向导
-2、与二重季向导一起演奏
-3、演奏完毕后，与二重季向导互动拥抱，即可完成任务
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260722/d0ca6252fa81876a8805324689460cbcce8e4c58.mp4
-今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－二重奏季向导在星光沙漠需要帮助
+1.进入云野后，一路往前，前往仙乡
+2.来到仙乡后，继续往前，前往神殿找到风行季向导
+3.与风行季向导交互并打坐
+4.动画结束后，与风行季向导互动，即可完成任务
+图片指引：
+视频指引:
+https://ok.166.net/gameyw-gbox/bot/205/20260210/55f6518d73b47fe64dc29b55bb86e544a9365941.mp4
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-风行季向导在云野神殿需要帮助
 
 
-![帮助二重季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20260721/c85a100e629deb45fff0e5342c946f27d3ef9f32.jpg)
-![帮助二重季向导-2](https://ok.166.net/gameyw-gbox/bot/205/20260721/45fb4cdc9f4ae8bf3f746d952bf9b3830ec6c0c9.jpg)
-![帮助二重季向导-3](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+![帮助风行季向导-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/7b406da97943b2e905431c7905099d106fc934e8.jpg)
+![帮助风行季向导-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/e68f660a3d3f90d9b76e6a3fa891cb8d6496b247.jpg)
+![帮助风行季向导-3](https://ok.166.net/gameyw-gbox/bot/205/20260210/1fb0aea20e50e2cdbb8120ba3de25438eece29c7.jpg)
 
 ---
 
