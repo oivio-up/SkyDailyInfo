@@ -34,6 +34,22 @@ addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
 
+// 恒定时间字符串比较，避免通过响应耗时差异逐字节猜测密钥
+async function timingSafeEqual(a, b) {
+  const enc = new TextEncoder()
+  const [digestA, digestB] = await Promise.all([
+    crypto.subtle.digest('SHA-256', enc.encode(a)),
+    crypto.subtle.digest('SHA-256', enc.encode(b))
+  ])
+  const viewA = new Uint8Array(digestA)
+  const viewB = new Uint8Array(digestB)
+  let diff = 0
+  for (let i = 0; i < viewA.length; i++) {
+    diff |= viewA[i] ^ viewB[i]
+  }
+  return diff === 0
+}
+
 async function handleRequest(request) {
   // CORS 预检请求
   if (request.method === 'OPTIONS') {
@@ -46,9 +62,9 @@ async function handleRequest(request) {
     })
   }
 
-  // 验证请求来源
-  const authHeader = request.headers.get('Authorization')
-  if (authHeader !== `Bearer ${API_SECRET}`) {
+  // 验证请求来源（使用恒定时间比较，防止时序攻击窃取密钥）
+  const authHeader = request.headers.get('Authorization') || ''
+  if (!(await timingSafeEqual(authHeader, `Bearer ${API_SECRET}`))) {
     return jsonResponse({ error: '未授权访问' }, 401)
   }
 
