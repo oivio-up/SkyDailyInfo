@@ -18,7 +18,6 @@
  * - NETEASE_TOKEN_API: 获取 token 的 API 地址
  * - NETEASE_TASK_API: 获取每日任务的 API 地址
  * - NETEASE_EVENT_API: 获取活动数据的 API 地址
- * - NETEASE_WEATHER_API: 获取天气预报的 API 地址
  * - NETEASE_TASK_ORIGIN: 任务 API 的 Origin 请求头
  * - NETEASE_TASK_REFERER: 任务 API 的 Referer 请求头
  * - NETEASE_USER_AGENT: User-Agent 请求头
@@ -34,21 +33,128 @@ addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
 
+const REQUIRED_CONFIG = [
+  'SKY_UID',
+  'SKY_GAME_UID',
+  'SKY_GAME_SERVER',
+  'API_SECRET',
+  'CACHE_TTL',
+  'NETEASE_TOKEN_API',
+  'NETEASE_TASK_API',
+  'NETEASE_EVENT_API',
+  'NETEASE_TASK_ORIGIN',
+  'NETEASE_TASK_REFERER',
+  'NETEASE_USER_AGENT',
+  'NETEASE_TOKEN_HOST'
+]
+
+const UPSTREAM_TIMEOUT_MS = 30000
+
+/**
+ * 读取并校验 Worker 环境变量。
+ * 经典 Service Worker 格式中的 bindings 可从 globalThis 访问。
+ */
+function getConfig() {
+  const config = {}
+  const missing = []
+
+  for (const name of REQUIRED_CONFIG) {
+    const value = globalThis[name]
+    if (typeof value !== 'string' || value.trim() === '') {
+      missing.push(name)
+    } else {
+      config[name] = value.trim()
+    }
+  }
+
+  if (missing.length > 0) {
+    throw new Error(`缺少必需的环境变量: ${missing.join(', ')}`)
+  }
+
+  config.SKY_GAME_SERVER = Number.parseInt(config.SKY_GAME_SERVER, 10)
+  if (!Number.isInteger(config.SKY_GAME_SERVER)) {
+    throw new Error('SKY_GAME_SERVER 必须是整数')
+  }
+
+  config.CACHE_TTL = Number.parseInt(config.CACHE_TTL, 10)
+  if (!Number.isInteger(config.CACHE_TTL) || config.CACHE_TTL < 60 || config.CACHE_TTL > 86400) {
+    throw new Error('CACHE_TTL 必须是 60 到 86400 之间的整数')
+  }
+
+  return config
+}
+
+/**
+ * 对两个字符串的摘要进行完整比较，避免普通字符串比较的早退。
+ * 这是低成本的防御性加固；真正的暴力破解防护仍然依赖高强度随机密钥和 Cloudflare 限速。
+ */
+async function timingSafeEqual(left, right) {
+  const encoder = new TextEncoder()
+  const leftBytes = encoder.encode(String(left))
+  const rightBytes = encoder.encode(String(right))
+  const [leftDigest, rightDigest] = await Promise.all([
+    crypto.subtle.digest('SHA-256', leftBytes),
+    crypto.subtle.digest('SHA-256', rightBytes)
+  ])
+
+  const leftView = new Uint8Array(leftDigest)
+  const rightView = new Uint8Array(rightDigest)
+  let difference = leftBytes.length ^ rightBytes.length
+  for (let index = 0; index < leftView.length; index++) {
+    difference |= leftView[index] ^ rightView[index]
+  }
+  return difference === 0
+}
+
+function getBeijingDate(date = new Date()) {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  }).formatToParts(date)
+  const values = Object.fromEntries(parts.map(part => [part.type, part.value]))
+  return `${values.year}-${values.month}-${values.day}`
+}
+
+async function fetchWithTimeout(url, options = {}) {
+  const controller = new AbortController()
+  const timeout = setTimeout(() => controller.abort(), UPSTREAM_TIMEOUT_MS)
+  try {
+    return await fetch(url, { ...options, signal: controller.signal })
+  } finally {
+    clearTimeout(timeout)
+  }
+}
+
 async function handleRequest(request) {
   // CORS 预检请求
   if (request.method === 'OPTIONS') {
     return new Response(null, {
       headers: {
         'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Methods': 'GET, POST',
+        'Access-Control-Allow-Methods': 'GET, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+        'Access-Control-Max-Age': '86400',
       }
     })
   }
 
-  // 验证请求来源
-  const authHeader = request.headers.get('Authorization')
-  if (authHeader !== `Bearer ${API_SECRET}`) {
+  if (request.method !== 'GET') {
+    return jsonResponse({ error: '不支持的请求方法' }, 405, { Allow: 'GET, OPTIONS' })
+  }
+
+  let config
+  try {
+    config = getConfig()
+  } catch (error) {
+    console.error('❌ Worker 配置错误:', error)
+    return jsonResponse({ error: '服务配置错误' }, 503)
+  }
+
+  // 验证请求来源，且必须在密钥配置成功后才进行比较。
+  const authHeader = request.headers.get('Authorization') || ''
+  if (!(await timingSafeEqual(authHeader, `Bearer ${config.API_SECRET}`))) {
     return jsonResponse({ error: '未授权访问' }, 401)
   }
 
@@ -58,7 +164,7 @@ async function handleRequest(request) {
     const forceRefresh = url.searchParams.get('refresh') === 'true'
     
     // 生成今日缓存键（需要是完整的 URL）
-    const today = new Date().toISOString().split('T')[0] // YYYY-MM-DD
+    const today = getBeijingDate()
     const cacheUrl = new URL(request.url)
     cacheUrl.pathname = `/cache/sky-daily-${today}`
     cacheUrl.search = '' // 清除查询参数
@@ -66,7 +172,7 @@ async function handleRequest(request) {
     // 1. 尝试从缓存获取数据（除非强制刷新）
     if (!forceRefresh) {
       const cache = caches.default
-      let cachedResponse = await cache.match(cacheUrl.toString())
+      const cachedResponse = await cache.match(cacheUrl.toString())
       
       if (cachedResponse) {
         console.log('✅ 使用缓存数据')
@@ -84,28 +190,28 @@ async function handleRequest(request) {
     console.log('🔄 缓存未命中，请求Sky API')
 
     // 2. 获取客服 token
-    const token = await getKefuToken()
+    const token = await getKefuToken(config)
     if (!token) {
       return jsonResponse({ error: '获取token失败' }, 500)
     }
 
     // 3. 使用 token 获取每日任务
-    const taskData = await getDailyTask(token)
+    const taskData = await getDailyTask(token, config)
     if (!taskData) {
       return jsonResponse({ error: '获取每日任务失败' }, 500)
     }
 
     // 4. 获取任务详情（先祖位置等）
-    const taskDetails = await getTaskDetails(token, taskData)
+    const taskDetails = await getTaskDetails(token, taskData, config)
 
     // 5. 获取今日活动
-    const eventData = await getTodayEvents()
+    const eventData = await getTodayEvents(config)
 
     // 6. 获取天气预报
-    const weatherData = await getWeatherForecast(token)
+    const weatherData = await getWeatherForecast(token, config)
 
     // 7. 获取日历图片
-    const calendarData = await getCalendarImage(token)
+    const calendarData = await getCalendarImage(token, config)
 
     // 8. 组合数据
     const responseData = {
@@ -121,7 +227,7 @@ async function handleRequest(request) {
     }
 
     // 9. 存储到缓存
-    const cacheTTL = parseInt(CACHE_TTL) // 缓存时长（秒）
+    const cacheTTL = config.CACHE_TTL
     const responseToCache = new Response(JSON.stringify(responseData), {
       headers: {
         'Content-Type': 'application/json',
@@ -142,37 +248,32 @@ async function handleRequest(request) {
 
   } catch (error) {
     console.error('❌ 错误:', error)
-    return jsonResponse({ error: error.message }, 500)
+    return jsonResponse({ error: '获取每日数据失败' }, 500)
   }
 }
 
 /**
  * 获取客服 Token
  */
-async function getKefuToken() {
-  // 所有配置必须通过环境变量传入
-  if (!NETEASE_TOKEN_API || !NETEASE_USER_AGENT || !NETEASE_TOKEN_HOST) {
-    throw new Error('缺少必需的 API 配置环境变量')
-  }
-  
+async function getKefuToken(config) {
   const payload = {
     cmd: "kefu_get_token",
-    uid: SKY_UID,
-    game_uid: SKY_GAME_UID,
+    uid: config.SKY_UID,
+    game_uid: config.SKY_GAME_UID,
     os: "android",
-    game_server: parseInt(SKY_GAME_SERVER),
+    game_server: config.SKY_GAME_SERVER,
     login_from: 0,
     map: "CandleSpace",
     return_buff: "false"
   }
 
   try {
-    const response = await fetch(NETEASE_TOKEN_API, {
+    const response = await fetchWithTimeout(config.NETEASE_TOKEN_API, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'User-Agent': NETEASE_USER_AGENT,
-        'Host': NETEASE_TOKEN_HOST,
+        'User-Agent': config.NETEASE_USER_AGENT,
+        'Host': config.NETEASE_TOKEN_HOST,
         'Accept-Encoding': 'gzip'
       },
       body: JSON.stringify(payload)
@@ -199,12 +300,7 @@ async function getKefuToken() {
 /**
  * 获取每日任务
  */
-async function getDailyTask(token) {
-  // 必须通过环境变量传入
-  if (!NETEASE_TASK_API || !NETEASE_TASK_ORIGIN || !NETEASE_TASK_REFERER) {
-    throw new Error('缺少必需的任务 API 配置环境变量')
-  }
-  
+async function getDailyTask(token, config) {
   const payload = {
     question: "今日任务指南",
     gameId: "ma75",
@@ -212,13 +308,13 @@ async function getDailyTask(token) {
   }
 
   try {
-    const response = await fetch(NETEASE_TASK_API, {
+    const response = await fetchWithTimeout(config.NETEASE_TASK_API, {
       method: 'POST',
       headers: {
         'accept': 'application/json, text/plain, */*',
         'content-type': 'application/json',
-        'origin': NETEASE_TASK_ORIGIN,
-        'referer': NETEASE_TASK_REFERER,
+        'origin': config.NETEASE_TASK_ORIGIN,
+        'referer': config.NETEASE_TASK_REFERER,
         'token-type': 'gmsdk',
         'token': token
       },
@@ -251,21 +347,15 @@ async function getDailyTask(token) {
 /**
  * 获取今日活动
  */
-async function getTodayEvents() {
-  // 必须通过环境变量传入
-  if (!NETEASE_EVENT_API) {
-    throw new Error('缺少 NETEASE_EVENT_API 环境变量')
-  }
-  
+async function getTodayEvents(config) {
   try {
-    const response = await fetch(NETEASE_EVENT_API)
+    const response = await fetchWithTimeout(config.NETEASE_EVENT_API)
     if (!response.ok) {
       return []
     }
 
     const events = await response.json()
-    const today = new Date()
-    const todayDate = today.toISOString().split('T')[0]
+    const todayDate = getBeijingDate()
     
     const todayEvents = []
     
@@ -305,12 +395,7 @@ async function getTodayEvents() {
  * 获取天气预报
  * 复用 NETEASE_TASK_API,只改变 question 参数
  */
-async function getWeatherForecast(token) {
-  // 复用任务 API 的配置
-  if (!NETEASE_TASK_API || !NETEASE_TASK_ORIGIN || !NETEASE_TASK_REFERER) {
-    throw new Error('缺少必需的 API 配置环境变量')
-  }
-  
+async function getWeatherForecast(token, config) {
   const payload = {
     ismanual: 0,
     loginFrom: "sprite",
@@ -319,13 +404,13 @@ async function getWeatherForecast(token) {
   }
 
   try {
-    const response = await fetch(NETEASE_TASK_API, {
+    const response = await fetchWithTimeout(config.NETEASE_TASK_API, {
       method: 'POST',
       headers: {
         'accept': 'application/json, text/plain, */*',
         'content-type': 'application/json',
-        'origin': NETEASE_TASK_ORIGIN,
-        'referer': NETEASE_TASK_REFERER,
+        'origin': config.NETEASE_TASK_ORIGIN,
+        'referer': config.NETEASE_TASK_REFERER,
         'token-type': 'gmsdk',
         'token': token
       },
@@ -393,11 +478,7 @@ async function getWeatherForecast(token) {
 /**
  * 通用查询函数 - 查询任意问题
  */
-async function queryKnowledge(token, question, method = "link") {
-  if (!NETEASE_TASK_API || !NETEASE_TASK_ORIGIN || !NETEASE_TASK_REFERER) {
-    throw new Error('缺少必需的 API 配置环境变量')
-  }
-  
+async function queryKnowledge(token, question, method = "link", config) {
   const payload = {
     ismanual: 0,
     loginFrom: "sprite",
@@ -406,13 +487,13 @@ async function queryKnowledge(token, question, method = "link") {
   }
 
   try {
-    const response = await fetch(NETEASE_TASK_API, {
+    const response = await fetchWithTimeout(config.NETEASE_TASK_API, {
       method: 'POST',
       headers: {
         'accept': 'application/json, text/plain, */*',
         'content-type': 'application/json',
-        'origin': NETEASE_TASK_ORIGIN,
-        'referer': NETEASE_TASK_REFERER,
+        'origin': config.NETEASE_TASK_ORIGIN,
+        'referer': config.NETEASE_TASK_REFERER,
         'token-type': 'gmsdk',
         'token': token
       },
@@ -479,14 +560,14 @@ async function queryKnowledge(token, question, method = "link") {
 /**
  * 获取日历图片
  */
-async function getCalendarImage(token) {
-  return await queryKnowledge(token, "日历", "link")
+async function getCalendarImage(token, config) {
+  return await queryKnowledge(token, "日历", "link", config)
 }
 
 /**
  * 获取任务详情 - 解析任务中的关键词链接
  */
-async function getTaskDetails(token, taskData) {
+async function getTaskDetails(token, taskData, config) {
   if (!taskData || !taskData.answer) {
     return []
   }
@@ -521,7 +602,7 @@ async function getTaskDetails(token, taskData) {
   // 查询每个关键词的详情
   const details = []
   for (const keyword of keywords) {
-    const result = await queryKnowledge(token, keyword, "link")
+    const result = await queryKnowledge(token, keyword, "link", config)
     if (result) {
       details.push({
         keyword: keyword,
@@ -623,12 +704,15 @@ function extractTaskList(cleanedText) {
 /**
  * 返回 JSON 响应
  */
-function jsonResponse(data, status = 200) {
+function jsonResponse(data, status = 200, extraHeaders = {}) {
   return new Response(JSON.stringify(data, null, 2), {
     status: status,
     headers: {
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
+      'Cache-Control': 'no-store',
+      'X-Content-Type-Options': 'nosniff',
+      ...extraHeaders,
     }
   })
 }

@@ -27,6 +27,8 @@
 2. 删除默认代码，复制粘贴 `worker.js` 的全部内容
 3. 点击 **Save and Deploy**
 
+> 仓库中的 GitHub Actions 只会调用 Worker，不会自动部署 `worker.js`。以后该文件有更改时，需要在 Cloudflare 重新保存并部署。
+
 ### 步骤 1.3: 配置环境变量
 
 在 Worker 设置页面：
@@ -58,7 +60,6 @@
 | `NETEASE_TOKEN_API` | 获取 token 的 API |
 | `NETEASE_TASK_API` | 获取每日任务的 API |
 | `NETEASE_EVENT_API` | 获取活动数据的 API | 
-| `NETEASE_WEATHER_API` | 获取天气预报的 API (可选) |
 | `NETEASE_TASK_ORIGIN` | 任务 API Origin 头 |
 | `NETEASE_TASK_REFERER` | 任务 API Referer 头 | 
 | `NETEASE_USER_AGENT` | User-Agent 请求头 | 
@@ -76,7 +77,14 @@ game_uid = "123456789"  # 替换为你的实际 game_uid
 
 #### 如何生成 API_SECRET？
 
-使用在线工具生成一个 32 位以上的随机字符串。
+不要把密钥交给在线随机字符串网站。在本机生成至少 32 字节的随机密钥：
+
+```powershell
+# PowerShell（需要 Python）
+python -c "import secrets; print(secrets.token_urlsafe(32))"
+```
+
+将输出分别保存到 Cloudflare Worker 的 `API_SECRET` 和 GitHub Actions 的同名 Secret，不要将真实值写入代码、Issue 或日志。
 
 #### 配置说明
 
@@ -89,6 +97,8 @@ game_uid = "123456789"  # 替换为你的实际 game_uid
 - 避免代码中硬编码敏感的 API 地址
 - 提高灵活性，可以随时更换 API 而不修改代码
 - 所有配置集中管理，更易维护
+
+`CACHE_TTL` 只接受 60–86400 秒。Worker 会在处理请求时校验所有必需配置；配置不完整时返回通用的 503，具体缺少项只写入 Worker 日志。
 
 3. 点击 **Save**
 
@@ -252,11 +262,14 @@ schedule:
 - API 调用通过 Worker 中转，不直接暴露接口
 - GitHub 仅存储 Worker URL 和 API 密钥
 - 所有敏感数据都不会出现在代码仓库中
+- Worker 只接受 `GET` / `OPTIONS`，认证摘要使用完整比较，不会把内部异常返回给调用方
 
 ❌ **不安全的做法：**
 - 将 UID、token 直接写在代码中
 - 将网易 API 地址直接暴露在 GitHub Actions 中
 - 在公开仓库中存储敏感配置
+
+如果 Worker URL 对外大量暴露，可在 Cloudflare 配置 Rate Limiting。不要在 Worker 内用普通全局变量计数：isolate 会重启且多地分布，这种计数不可靠。对本项目这类单一定时调用，高强度随机 `API_SECRET` 是首要措施。
 
 ---
 
@@ -266,6 +279,16 @@ schedule:
 - 如果长时间未更新，检查 Worker 是否正常运行
 - 建议启用 GitHub Actions 的邮件通知
 - 如果更换账号，只需更新 Cloudflare Worker 的环境变量即可
+
+### 本地回归测试
+
+```powershell
+python -m pip install --requirement requirements.txt
+python -m unittest discover -s tests -p "test_*.py"
+node --test tests/worker.test.js
+```
+
+GitHub Actions 会在请求 Worker 和改写 README 之前运行同样的测试。
 
 ---
 

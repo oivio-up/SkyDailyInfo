@@ -5,14 +5,52 @@
 """
 
 import os
-import sys
-import requests
 import re
+import sys
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlsplit
+
+import requests
+
+
+# Windows 的旧默认终端编码无法输出日志中的 emoji。
+for stream in (sys.stdout, sys.stderr):
+    if hasattr(stream, 'reconfigure'):
+        stream.reconfigure(encoding='utf-8')
 
 # 从环境变量获取配置
 WORKER_URL = os.environ.get('WORKER_URL')
 API_SECRET = os.environ.get('API_SECRET')
+
+START_MARKER = "<!-- DAILY_TASK_START -->"
+END_MARKER = "<!-- DAILY_TASK_END -->"
+MAX_RESPONSE_BYTES = 5 * 1024 * 1024
+REQUEST_TIMEOUT = (10, 60)
+
+
+def sanitize_text(value):
+    """移除会破坏 README 自动更新区域的控制内容。"""
+    if value is None:
+        return ''
+
+    return (str(value)
+            .replace('\x00', '')
+            .replace(START_MARKER, '')
+            .replace(END_MARKER, '')
+            .replace('```', "'''"))
+
+
+def safe_image_url(value):
+    """只允许 README 引用 HTTPS 图片。"""
+    if not isinstance(value, str):
+        return None
+
+    url = value.strip()
+    parsed = urlsplit(url)
+    if parsed.scheme != 'https' or not parsed.netloc:
+        return None
+
+    return url.replace('(', '%28').replace(')', '%29')
 
 def fetch_daily_data():
     """从 Cloudflare Worker 获取每日数据"""
@@ -27,13 +65,28 @@ def fetch_daily_data():
     
     try:
         print(f"正在请求 Worker: {WORKER_URL}")
-        response = requests.get(WORKER_URL, headers=headers, timeout=30)
+        response = requests.get(
+            WORKER_URL,
+            headers=headers,
+            timeout=REQUEST_TIMEOUT,
+        )
         response.raise_for_status()
+        if len(response.content) > MAX_RESPONSE_BYTES:
+            raise ValueError("Worker 响应超过 5 MiB 限制")
+
         data = response.json()
         
-        if not data.get('success'):
-            print(f"Worker 返回错误: {data.get('error', '未知错误')}")
+        if not isinstance(data, dict) or not data.get('success'):
+            error_message = data.get('error', '未知错误') if isinstance(data, dict) else '响应不是 JSON 对象'
+            print(f"Worker 返回错误: {error_message}")
             sys.exit(1)
+
+        if not isinstance(data.get('data'), dict):
+            raise ValueError("Worker 响应缺少 data 对象")
+
+        payload = data['data']
+        if not isinstance(payload.get('task'), dict):
+            raise ValueError("Worker 响应缺少有效的 task 对象")
         
         # 显示缓存状态
         if data.get('cached'):
@@ -41,35 +94,48 @@ def fetch_daily_data():
         else:
             print(f"🔄 从网易 API 获取新数据")
         
-        return data['data']
-    except requests.exceptions.RequestException as e:
+        return payload
+    except (requests.exceptions.RequestException, ValueError) as e:
         print(f"请求失败: {e}")
         sys.exit(1)
 
 def extract_tasks(task_data):
     """提取任务列表（使用 Worker 已处理好的数据）"""
+    if not isinstance(task_data, dict):
+        return ''
+
     # 如果有 taskList，直接格式化
     if 'taskList' in task_data and task_data['taskList']:
         tasks = []
         tasks.append('【今日旅行指南】')
         for task in task_data['taskList']:
-            tasks.append(f"{task['number']}. {task['task']}")
+            if not isinstance(task, dict):
+                continue
+            number = task.get('number')
+            text = sanitize_text(task.get('task')).strip()
+            if isinstance(number, int) and text:
+                tasks.append(f"{number}. {text}")
         return '\n'.join(tasks)
     
     # 否则使用 rawAnswer
-    return task_data.get('rawAnswer', '')
+    return sanitize_text(task_data.get('rawAnswer', ''))
 
 def format_events(events):
     """格式化活动列表"""
-    if not events:
+    if not isinstance(events, list) or not events:
         return "今日暂无特殊活动"
     
     result = []
     for event in events:
-        times = ', '.join(event['times'])
-        result.append(f"**{event['title']}** - {event['description']}")
+        if not isinstance(event, dict):
+            continue
+        times = ', '.join(sanitize_text(item) for item in event.get('times', []))
+        title = sanitize_text(event.get('title', '未知活动')).strip()
+        description = sanitize_text(event.get('description', '')).strip()
+        location = sanitize_text(event.get('location', '未知地点')).strip()
+        result.append(f"**{title}** - {description}")
         result.append(f"- 时间: {times}")
-        result.append(f"- 地点: {event['location']}")
+        result.append(f"- 地点: {location}")
         result.append("")
     
     return '\n'.join(result)
@@ -81,51 +147,30 @@ def format_weather(weather_data):
     
     # 处理字典格式(包含 text 和 images)
     if isinstance(weather_data, dict):
-        text = weather_data.get('text', '')
-        images = weather_data.get('images', [])
+        text = sanitize_text(weather_data.get('text', ''))
+        images = [url for item in weather_data.get('images', [])
+                  if (url := safe_image_url(item))]
         return text, images
     
     # 兼容旧的纯文本格式
-    return str(weather_data), []
-
-    # 清理 HTML 标签和特殊控制序列 (#r, #n 等)
-    # 去掉 HTML
-    clean = re.sub(r'<[^>]+>', '', raw)
-    # 替换控制序列为换行
-    clean = clean.replace('#r', '\n').replace('#n', '\n')
-    # 去掉多余空白
-    clean = re.sub(r'\s+', ' ', clean).strip()
-
-    # 提取以“天气播报：”开头的短句，截断在常见分隔词处（如 如果, ===, 请）
-    m = re.search(r'天气播报：\s*([^\n\r]+)', clean)
-    if m:
-        text = m.group(0)  # 包含“天气播报：”
-        # 在可能的推广或额外提示前截断
-        text = re.split(r'如果|===|请给|请帮|如上|点赞|感谢', text)[0].strip()
-        return text
-
-    # 回退策略：寻找第一句包含“天气”或“播报”的短句
-    m2 = re.search(r'([^。\n\r]{0,100}(天气|播报)[^。\n\r]{0,100})', clean)
-    if m2:
-        return m2.group(1).strip()
-
-    # 最后回退，截取前120字符作为展示
-    return clean[:120].strip()
+    return sanitize_text(weather_data), []
 
 def format_task_details(details_list):
     """格式化任务详情（先祖位置等）"""
-    if not details_list:
+    if not isinstance(details_list, list) or not details_list:
         return ""
     
     result = []
     for detail in details_list:
-        keyword = detail.get('keyword', '')
-        title = detail.get('title', keyword)
+        if not isinstance(detail, dict):
+            continue
+        keyword = sanitize_text(detail.get('keyword', '')).strip()
+        title = sanitize_text(detail.get('title', keyword)).strip()
         
         result.append(f"\n#### 📍 {title}")
         
         # 添加文字内容
-        text = detail.get('text', '')
+        text = sanitize_text(detail.get('text', '')).strip()
         if text:
             result.append(f"\n{text}\n")
         
@@ -134,7 +179,9 @@ def format_task_details(details_list):
         if images:
             result.append("")  # 空行
             for i, img_url in enumerate(images):
-                result.append(f"![{keyword}-{i+1}]({img_url})")
+                safe_url = safe_image_url(img_url)
+                if safe_url:
+                    result.append(f"![{keyword}-{i+1}]({safe_url})")
         
         result.append("\n---\n")  # 分隔线
     
@@ -142,10 +189,11 @@ def format_task_details(details_list):
 
 def format_calendar(calendar_data):
     """格式化日历图片"""
-    if not calendar_data:
+    if not isinstance(calendar_data, dict) or not calendar_data:
         return ""
     
-    images = calendar_data.get('images', [])
+    images = [url for item in calendar_data.get('images', [])
+              if (url := safe_image_url(item))]
     if not images:
         return ""
     
@@ -238,15 +286,12 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     
     # 替换或插入内容
     # 查找标记位置
-    start_marker = "<!-- DAILY_TASK_START -->"
-    end_marker = "<!-- DAILY_TASK_END -->"
-    
-    if start_marker in content and end_marker in content:
+    if START_MARKER in content and END_MARKER in content:
         # 替换现有内容
-        pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
+        pattern = f"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}"
         new_content = re.sub(
             pattern,
-            f"{start_marker}\n{new_section}{end_marker}",
+            f"{START_MARKER}\n{new_section}{END_MARKER}",
             content,
             flags=re.DOTALL
         )
@@ -254,7 +299,7 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
         # 如果没有标记，在文件末尾添加
         if not content.strip().endswith('---'):
             content += '\n\n---\n\n'
-        new_content = content + f"\n{start_marker}\n{new_section}{end_marker}\n"
+        new_content = content + f"\n{START_MARKER}\n{new_section}{END_MARKER}\n"
     
     # 写入文件
     with open(readme_path, 'w', encoding='utf-8') as f:
@@ -275,8 +320,8 @@ def main():
     
     # 更新 README
     update_readme(
-        data['task'], 
-        data['events'], 
+        data.get('task', {}),
+        data.get('events', []),
         data.get('weather'),
         data.get('taskDetails'),
         data.get('calendar')

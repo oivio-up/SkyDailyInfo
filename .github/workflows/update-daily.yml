@@ -6,24 +6,36 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # 允许手动触发
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-sky-daily-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     
     steps:
       - name: 检出代码
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v6
       
       - name: 设置 Python 环境
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
+          cache: pip
       
       - name: 安装依赖
         run: |
-          pip install requests
+          python -m pip install --requirement requirements.txt
+
+      - name: 运行测试
+        run: |
+          python -m unittest discover -s tests -p "test_*.py"
+          node --test tests/worker.test.js
 
       - name: 获取每日数据
         id: fetch_data
@@ -38,5 +50,9 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🌤 更新光遇每日任务 - $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+          if git diff --staged --quiet; then
+            echo "README 无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "🌤 更新光遇每日任务 - $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
           git push
