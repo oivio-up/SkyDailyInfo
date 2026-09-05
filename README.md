@@ -19,59 +19,90 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月04日 每日任务
+## 📅 2026年09月05日 每日任务
 
-> 最后更新: 2026年09月04日 10:58:13 (北京时间)
+> 最后更新: 2026年09月05日 10:59:47 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 面对冥龙
-2. 给一位朋友送礼
-3. 和陌生人一起坐在长凳上
-4. 前往暮土重温蟹语者的回忆
+1. 在中央神坛提交风筝设计方案
+2. 在荧光小菇旁回复能量
+3. 点亮一位玩家
+4. 前往禁阁重温祈祷侍从的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区地区夜间晴朗，圆梦村将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/ddb5d4517646aad4414b40c94671daf2eaec7782.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220824/69b5010968240ef0a63be0c6ebd9c565b1280279.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260903/6912886ea5e77b43bf7d8ba8771aebc0bc540e44.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260904/ecd676324ed50fca8407c3d2770db19e31a96ac7.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－面对冥龙
+#### 📍 每日任务-在中央神坛提交风筝设计方案
 
-【每日任务－面对冥龙】
-如何完成：被冥龙的探照灯照到一下即可完成
-推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
-推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4
-今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙
+【在中央神坛提交风筝设计方案】
+地点：云野·中央神坛
+步骤：
+1.先前往中央神坛
+2.找到任务地点
+3.与先祖交互获得风筝材料
+4.选择心仪的颜色为风筝材料染色
+5.选择一款最喜欢的风筝，将风筝材料提交给对应先祖即可完成任务
+图片指引：
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260901/4f84d0b5bf0746fe1684fddd3ef2c5b486344ea8.mp4
+ 今日推荐：一起来染色吧https://ds.163.com/feed/6a92a627b6e01c625a75d5ba/?utm_content=f_ma75.jl.jlctPT.top.yvhjhy&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在中央神坛提交风筝设计方案
 
 
-![面对冥龙-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+![中央神坛交风筝方案-1](https://ok.166.net/gameyw-gbox/bot/205/20260901/4a27ab2f5acd34552f9f45213e6cf99d390fcb87.jpg)
 
 ---
 
 
-#### 📍 蟹语者路线
+#### 📍 荧光小菇
 
-【追光季蟹语者】
-先祖位置：暮土·黑水港湾
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260623/23384aba42f5ff5cf87f1ef74ac3c6f907556b7e.mp4
-2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![蟹语者路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240720/2624e05ca756c296303f1afa52c8b414685e68d0.jpg)
+![荧光小菇-1](https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png)
+![荧光小菇-2](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+
+---
+
+
+#### 📍 祈祷侍从
+
+【禁阁·祈祷侍从】
+先祖位置：禁阁一楼四人门里
+如何进入：
+1.需先获得禁阁二层先祖的动作(气功动作)　　　>>>气功动作第一层，在升降台的右侧和小伙伴合力打开四人门
+3.先祖就在走廊的尽头安静等候~
+兑换图鉴：
+大神推荐：查收你的光翼收集报告https://h5.ds.163.com/v1/68da69da60bb1b003291f7a6/?utm_content=f_ma75.jl.jlctPT.default.xio89j&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=祈祷侍从
+
+
+![祈祷侍从路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220512/86afcfb629391f3cb0cd51a3022bb4298a31d8e5.png)
+![祈祷侍从路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/94472a24a7ded6b9064de82f8e30efbfb77a7701.png)
+![祈祷侍从路线-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/b4ca8bf4a26ffdbd017ec6b72fafd046351d7259.png)
 
 ---
 
