@@ -19,29 +19,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月15日 每日任务
+## 📅 2026年09月16日 每日任务
 
-> 最后更新: 2026年09月15日 11:27:22 (北京时间)
+> 最后更新: 2026年09月16日 11:23:25 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在中央神坛提交风筝设计方案
-2. 向一位玩家鞠躬
-3. 在荧光小菇旁回复能量
-4. 前往禁阁重温冥想大师的回忆
+1. 向一位朋友做个动作
+2. 在水母上回复能量
+3. 点亮一位玩家
+4. 帮助苦修行者
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区地区阴天多云，滑冰场将会有冷却碎片降落
+天气播报：今日将会有冷却碎片坠落在远古战场
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/3f59c5ad10bd901772c80ea3c9a257a0f66fb9a2.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/c2f1ed5593c0445fbe6750f4999f31cd1a0856b7.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/8fc48d451ab6398373f0697fe56c4b2e076d3b18.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a1e7860f69a6dc598e88de24ebec4f99db39a3dd.jpg)
 
 
 ### 📅 本月日历
@@ -52,58 +56,31 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在中央神坛提交风筝设计方案
+#### 📍 每日任务·在水母上恢复能量
 
-【在中央神坛提交风筝设计方案】
-地点：云野·中央神坛
-步骤：
-1.先前往中央神坛
-2.找到任务地点
-3.与先祖交互获得风筝材料
-4.选择心仪的颜色为风筝材料染色
-5.选择一款最喜欢的风筝，将风筝材料提交给对应先祖即可完成任务
-图片指引：
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260907/cee8bd67aac3f3ac1862f881f236a36b6cd9d574.mp4 今日推荐：彩虹阔腿裤穿搭染色推荐https://ds.163.com/feed/6a9b9e9a3de3fe511bd0841e/?utm_content=f_ma75.jl.jlctPT.top.hv4nb9&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在中央神坛提交风筝设计方案
+【每日任务－在水母上恢复能量】
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
+注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
 
 
-![中央神坛交风筝方案-1](https://ok.166.net/gameyw-gbox/bot/205/20260901/4a27ab2f5acd34552f9f45213e6cf99d390fcb87.jpg)
+![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
+![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
 
 ---
 
 
-#### 📍 荧光小菇
+#### 📍 苦修行者任务
 
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
- 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
+【每日任务－帮助苦修行者】
+请旅人先查看接到的任务名称，然后在下方选择对应指南
+在云峰找到苦修行者　｜　苦修行者在仙乡需要帮助
+小精灵提示：
+1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；
+2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务
 
-
-![荧光小菇-1](https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png)
-
----
-
-
-#### 📍 冥想大师
-
-【禁阁·冥想大师】
-先祖位置：禁阁第四层　　　　　>>>如何前往
-详细指引：
-1.来到禁阁第四层后，飞到有残缺破屋的小岛
-2.向上看，在上方小浮石上找到石碑
-3.通过自己或小伙伴用祈祷动作点亮石碑，召唤先祖
-收集冥想大师先祖前，需要获得动作-祈祷　　　　　>>>点击查看如何获得
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260914/7b1e47d0da3a63a1ffa9161f2f282c4b739b77ad.mp4
-兑换图鉴：>>点击查看
-如何兑换：>>点击查看
- 今日推荐：被小黑夸好看的一套穿搭https://ds.163.com/feed/6a8687baa7bb2e4de4aeb7a0/?utm_content=f_ma75.jl.jlctPT.top.bzefp4&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=冥想大师
-
-
-![冥想大师路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220516/9b6a3bca0d7e9a200c604a037bd57a0d8722a14c.png)
-![冥想大师路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/8e4be4efefd0e246d8952f385847e72f326fca0c.png)
 
 ---
 
