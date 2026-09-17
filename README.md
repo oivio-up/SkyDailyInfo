@@ -19,33 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月16日 每日任务
+## 📅 2026年09月17日 每日任务
 
-> 最后更新: 2026年09月16日 11:23:25 (北京时间)
+> 最后更新: 2026年09月17日 11:28:57 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 向一位朋友做个动作
-2. 在水母上回复能量
-3. 点亮一位玩家
-4. 帮助苦修行者
+1. 在中央神坛提交风筝设计方案
+2. 净化10株黑暗植物
+3. 接受一位朋友的礼物
+4. 在雨林的神庙内冥想
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有冷却碎片坠落在远古战场
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/c2f1ed5593c0445fbe6750f4999f31cd1a0856b7.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/8fc48d451ab6398373f0697fe56c4b2e076d3b18.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/a1e7860f69a6dc598e88de24ebec4f99db39a3dd.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
 
 
 ### 📅 本月日历
@@ -56,31 +48,42 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 每日任务-在中央神坛提交风筝设计方案
 
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
+【在中央神坛提交风筝设计方案】
+地点：云野·中央神坛
+步骤：
+1.先前往中央神坛
+2.找到任务地点
+3.与先祖交互获得风筝材料
+4.选择心仪的颜色为风筝材料染色
+5.选择一款最喜欢的风筝，将风筝材料提交给对应先祖即可完成任务
+图片指引：
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260907/cee8bd67aac3f3ac1862f881f236a36b6cd9d574.mp4 今日推荐：彩虹阔腿裤穿搭染色推荐https://ds.163.com/feed/6a9b9e9a3de3fe511bd0841e/?utm_content=f_ma75.jl.jlctPT.top.hv4nb9&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在中央神坛提交风筝设计方案
 
 
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
+![中央神坛交风筝方案-1](https://ok.166.net/gameyw-gbox/bot/205/20260901/4a27ab2f5acd34552f9f45213e6cf99d390fcb87.jpg)
 
 ---
 
 
-#### 📍 苦修行者任务
+#### 📍 每日任务－在雨林的神庙内冥想
 
-【每日任务－帮助苦修行者】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在云峰找到苦修行者　｜　苦修行者在仙乡需要帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；
-2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。
- 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务
+【每日任务－在雨林的神庙内冥想】
+任务：在雨林的神庙内冥想
+位置：在雨林－终点图树后方
+步骤：进入雨林的终点图后，往前走一点点，在右方的树后面
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/410e964288fbbe080f632e3f905af0922b15e866.mp4
+今日推荐：被小黑夸好看的一套穿搭https://ds.163.com/feed/6a8687baa7bb2e4de4aeb7a0/?utm_content=f_ma75.jl.jlctPT.top.bzefp4&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在雨林的神庙内冥想
 
+
+![雨林神庙冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+![雨林神庙冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+![雨林神庙冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20220823/7bae6be856d3f235cbdc4b0e895d6fb209aabc45.jpg)
+![雨林神庙冥想-4](https://ok.166.net/gameyw-gbox/bot/205/20220823/0a2180bf29047641dd3e08bdfcd4cc0bcc36711a.jpg)
+![雨林神庙冥想-5](https://ok.166.net/gameyw-gbox/bot/205/20220823/cf1ee555676c2da00388f2197ca73804d1e0a6f7.jpg)
+![雨林神庙冥想-6](https://ok.166.net/gameyw-gbox/bot/205/20211025/ffd1ed996b60a5c5d8c9782d89e42b959a2fc4c3.png)
 
 ---
 
