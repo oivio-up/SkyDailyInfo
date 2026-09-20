@@ -19,25 +19,35 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月19日 每日任务
+## 📅 2026年09月20日 每日任务
 
-> 最后更新: 2026年09月19日 11:11:16 (北京时间)
+> 最后更新: 2026年09月20日 11:27:53 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在中央神坛提交风筝设计方案
-2. 在水母上回复能量
-3. 接受一位朋友的礼物
-4. 前往暮土重温惊恐难民的回忆
+1. 在禁阁第二层冥想
+2. 和陌生人一起坐在长凳上
+3. 向一位玩家鞠躬
+4. 收集紫色光芒
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在雪隐峰
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/e55037cbfda140212726191decc074423dc871ba.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/f6f6f4e0dcdc8cd24d1c8ca57ce831115433a127.jpg)
 
 
 ### 📅 本月日历
@@ -48,53 +58,39 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在中央神坛提交风筝设计方案
+#### 📍 在禁阁第二层冥想
 
-【在中央神坛提交风筝设计方案】
-地点：云野·中央神坛
-步骤：
-1.先前往中央神坛
-2.找到任务地点
-3.与先祖交互获得风筝材料
-4.选择心仪的颜色为风筝材料染色
-5.选择一款最喜欢的风筝，将风筝材料提交给对应先祖即可完成任务
-图片指引：
+【每日任务－在禁阁第二层冥想】
+位置：禁阁－禁阁二层
+指引：
+进入禁阁后，往前走，通过机关电梯一路向上
 视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260907/cee8bd67aac3f3ac1862f881f236a36b6cd9d574.mp4 今日推荐：彩虹阔腿裤穿搭染色推荐https://ds.163.com/feed/6a9b9e9a3de3fe511bd0841e/?utm_content=f_ma75.jl.jlctPT.top.hv4nb9&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在中央神坛提交风筝设计方案
+https://ok.166.net/gameyw-gbox/bot/205/20260722/67631bde6eb6480f54ffa25bad3023e215ae511e.mp4
+ 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=在禁阁第二层冥想
 
 
-![中央神坛交风筝方案-1](https://ok.166.net/gameyw-gbox/bot/205/20260901/4a27ab2f5acd34552f9f45213e6cf99d390fcb87.jpg)
+![禁阁二层冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220831/20a4fb20f4615c9d3351bf2631ef340765f6f410.jpg)
+![禁阁二层冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220831/f53298d258c0b0ab2cfb3acfa8376a8838591bb9.jpg)
+![禁阁二层冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20250726/aaf0f6bc1a998369768087a42240299737e856d5.jpg)
 
 ---
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 每日任务－紫色光芒
 
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
-
-
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
-
----
-
-
-#### 📍 暮土-惊恐先祖
-
-【暮土·惊恐动作先祖】
-先祖位置：穿过暮土风暴，降落后前往大门方向，先祖在大门前的断桥处静静等待~
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260918/12d3f22f0a3e1de5a825ae9d89026ac80a91cb1c.mp4
-兑换图鉴：
- 今日推荐：被小黑夸好看的一套穿搭https://ds.163.com/feed/6a8687baa7bb2e4de4aeb7a0/?utm_content=f_ma75.jl.jlctPT.top.bzefp4&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-惊恐先祖
+【每日任务－紫色光芒】
+位置：禁阁右侧双人门
+指引：进入禁阁后往右飞，进入双人门后往前走，在右侧建筑附近即可找到
+1、双人门需要两个人一起点火才能打开，可以喊上好朋友一起完成任务
+2、进入双人门需要先收集一名禁阁的常驻先祖哦 >>> 点击查看禁阁常驻先祖
+3、紫色光芒第一时间没见到，可以等待一会静静观察
+图文介绍：
+视频介绍：
+https://ok.166.net/gameyw-gbox/bot/205/20260428/6f162b19aeebe30e9bf14c0413fb18e967e74a05.mp4
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－紫色光芒
 
 
-![惊恐难民路线-1](https://ok.166.net/gameyw-gbox/bot/205/20210723/43dd8da6f2ed4e66d71352aeb3a96be2fbebede9.png)
-![惊恐难民路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3de0f6cddb18ce5d94a07365f9435b706f40d04.png)
+![紫色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20260428/da31dec007f120173ce00c08b896bd040b1c13f1.jpg)
 
 ---
 
