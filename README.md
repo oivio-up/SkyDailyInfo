@@ -19,83 +19,68 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月22日 每日任务
+## 📅 2026年09月23日 每日任务
 
-> 最后更新: 2026年09月22日 11:22:06 (北京时间)
+> 最后更新: 2026年09月23日 11:23:17 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在荧光森林捕捉浮动的光点
-2. 向一位朋友做个动作
-3. 掀翻5只螃蟹
-4. 前往雨林重温娇嗔搬运工的回忆
+1. 在水母上回复能量
+2. 接受一位朋友的礼物
+3. 收集30点烛火
+4. 在滑冰场旁冥想
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有冷却碎片坠落在仙乡
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220920/52ce0359c9702ce3b71c600a4528691f3462658a.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260918/3a0e216647b201540ed488599fdf4ff4209c17ae.jpg)
+![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260923/2fae7a349f311122ae8023792e0d2532a3e3be2c.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在荧光森林捕捉浮动的光点
+#### 📍 每日任务·在水母上恢复能量
 
-【在荧光森林捕捉浮动的光点】
-1.进入雨林后，一路往前，前往静谧庭院
-2.直走穿过静谧庭院，即可到达荧光森林
-3.到达荧光森林，能看到天空上浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、旅人们收集时请万分小心，护佑心火
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
- 今日推荐：一起来染色吧https://ds.163.com/feed/6a92a627b6e01c625a75d5ba/?utm_content=f_ma75.jl.jlctPT.top.yvhjhy&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在荧光森林捕捉浮动的光点
+【每日任务－在水母上恢复能量】
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
+注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
 
 
-![荧光森林捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
-![荧光森林捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
-![荧光森林捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20220823/3329a0411babffaf0b82199cd5021e68cef4d080.jpg)
-![荧光森林捕捉光点-4](https://ok.166.net/gameyw-gbox/bot/205/20260330/9145551acd5079db91a7eb0dbee8441f9a3f78f6.jpg)
+![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
+![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
 
 ---
 
 
-#### 📍 掀螃蟹攻略
+#### 📍 每日任务－在滑冰场旁冥想
 
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
- 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
----
-
-
-#### 📍 雨林·娇嗔搬运工
-
-【雨林·娇嗔搬运工】
-先祖位置：进入雨林荧光森林后，沿小河走到小桥前，上桥后向左走，先祖在洞口静静等候~
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260921/0a413eb51ba22a294291872665d662c756550e57.mp4
-兑换图鉴：
- 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=雨林·娇嗔搬运工
+【每日任务－在滑冰场旁冥想】
+任务：在滑冰场旁冥想
+位置：在霞谷－滑冰场
+步骤：进入霞谷后一直往前滑就能来到滑冰场，冥想点就在滑冰场右上方
+视频指南：
+https://ok.166.net/gameyw-gbox/bot/205/20260724/becff461f4e19d647d18741cd401c53b80c8a089.mp4
+ 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在滑冰场旁冥想
 
 
-![娇嗔搬运工路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
-![娇嗔搬运工路线-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
-![娇嗔搬运工路线-3](https://ok.166.net/gameyw-gbox/bot/205/20220823/3329a0411babffaf0b82199cd5021e68cef4d080.jpg)
-![娇嗔搬运工路线-4](https://ok.166.net/gameyw-gbox/bot/205/20210723/6cee612c24f009ceb076ca503a9d9dd265233bba.png)
-![娇嗔搬运工路线-5](https://ok.166.net/gameyw-gbox/bot/205/20210723/e86523fc4cf488504fee090538c4dd6cbb142531.png)
-![娇嗔搬运工路线-6](https://ok.166.net/gameyw-gbox/bot/205/20210722/254857a80e32f7609d8b74d45c84f4ef607c860b.png)
+![滑冰场冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg)
+![滑冰场冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg)
+![滑冰场冥想-3](https://ok.166.net/gameyw-gbox/bot/205/20211220/1f0607d750572193d54db00484506958672b3078.png)
 
 ---
 
