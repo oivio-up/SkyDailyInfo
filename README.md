@@ -19,29 +19,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月25日 每日任务
+## 📅 2026年09月26日 每日任务
 
-> 最后更新: 2026年09月25日 11:29:44 (北京时间)
+> 最后更新: 2026年09月26日 11:35:22 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在禁阁的庇护所中捕捉3个光点
-2. 掀翻5只螃蟹
-3. 接受一位朋友的礼物
-4. 找到一名位于禁阁的先祖
+1. 和陌生人一起坐在长凳上
+2. 净化10株黑暗植物
+3. 在水母上回复能量
+4. 前往云野重温引蝶人的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在圆梦村
+天气播报：今日无碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/ddb5d4517646aad4414b40c94671daf2eaec7782.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg)
-
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220824/69b5010968240ef0a63be0c6ebd9c565b1280279.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
 
 
 ### 📅 本月日历
@@ -52,47 +48,31 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在禁阁的庇护所中捕捉浮动的光点
+#### 📍 每日任务·在水母上恢复能量
 
-【在禁阁的庇护所中捕捉浮动的光点】
-1、前往禁阁大厅，进入庇护所
-2、进入庇护所后往前走，浮动的光点就在前方飞
-3、触碰后可捕捉光点
-小精灵提醒您：
-1、进入庇护前所需要收集一位禁阁常驻先祖
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-视频攻略：
-https://ok.166.net/gameyw-gbox/bot/205/20260602/919392b7a3b7551d676e57f0601985813868d58a.mp4
-今日推荐：在禁阁的庇护所中捕捉浮动的光点-视频指引https://ds.163.com/feed/6972cce3d085d23f35829c38?utm_content=f_ma75.jl.jlctPT.default.a146im&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在禁阁的庇护所中捕捉浮动的光点
+【每日任务－在水母上恢复能量】
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
+注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
 
 
-![庇护所捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20260123/fcdec33f2c5fda365e97e23014f755b1b85961d7.jpg)
-![庇护所捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
+![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
+![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
 
 ---
 
 
-#### 📍 掀螃蟹攻略
+#### 📍 云野-引蝶人
 
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
- 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
----
+【云野·引蝶人】　>>点击查看：迁徙引蝶人位置先祖位置：穿过云野大厅，飞过风洞，站在蝴蝶平原会看到一个圆形小山包，先祖就在洞口等你~
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260924/0daacdeba7dc4b8f1895530838f5259c423978c8.mp4
+兑换图鉴：
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=云野-引蝶人
 
 
-#### 📍 每日任务-找到一名位于禁阁的先祖
-
-【每日任务-找到一名位于禁阁的先祖】
-1.前往禁阁
-2.任意收集一个位于禁阁的先祖均可以完成任务　　>>禁阁常驻先祖位置
-小精灵收到前线报道：灵语者先祖不参与本次活动，请旅人们收集其他禁阁先祖
- 今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-找到一名位于禁阁的先祖
-
+![引蝶人路线-1](https://ok.166.net/gameyw-gbox/bot/205/20210722/fad935ac8489f4f60894d69a17ee303755979cd9.png)
+![引蝶人路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3eb4e3c31c883b1b53455fa8a70f8b8d3ca8ff2.png)
 
 ---
 
