@@ -19,25 +19,31 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月26日 每日任务
+## 📅 2026年09月27日 每日任务
 
-> 最后更新: 2026年09月26日 11:35:22 (北京时间)
+> 最后更新: 2026年09月27日 11:43:53 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 和陌生人一起坐在长凳上
-2. 净化10株黑暗植物
-3. 在水母上回复能量
-4. 前往云野重温引蝶人的回忆
+1. 在密林遗迹冥想
+2. 向一位朋友招手
+3. 和朋友击掌
+4. 前往雨林重温娇嗔搬运工的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在星光沙漠一隅
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221101/534c7f4482ac7c48c50e80d86cf4ad8831bc81ea.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/d669cf3648f9e25733cb9e7b658dcddb62f5c44c.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20260721/0396adfd3e328896061630c017d8239b427b03cf.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220825/a7df7126fe49a6cd5e7410e0b45e611eb2874910.png)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221125/cf86416e9cf3803c0c0d16990294a5e3fdf74915.jpg)
 
 
 ### 📅 本月日历
@@ -48,31 +54,38 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 每日任务－在密林遗迹冥想
 
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
+【每日任务－在密林遗迹冥想】
+任务：在密林遗迹冥想
+位置：在雨林－密林遗迹(雨林水母图)
+步骤：进入雨林后来到水母图(雨林第三幅地图)，往右前方的树洞走，穿越树洞后，飞向左前方的小亭子就能看到
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260924/112a95542a4a21046d2292e540b771b0499b172c.mp4
+大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在密林遗迹冥想
 
 
-![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
-![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
+![密林遗迹冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20211215/6061d7b8f7c3217b18e15d0a188a7e5bb73b6392.png)
+![密林遗迹冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211215/ff6de3c4c6e14a221a68d6a57dc33627607ca8ba.png)
 
 ---
 
 
-#### 📍 云野-引蝶人
+#### 📍 雨林·娇嗔搬运工
 
-【云野·引蝶人】　>>点击查看：迁徙引蝶人位置先祖位置：穿过云野大厅，飞过风洞，站在蝴蝶平原会看到一个圆形小山包，先祖就在洞口等你~
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260924/0daacdeba7dc4b8f1895530838f5259c423978c8.mp4
+【雨林·娇嗔搬运工】
+先祖位置：进入雨林荧光森林后，沿小河走到小桥前，上桥后向左走，先祖在洞口静静等候~
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260921/0a413eb51ba22a294291872665d662c756550e57.mp4
 兑换图鉴：
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=云野-引蝶人
+ 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=雨林·娇嗔搬运工
 
 
-![引蝶人路线-1](https://ok.166.net/gameyw-gbox/bot/205/20210722/fad935ac8489f4f60894d69a17ee303755979cd9.png)
-![引蝶人路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210722/b3eb4e3c31c883b1b53455fa8a70f8b8d3ca8ff2.png)
+![娇嗔搬运工路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220823/a122dac44b4f4a49337ac4c3d5d83b4172a025c1.jpg)
+![娇嗔搬运工路线-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/7423905c39f2e422094cda30be7176b9433b52e7.jpg)
+![娇嗔搬运工路线-3](https://ok.166.net/gameyw-gbox/bot/205/20220823/3329a0411babffaf0b82199cd5021e68cef4d080.jpg)
+![娇嗔搬运工路线-4](https://ok.166.net/gameyw-gbox/bot/205/20210723/6cee612c24f009ceb076ca503a9d9dd265233bba.png)
+![娇嗔搬运工路线-5](https://ok.166.net/gameyw-gbox/bot/205/20210723/e86523fc4cf488504fee090538c4dd6cbb142531.png)
+![娇嗔搬运工路线-6](https://ok.166.net/gameyw-gbox/bot/205/20210722/254857a80e32f7609d8b74d45c84f4ef607c860b.png)
 
 ---
 
