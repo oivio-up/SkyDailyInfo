@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年09月29日 每日任务
+## 📅 2026年09月30日 每日任务
 
-> 最后更新: 2026年09月29日 12:18:07 (北京时间)
+> 最后更新: 2026年09月30日 12:02:04 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 向一位朋友做个动作
-2. 点亮一位玩家
-3. 面对冥龙
-4. 在巨兽荒原捕捉3个光点
+1. 和朋友击掌
+2. 和陌生人一起坐在长凳上
+3. 向一位玩家鞠躬
+4. 前往禁阁重温浮空宗师的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有冷却碎片坠落在滑冰场
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221009/3f59c5ad10bd901772c80ea3c9a257a0f66fb9a2.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg)
 
 
 ### 📅 本月日历
@@ -48,37 +52,15 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－面对冥龙
+#### 📍 气功动作
 
-【每日任务－面对冥龙】
-如何完成：被冥龙的探照灯照到一下即可完成
-推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
-推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4
-今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙
+【禁阁·浮空宗师】
+先祖位置：来到禁阁的第二层后，打开四人门，在门背后的柱子边，先祖在静静等候~
+ 今日推荐：怎么能这么帅https://ds.163.com/feed/6a71b9ef9a2a5416c9c61a75/?utm_content=f_ma75.jl.jlctPT.default.idlov5&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=气功动作
 
 
-![面对冥龙-1](https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png)
-
----
-
-
-#### 📍 每日任务-在巨兽荒原捕捉3个光点
-
-【在巨兽荒原捕捉3个光点】
-1.先前往暮土大厅
-2.一直往前飞，穿过边陲荒漠
-3.到达巨兽荒原，能看到浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、巨兽荒原有冥龙盘旋，旅人们收集时请万分小心
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
- 今日推荐：一起来染色吧https://ds.163.com/feed/6a92a627b6e01c625a75d5ba/?utm_content=f_ma75.jl.jlctPT.top.yvhjhy&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在巨兽荒原捕捉3个光点
-
-
-![巨兽荒原捕捉光点-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg)
-![巨兽荒原捕捉光点-2](https://ok.166.net/gameyw-gbox/bot/205/20240511/b77cc731817570eeeb363c35cfec6a70490d2385.jpg)
-![巨兽荒原捕捉光点-3](https://ok.166.net/gameyw-gbox/bot/205/20260302/2b9fe351c1dc26ee2dd30cfaf77dd3996acce51b.jpg)
+![浮空宗师路线-1](https://ok.166.net/gameyw-gbox/bot/205/20240705/92a8ce1f3e08054764b39242b4beb3a73f08e84c.jpg)
+![浮空宗师路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/c387ae7c6da171946c2533a926ee58c843073039.png)
 
 ---
 
