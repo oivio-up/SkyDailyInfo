@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月02日 每日任务
+## 📅 2026年10月03日 每日任务
 
-> 最后更新: 2026年10月02日 12:06:54 (北京时间)
+> 最后更新: 2026年10月03日 11:50:31 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在静谧庭院外冥想
-2. 向一位玩家鞠躬
-3. 在荧光小菇旁回复能量
-4. 前往雨林重温正步冒险家的回忆
+1. 和朋友击掌
+2. 接受一位朋友的礼物
+3. 向一位朋友招手
+4. 在霞光城拱门上冥想
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区地区夜间晴朗，幽光山洞将会有灼热碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220919/715405a13b73fcd6d63a29c3abc476e076a10ea6.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/effcd6c7d666853ef93ff03139e772c65985f5ac.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/7e5e9cc9846b7ca0daeadb965deaa2db8f064282.jpg)
 
 
 ### 📅 本月日历
@@ -48,46 +52,19 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在静谧庭院外冥想
+#### 📍 每日任务－在霞光城拱门上冥想
 
-【每日任务－在静谧庭院外冥想】
-任务：在静谧庭院外冥想
-位置：在雨林－静谧庭院
-步骤：进入雨林大厅后往下飞下即是静谧庭院，着陆后往左前方跑即可看到
- 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在静谧庭院外冥想
-
-
-![静谧庭院冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20211205/c94340eafbd3171184757ebd9e8f52ed2893f29f.jpg)
-![静谧庭院冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211205/f23d9d7c9c6853f82cbe47d423e2b232ec71b397.png)
-
----
-
-
-#### 📍 荧光小菇
-
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
- 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
-
-
-![荧光小菇-1](https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png)
-
----
-
-
-#### 📍 集结季先祖-正步冒险家路线
-
-【集结季·正步冒险家位置】
-先祖位置：雨林·荧光森林
-图文指引：
+【每日任务－在霞光城拱门上冥想】
+任务：在霞光城拱门上冥想
+位置：霞光城－城门上
+步骤：通过霞谷溜冰场左侧的入口进入霞光城，在霞光城门口上面
 视频指引：
-今日推荐：一起来染色吧https://ds.163.com/feed/6a92a627b6e01c625a75d5ba/?utm_content=f_ma75.jl.jlctPT.top.yvhjhy&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=集结季先祖-正步冒险家路线
+https://ok.166.net/gameyw-gbox/bot/205/20241023/971aab811c5c15a1b7019745d2cf30c69bb353ee.mp4
+今日推荐：竟然还有人不知道先祖亲密度系统！点击查看https://ds.163.com/feed/69e769052286db49ab0dea0c/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.y2ztoi&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在霞光城拱门上冥想
 
 
-![正步冒险家路线-1](https://ok.166.net/gameyw-gbox/bot/205/20241123/210c700a0bb1891dc3bfd130750d913d2ee73a5d.jpg)
+![霞光城拱门冥想-1](https://ok.166.net/gameyw-gbox/bot/205/20241023/8328fe1f13023335f06db270abe18c745f647a68.jpg)
+![霞光城拱门冥想-2](https://ok.166.net/gameyw-gbox/bot/205/20211116/ebfaeee8b1ab2e647ec910cf45fda3d812f31126.png)
 
 ---
 
