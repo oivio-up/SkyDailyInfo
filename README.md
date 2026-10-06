@@ -19,25 +19,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月05日 每日任务
+## 📅 2026年10月06日 每日任务
 
-> 最后更新: 2026年10月05日 12:07:11 (北京时间)
+> 最后更新: 2026年10月06日 12:56:03 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 净化10株黑暗植物
-2. 接受一位朋友的礼物
-3. 在荧光小菇旁回复能量
-4. 前往禁阁重温祈祷侍从的回忆
+1. 向一位朋友做个动作
+2. 和朋友击掌
+3. 在水母上回复能量
+4. 收集绿色光芒
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：大部分地区地区阴天多云，边陲荒漠将会有冷却碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg)
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/be673eb1e0fd3dcca617ab74f9cb93eece21dc08.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220830/a3b9c920b2985fe4a2811634614fd5f8edebf920.jpg)
+
+![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220823/94db03f650544a88830d8eb0d42b2838209f353a.jpg)
 
 
 ### 📅 本月日历
@@ -48,35 +52,34 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 荧光小菇
+#### 📍 每日任务·在水母上恢复能量
 
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
- 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
+【每日任务－在水母上恢复能量】
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
+注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
 
 
-![荧光小菇-1](https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png)
+![水母位置-1](https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png)
+![水母位置-2](https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png)
 
 ---
 
 
-#### 📍 祈祷侍从
+#### 📍 绿色光芒
 
-【禁阁·祈祷侍从】
-先祖位置：禁阁一楼四人门里
-如何进入：
-1.需先获得禁阁二层先祖的动作(气功动作)　　　>>>气功动作第一层，在升降台的右侧和小伙伴合力打开四人门
-3.先祖就在走廊的尽头安静等候~
-兑换图鉴：
- 今日推荐：一起来染色吧https://ds.163.com/feed/6a92a627b6e01c625a75d5ba/?utm_content=f_ma75.jl.jlctPT.top.yvhjhy&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=祈祷侍从
+【绿色光芒】
+光芒位置：云野右侧隐藏图
+位置指引：进入云野后，往右进入云顶浮石，前往左边第一个浮岛，绿色光芒会在每一个整点降落
+1、例如00:30、4:50、8:20这些刚好到10的整数的都是整点
+2、不建议踩点到达，建议提前一两分钟在上述地点等待，踩点到达非常容易错过
+3、若无论如何等待都无法看见光芒，请检查是否已接取相关任务
+ 今日推荐：彩虹阔腿裤穿搭染色推荐https://ds.163.com/feed/6a9b9e9a3de3fe511bd0841e/?utm_content=f_ma75.jl.jlctPT.top.hv4nb9&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=绿色光芒
 
 
-![祈祷侍从路线-1](https://ok.166.net/gameyw-gbox/bot/205/20220512/86afcfb629391f3cb0cd51a3022bb4298a31d8e5.png)
-![祈祷侍从路线-2](https://ok.166.net/gameyw-gbox/bot/205/20210723/94472a24a7ded6b9064de82f8e30efbfb77a7701.png)
-![祈祷侍从路线-3](https://ok.166.net/gameyw-gbox/bot/205/20210722/b4ca8bf4a26ffdbd017ec6b72fafd046351d7259.png)
+![绿色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20211027/1101b1e9a892f4f47164cef562f465856a157e27.png)
+![绿色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20211027/ccaeb73909fe8b6d7815bd4b68bb9906aba637ae.png)
 
 ---
 
