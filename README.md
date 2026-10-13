@@ -4,6 +4,8 @@
 
 自动获取并展示《光·遇》每日任务和活动信息。
 
+**[打开每日旅行手册 →](https://oivio-up.github.io/SkyDailyInfo/)** · 支持手机浏览、任务勾选、天气与图片攻略。
+
 ## 💡 项目说明
 
 本项目通过 **Cloudflare Worker** 中转 API 请求，使用 **GitHub Actions** 每日自动更新，将光遇的每日任务和活动信息展示在 README 中。

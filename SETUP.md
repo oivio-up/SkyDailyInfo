@@ -305,6 +305,31 @@ node --test tests/worker.test.js
 
 GitHub Actions 会在请求 Worker 和改写 README 之前运行同样的测试。
 
+## 7. GitHub Pages 网页
+
+网页地址：**https://oivio-up.github.io/SkyDailyInfo/**。每天获取数据成功后，`部署光遇旅行手册` 工作流会自动更新网页。修改前端并推送到 `main` 时也会自动部署。
+
+网页的任务勾选只保存在当前浏览器中，不会发送到服务器。图片使用仓库内文件，也可以点击打开网易原图。
+
+### 只更新网页，保留 README
+
+在仓库 **Settings → Secrets and variables → Actions → Variables** 中添加 Repository variable：
+
+| 名称 | 值 | 行为 |
+| --- | --- | --- |
+| `UPDATE_README` | `false` | 每日只更新网页数据，README 保留现有内容 |
+| `UPDATE_README` | `true` 或不设置 | 网页和 README 同时更新 |
+
+如果之后希望从 README 删除每日内容，可以删除 `DAILY_TASK_START` 与 `DAILY_TASK_END` 之间的区域，同时将此变量设为 `false`，保留上面的网页入口链接即可。
+
+### 部署与数据范围
+
+GitHub **Settings → Pages → Source** 使用 **GitHub Actions**。构建时只打包 `site/` 中的五个前端/数据文件与 `assets/daily/` 图片，不发布 Python 脚本、Worker 代码或配置。
+
+`site/data.json` 使用固定公开字段：日期、更新时间、任务、天气、月历、攻略和活动。不会直接发布 Worker 原始 JSON、原始回答或环境变量。网页不请求私有 Worker，`WORKER_URL`、`API_SECRET` 和游戏 UID 不进入前端。
+
+部署工作流通过 `workflow_run` 跟随每日更新，因为 GitHub Actions 自带 Token 的提交不会再次触发普通 `push` 工作流。可在 Actions 中手动运行 `部署光遇旅行手册` 重新发布。
+
 ---
 
 ## 📞 需要帮助？

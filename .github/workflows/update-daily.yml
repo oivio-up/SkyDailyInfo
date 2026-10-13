@@ -42,6 +42,7 @@ jobs:
         env:
           WORKER_URL: ${{ secrets.WORKER_URL }}
           API_SECRET: ${{ secrets.API_SECRET }}
+          UPDATE_README: ${{ vars.UPDATE_README || 'true' }}
         run: |
           python update_readme.py
 
@@ -50,6 +51,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
+          git add site/data.json
           if [ -d assets/daily ]; then
             git add -A -- assets/daily/
           fi

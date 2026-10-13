@@ -30,6 +30,7 @@ test_*.py
 *.log
 temp/
 tmp/
+dist/
 
 # 项目依赖与回归测试需要纳入版本控制
 !requirements.txt

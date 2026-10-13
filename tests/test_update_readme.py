@@ -1,4 +1,5 @@
 import os
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -96,6 +97,39 @@ class UpdateReadmeTests(unittest.TestCase):
                 self.assertIn(r'C:\new\route', result)
                 self.assertIn('小精灵提示', result)
                 self.assertTrue(result.endswith('footer'))
+            finally:
+                os.chdir(original_directory)
+
+    def test_public_site_data_excludes_private_fields_and_original_answers(self):
+        data = {
+            'task': {'taskList': [{'number': 1, 'task': '冥想'}],
+                     'rawAnswer': 'do-not-publish', 'uid': 'do-not-publish'},
+            'uid': 'do-not-publish', 'token': 'do-not-publish',
+            'WORKER_URL': 'do-not-publish', 'API_SECRET': 'do-not-publish',
+            'events': [], 'taskDetails': [],
+        }
+        public = update_readme.build_public_data(data, MagicMock())
+        self.assertEqual(public['tasks'], [{'number': 1, 'text': '冥想'}])
+        self.assertNotIn('do-not-publish', json.dumps(public))
+        self.assertEqual(set(public), {'date', 'updatedAt', 'tasks', 'weather', 'calendar', 'details', 'events'})
+
+    def test_site_only_update_preserves_readme_and_its_images(self):
+        original_directory = os.getcwd()
+        with tempfile.TemporaryDirectory() as directory:
+            try:
+                os.chdir(directory)
+                image = Path('assets/daily') / ('a' * 64 + '.png')
+                image.parent.mkdir(parents=True)
+                image.write_bytes(b'cached')
+                original = '# Demo\n![保留图片](' + image.as_posix() + ')'
+                Path('README.md').write_text(original, encoding='utf-8')
+                with patch.dict(os.environ, {'UPDATE_README': 'false'}), patch.object(
+                    update_readme, 'fetch_daily_data', return_value={'task': {'taskList': [{'number': 1, 'task': '冥想'}]}}
+                ):
+                    update_readme.main()
+                self.assertEqual(Path('README.md').read_text(encoding='utf-8'), original)
+                self.assertTrue(image.exists())
+                self.assertTrue(Path('site/data.json').exists())
             finally:
                 os.chdir(original_directory)
 

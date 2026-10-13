@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f4ed">
+  <meta name="description" content="光遇每日旅行手册：今日任务、天气、月历和任务攻略，每日自动更新。">
+  <title>光遇 · 每日旅行手册</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#tasks">跳到今日任务</a>
+  <header class="masthead wrap">
+    <a class="brand" href="./" aria-label="光遇旅行手册首页">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M4 15c9 0 13 5 16 11 3-6 7-11 16-11M10 10c5 1 8 4 10 7 2-3 5-6 10-7"/></svg>
+      <span>光遇<span class="brand-sub">每日旅行手册</span></span>
+    </a>
+    <nav aria-label="页面导航">
+      <a href="#tasks">任务</a><a href="#guides">攻略</a><a href="#calendar">月历</a>
+    </nav>
+    <a class="repo-link" href="https://github.com/oivio-up/SkyDailyInfo" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+  </header>
+
+  <main class="wrap">
+    <section class="intro" aria-labelledby="page-title">
+      <div class="intro-copy">
+        <p class="eyebrow">SKY / FIELD NOTES</p>
+        <p id="date-label" class="date-label">正在读取今天的手册</p>
+        <h1 id="page-title">今天，也去<br>见见光。</h1>
+        <p class="intro-note">把日常写进旅途，把星光带回家。</p>
+        <p id="updated" class="updated" aria-live="polite"></p>
+      </div>
+      <svg class="landscape" viewBox="0 0 480 300" role="img" aria-label="云间山峰与飞鸟的线条插画">
+        <circle class="sun" cx="329" cy="66" r="32"/>
+        <path class="cloud" d="M36 159h96m-116 17h66m293-60h65m-84 16h88"/>
+        <path class="mountain-back" d="M55 246l124-154 125 154m-73 0 113-117 90 117"/>
+        <path class="mountain" d="M85 248l119-121 133 121M162 170l42-43 44 43-23-8-20 18-18-17z"/>
+        <path class="ground" d="M33 249h413M111 263h212"/>
+        <path class="birds" d="M87 63q10-3 18 7 8-10 18-7m106-25q8-2 14 5 6-7 14-5m131 128q8-2 14 5 6-7 14-5"/>
+        <path class="traveler" d="M361 238l-9-18-8 18m0 0h17m-8-18v-7m-2-1h4m-8 26-2 10m12-10 2 10"/>
+      </svg>
+    </section>
+
+    <div id="notice" class="notice" role="status" hidden></div>
+    <div id="error" class="error" role="alert" hidden><p>暂时没能打开旅行手册，请稍后再试。</p><button id="retry" type="button">重新加载</button></div>
+    <noscript><p class="notice">开启 JavaScript 后即可查看任务。你也可以前往 <a href="https://github.com/oivio-up/SkyDailyInfo">GitHub 仓库</a>查看。</p></noscript>
+
+    <div id="content" class="page-grid" hidden>
+      <div class="primary">
+        <section id="tasks" class="tasks section" aria-labelledby="tasks-title">
+          <div class="section-heading"><div><p class="eyebrow">01 / TODAY'S JOURNEY</p><h2 id="tasks-title">今日旅行指南</h2></div><button id="copy-tasks" class="text-button" type="button">复制任务 ↗</button></div>
+          <div class="progress-row"><span id="progress-text">已完成 0 / 4</span><span class="small-note">勾选记录仅保存在本机</span></div>
+          <div class="progress-track" aria-hidden="true"><div id="progress-bar"></div></div>
+          <div id="task-list" class="task-list"></div>
+          <p id="task-empty" class="empty" hidden>今天的任务还没有更新，稍后再来看看吧。</p>
+          <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+        </section>
+
+        <section id="weather" class="weather section" aria-labelledby="weather-title">
+          <div class="section-heading"><div><p class="eyebrow">02 / WEATHER REPORT</p><h2 id="weather-title">天空来信</h2></div><span class="section-side">天气与碎片</span></div>
+          <p id="weather-text" class="weather-text"></p>
+          <div id="weather-images" class="weather-images image-list"></div>
+        </section>
+
+        <section id="guides" class="guides section" aria-labelledby="guides-title">
+          <div class="section-heading"><div><p class="eyebrow">03 / TRAVEL GUIDE</p><h2 id="guides-title">旅途中的小指引</h2></div></div>
+          <p class="section-description">展开攻略，查看位置和图片指引。</p>
+          <div id="guide-list"></div>
+        </section>
+      </div>
+
+      <aside class="sidebar">
+        <section id="calendar" class="calendar section" aria-labelledby="calendar-title"><p class="eyebrow">MONTHLY NOTES</p><h2 id="calendar-title">这个月的约定</h2><p class="section-description">活动与日程，一张月历慢慢看。</p><div id="calendar-images" class="image-list"></div></section>
+        <section id="events" class="events section" aria-labelledby="events-title"><p class="eyebrow">ALONG THE WAY</p><h2 id="events-title">今日活动</h2><div id="event-list"></div></section>
+        <p class="margin-note">愿每一次相遇，<br>都成为旅途的光。</p>
+      </aside>
+    </div>
+  </main>
+  <footer class="footer wrap"><span>光遇 · 每日旅行手册</span><span>北京时间每日更新 · 非官方项目</span><a href="#page-title">回到页首 ↑</a></footer>
+</body>
+</html>

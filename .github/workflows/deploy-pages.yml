@@ -1,0 +1,45 @@
+name: 部署光遇旅行手册
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'assets/daily/**'
+      - 'build_site.py'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['更新光遇每日任务']
+    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - name: 打包公开网页文件
+        run: python3 build_site.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: 发布 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

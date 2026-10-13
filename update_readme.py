@@ -7,6 +7,8 @@
 import os
 import re
 import sys
+import json
+from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlsplit
 from html import unescape
@@ -213,7 +215,8 @@ def format_calendar(calendar_data, image_store=None):
     return (image_store.render('光遇日历', images[0]) if image_store
             else f'![光遇日历]({images[0]})')
 
-def update_readme(task_data, events_data, weather_data, task_details=None, calendar_data=None):
+def update_readme(task_data, events_data, weather_data, task_details=None, calendar_data=None,
+                  image_store=None, prune_images=True):
     """更新 README.md 文件"""
     readme_path = 'README.md'
     
@@ -236,7 +239,7 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     
     # 格式化活动
     events = format_events(events_data)
-    image_store = ImageStore()
+    image_store = image_store or ImageStore()
     task_details = filter_task_details(task_data, task_details)
     
     # 格式化天气 (返回文字和图片)
@@ -319,13 +322,71 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     # 写入文件
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
-    image_store.prune()
+    if prune_images:
+        image_store.prune()
     
     print(f"✅ README.md 已更新 ({date_str} {time_str})")
     if task_details:
         print(f"   📍 包含 {len(task_details)} 个任务详情")
     if calendar_data:
         print(f"   📅 包含本月日历")
+
+def build_public_data(data, image_store, now=None):
+    """明确选取公开字段，绝不序列化 Worker 原始响应或环境配置。"""
+    now = now or datetime.now(timezone(timedelta(hours=8)))
+    def images(items):
+        result = []
+        for item in items if isinstance(items, list) else []:
+            url = safe_image_url(item)
+            if url:
+                result.append({'src': image_store.save(url) or url, 'source': url})
+        return result
+
+    task_data = data.get('task', {})
+    tasks = []
+    for line in extract_tasks(task_data).splitlines():
+        match = re.match(r'^\s*([1-4])[.．、]\s*(.+)', line)
+        if match:
+            tasks.append({'number': int(match[1]), 'text': match[2].strip()})
+    weather_text, weather_images = format_weather(data.get('weather'))
+    calendar = data.get('calendar')
+    details = []
+    for detail in filter_task_details(task_data, data.get('taskDetails')):
+        details.append({
+            'keyword': sanitize_text(detail.get('keyword', '')),
+            'title': sanitize_text(detail.get('title') or detail.get('keyword', '')),
+            'text': sanitize_text(detail.get('text', '')),
+            'images': images(detail.get('images')),
+        })
+    events = []
+    for event in data.get('events') or []:
+        if isinstance(event, dict):
+            events.append({
+                'title': sanitize_text(event.get('title', '')),
+                'description': sanitize_text(event.get('description', '')),
+                'location': sanitize_text(event.get('location', '')),
+                'times': [sanitize_text(time) for time in event.get('times', [])],
+            })
+    return {
+        'date': now.strftime('%Y-%m-%d'),
+        'updatedAt': now.isoformat(),
+        'tasks': tasks,
+        'weather': {'text': weather_text or '', 'images': images(weather_images)},
+        'calendar': {'images': images(calendar.get('images')) if isinstance(calendar, dict) else []},
+        'details': details,
+        'events': events,
+    }
+
+
+def write_site_data(data, image_store):
+    path = Path('site/data.json')
+    path.parent.mkdir(parents=True, exist_ok=True)
+    public_data = build_public_data(data, image_store)
+    temporary = path.with_suffix('.tmp')
+    temporary.write_text(json.dumps(public_data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    temporary.replace(path)
+    print('✅ 网页数据已更新')
+
 
 def main():
     print("🌤 开始更新光遇每日任务...")
@@ -334,14 +395,19 @@ def main():
     data = fetch_daily_data()
     print("✅ 成功获取数据")
     
-    # 更新 README
-    update_readme(
-        data.get('task', {}),
-        data.get('events', []),
-        data.get('weather'),
-        data.get('taskDetails'),
-        data.get('calendar')
-    )
+    image_store = ImageStore()
+    write_site_data(data, image_store)
+    if os.environ.get('UPDATE_README', 'true').lower() != 'false':
+        update_readme(
+            data.get('task', {}), data.get('events', []), data.get('weather'),
+            data.get('taskDetails'), data.get('calendar'), image_store, prune_images=False,
+        )
+    # 网页单独更新时保留现有 README 引用，避免使它的图片失效。
+    if Path('README.md').exists():
+        content = Path('README.md').read_text(encoding='utf-8')
+        for reference in re.findall(r'!\[[^\]]*\]\((assets/daily/[0-9a-f]{64}\.(?:png|jpg|gif|webp))\)', content):
+            image_store.used.add(Path(reference))
+    image_store.prune()
     print("✅ 完成!")
 
 if __name__ == '__main__':
