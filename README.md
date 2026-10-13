@@ -14,6 +14,7 @@
 - 🔒 敏感数据（UID、Token）安全存储在 Cloudflare
 - 🚀 通过 Cloudflare Worker 中转 API，保护隐私
 - 📱 清晰的任务和活动展示
+- 🖼️ 图片保存到仓库，避免外链代理失效
 - ⏰ 北京时间每天 8:00 自动更新
 
 ---
@@ -37,14 +38,14 @@
 
 天气播报：大部分地区地区阴天多云，蝴蝶平原将会有冷却碎片降落
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20220926/68ff6e19ff1c61c3185e1df154e05d46c523c0ea.jpg)
+![天气预报](assets/daily/ae3d1f28884dda76c293877f0e4d4618d46f749dc90b845a71e7e793e1f58147.jpg)
 
-![天气预报](https://ok.166.net/gameyw-gbox/bot/205/20240418/dfd02caa18e408602d673ebc86141b46432de5b0.jpg)
+![天气预报](assets/daily/1c4ad4c9eff7ba33ff3023613c1512e879113e4d83cce99902b4913d7cf3711c.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](https://ok.166.net/gameyw-gbox/bot/205/20260929/a603f701debe1ee081ed492e16bc13904a7b3276.jpg)
+![光遇日历](assets/daily/82635faf378182c0ae1ee30b3006afd0d2a972e2a4a2e4c171a338d4b5c36050.jpg)
 
 
 ### 📖 任务详细攻略
@@ -62,9 +63,9 @@
  今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－蓝色光芒
 
 
-![蓝色光芒-1](https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg)
-![蓝色光芒-2](https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg)
-![蓝色光芒-3](https://ok.166.net/gameyw-gbox/bot/205/20211028/e79f01c1200fdebfee163d93701485982417fb61.png)
+![蓝色光芒-1](assets/daily/1b83625df624b95d2d2ffbd72acdce8ddf85a1082755fa6d1f1aaca1a134246c.jpg)
+![蓝色光芒-2](assets/daily/9b07749a8bd739ac1b42c3e9bfcb8f169c42b7c1ccb8a8a544207ba17f93a1db.jpg)
+![蓝色光芒-3](assets/daily/7cdda6ef370fce854d9cddba2c757846f0e4b78e66292d6928da0f116bc14790.png)
 
 ---
 
@@ -78,17 +79,6 @@
 1、若旅人从未收集过该先祖，任务会显示为：在圆梦村剧场找到谦虚舞者；
 2、若旅人之前已收集过该先祖，任务会显示为：谦虚舞者在圆梦村需要帮助
 
-
----
-
-
-#### 📍 妙脆角-一颗爱心
-
-小精灵被抓住啦！
-点击图片中的图标助力小精灵重获自由吧！
-
-
-![拯救小精灵-1](https://ok.166.net/gameyw-gbox/bot/205/20260709/fbd633d1ec75102b6139e8a3d1ca6649ec8d6d66.png)
 
 ---
 

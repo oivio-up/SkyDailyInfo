@@ -1,0 +1,17 @@
+[
+  {
+    "name": "task links survive while renamed footer promotions are excluded",
+    "answer": "〖今日旅行指南〗#r1. 收集蓝色光芒 >> <a href=\"https://example.com/?q=%E8%93%9D%E8%89%B2%E5%85%89%E8%8A%92\" data-ask=\"true\">位置</a>#r2. 招手#r3. 接受礼物#r4. 帮助谦虚舞者 <a data-ask='true' class='link' href='https://example.com/?other=1&amp;q=帮助谦虚舞者'>指引</a>#r5. 推广 <a data-ask='true' href='?q=新活动名称'>活动</a>#r<a data-ask='true' href='?q=拯救小精灵'>妙脆角-一颗爱心</a>#r<a data-ask='true' href='?q=完全不同的新广告'>查看</a>",
+    "expected": ["蓝色光芒", "帮助谦虚舞者"]
+  },
+  {
+    "name": "HTML line breaks, entity queries, duplicate links and supplementary guides",
+    "answer": "<p>【今日旅行指南】</p><p>1．收集光芒 <a data-ask=TRUE href='?q=蓝色光芒&amp;x=1'>指引</a></p><p>2、收集光芒 <a href='?q=蓝色光芒' data-ask='true'>指引</a></p><br>3. 招手<br>4. 礼物<br><a href='?q=季节蜡烛探索指南' data-ask='true'>蜡烛</a><br><a href='?q=表情包' data-ask='true'>表情</a>",
+    "expected": ["蓝色光芒", "季节蜡烛探索指南"]
+  },
+  {
+    "name": "only bot question links from task rows qualify",
+    "answer": "#cffffff1. 冥想 <a href='?q=外部文章'>推荐</a><a href='http://[broken' data-ask='true'>坏链接</a><a href='?q=雨林冥想' data-ask='true'>位置</a>#r2. 招手#r3. 礼物#r4. 小精灵任务 <a href='?q=小精灵提示攻略' data-ask='true'>提示</a>",
+    "expected": ["雨林冥想", "小精灵提示攻略"]
+  }
+]

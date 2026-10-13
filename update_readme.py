@@ -9,8 +9,11 @@ import re
 import sys
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlsplit
+from html import unescape
 
 import requests
+from image_store import ImageStore
+from task_content import filter_task_details
 
 
 # Windows 的旧默认终端编码无法输出日志中的 emoji。
@@ -45,8 +48,15 @@ def safe_image_url(value):
     if not isinstance(value, str):
         return None
 
-    url = value.strip()
-    parsed = urlsplit(url)
+    url = unescape(value.strip())
+    try:
+        parsed = urlsplit(url)
+    except ValueError:
+        return None
+    # 网易历史资料也可能返回 HTTP；同一 CDN 支持 HTTPS。
+    if parsed.scheme == 'http' and parsed.hostname == 'ok.166.net':
+        url = 'https:' + url[5:]
+        parsed = urlsplit(url)
     if parsed.scheme != 'https' or not parsed.netloc:
         return None
 
@@ -155,7 +165,7 @@ def format_weather(weather_data):
     # 兼容旧的纯文本格式
     return sanitize_text(weather_data), []
 
-def format_task_details(details_list):
+def format_task_details(details_list, image_store=None):
     """格式化任务详情（先祖位置等）"""
     if not isinstance(details_list, list) or not details_list:
         return ""
@@ -181,13 +191,15 @@ def format_task_details(details_list):
             for i, img_url in enumerate(images):
                 safe_url = safe_image_url(img_url)
                 if safe_url:
-                    result.append(f"![{keyword}-{i+1}]({safe_url})")
+                    label = f'{keyword}-{i+1}'
+                    result.append(image_store.render(label, safe_url) if image_store
+                                  else f'![{label}]({safe_url})')
         
         result.append("\n---\n")  # 分隔线
     
     return '\n'.join(result)
 
-def format_calendar(calendar_data):
+def format_calendar(calendar_data, image_store=None):
     """格式化日历图片"""
     if not isinstance(calendar_data, dict) or not calendar_data:
         return ""
@@ -198,7 +210,8 @@ def format_calendar(calendar_data):
         return ""
     
     # 显示第一张日历图片
-    return f"![光遇日历]({images[0]})"
+    return (image_store.render('光遇日历', images[0]) if image_store
+            else f'![光遇日历]({images[0]})')
 
 def update_readme(task_data, events_data, weather_data, task_details=None, calendar_data=None):
     """更新 README.md 文件"""
@@ -223,15 +236,17 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     
     # 格式化活动
     events = format_events(events_data)
+    image_store = ImageStore()
+    task_details = filter_task_details(task_data, task_details)
     
     # 格式化天气 (返回文字和图片)
     weather_text, weather_images = format_weather(weather_data)
     
     # 格式化任务详情
-    details = format_task_details(task_details) if task_details else ""
+    details = format_task_details(task_details, image_store) if task_details else ""
     
     # 格式化日历
-    calendar = format_calendar(calendar_data) if calendar_data else ""
+    calendar = format_calendar(calendar_data, image_store) if calendar_data else ""
     
     # 生成天气部分
     weather_section = ""
@@ -245,7 +260,7 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
         # 添加天气图片
         if weather_images:
             for img_url in weather_images:
-                weather_section += f"![天气预报]({img_url})\n\n"
+                weather_section += image_store.render('天气预报', img_url) + '\n\n'
     
     # 生成日历部分
     calendar_section = ""
@@ -291,7 +306,7 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
         pattern = f"{re.escape(START_MARKER)}.*?{re.escape(END_MARKER)}"
         new_content = re.sub(
             pattern,
-            f"{START_MARKER}\n{new_section}{END_MARKER}",
+            lambda _: f"{START_MARKER}\n{new_section}{END_MARKER}",
             content,
             flags=re.DOTALL
         )
@@ -304,6 +319,7 @@ def update_readme(task_data, events_data, weather_data, task_details=None, calen
     # 写入文件
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
+    image_store.prune()
     
     print(f"✅ README.md 已更新 ({date_str} {time_str})")
     if task_details:

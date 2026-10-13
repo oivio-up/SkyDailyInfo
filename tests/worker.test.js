@@ -96,3 +96,37 @@ test('handleRequest fails closed before accessing upstream services', async () =
   assert.equal(methodResponse.status, 405)
   assert.equal(methodResponse.headers.get('allow'), 'GET, OPTIONS')
 })
+
+const keywordFixtures = JSON.parse(fs.readFileSync(path.join(__dirname, 'task_keywords.json'), 'utf8'))
+for (const fixture of keywordFixtures) {
+  test(fixture.name, () => {
+    const worker = loadWorker()
+    assert.deepEqual(Array.from(worker.extractTaskKeywords(fixture.answer)), fixture.expected)
+  })
+}
+
+test('task details never query footer promotion questions', async () => {
+  const worker = loadWorker()
+  const questions = []
+  worker.queryKnowledge = async (token, question) => {
+    questions.push(question)
+    return { title: question, images: [], text: '小精灵提示：有用的指引' }
+  }
+  const details = await worker.getTaskDetails('token', { answer: keywordFixtures[0].answer }, {})
+  assert.deepEqual(questions, keywordFixtures[0].expected)
+  assert.equal(details.length, 2)
+})
+
+test('image extraction accepts reordered attributes, entities and single quotes', () => {
+  const worker = loadWorker()
+  const images = worker.extractImages(`<img width='400' src='https://ok.166.net/a.png?a=1&amp;b=2'>
+    <IMG src="https://ok.166.net/a.png?a=1&amp;b=2">
+    <img src="https://ok.166.net/154572ba48115878409a93239e5028e54f392adb.gif">`)
+  assert.deepEqual(Array.from(images), ['https://ok.166.net/a.png?a=1&b=2'])
+})
+
+test('daily tasks accept the alternate title and HTML breaks', () => {
+  const worker = loadWorker()
+  const text = worker.cleanText('〖今日旅行指南〗<br>1．冥想 &amp; 招手<br>2、收集光芒<br>3. 礼物<br>4. 帮助先祖<br>5. 新广告')
+  assert.equal(text, '【今日旅行指南】\n1.冥想 & 招手\n2.收集光芒\n3. 礼物\n4. 帮助先祖')
+})

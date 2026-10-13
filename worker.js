@@ -166,7 +166,7 @@ async function handleRequest(request) {
     // 生成今日缓存键（需要是完整的 URL）
     const today = getBeijingDate()
     const cacheUrl = new URL(request.url)
-    cacheUrl.pathname = `/cache/sky-daily-${today}`
+    cacheUrl.pathname = `/cache/sky-daily-v2-${today}`
     cacheUrl.search = '' // 清除查询参数
     
     // 1. 尝试从缓存获取数据（除非强制刷新）
@@ -428,21 +428,7 @@ async function getWeatherForecast(token, config) {
       const htmlText = data.data.answer
       
       // 提取图片URL (过滤广告图片)
-      const imgRegex = /<img\s+src="([^"]+)"/g
-      const images = []
-      const imageBlacklist = [
-        '154572ba48115878409a93239e5028e54f392adb.gif', // 点赞表情包
-      ]
-      
-      let match
-      while ((match = imgRegex.exec(htmlText)) !== null) {
-        const imgUrl = match[1]
-        // 检查是否包含黑名单中的图片
-        const isBlacklisted = imageBlacklist.some(blocked => imgUrl.includes(blocked))
-        if (!isBlacklisted) {
-          images.push(imgUrl)
-        }
-      }
+      const images = extractImages(htmlText)
       
       // 提取文字内容
       const textOnly = htmlText
@@ -508,21 +494,7 @@ async function queryKnowledge(token, question, method = "link", config) {
     
     if (data.code === 200 && data.data && data.data.answer) {
       // 提取所有图片URL (过滤广告图片)
-      const imgRegex = /<img\s+src="([^"]+)"/g
-      const images = []
-      const imageBlacklist = [
-        '154572ba48115878409a93239e5028e54f392adb.gif', // 点赞表情包
-      ]
-      
-      let match
-      while ((match = imgRegex.exec(data.data.answer)) !== null) {
-        const imgUrl = match[1]
-        // 检查是否包含黑名单中的图片
-        const isBlacklisted = imageBlacklist.some(blocked => imgUrl.includes(blocked))
-        if (!isBlacklisted) {
-          images.push(imgUrl)
-        }
-      }
+      const images = extractImages(data.data.answer)
       
       // 提取文字内容
       let textContent = data.data.answer
@@ -572,32 +544,7 @@ async function getTaskDetails(token, taskData, config) {
     return []
   }
   
-  // 提取所有 <a> 标签中的 question
-  const linkRegex = /<a\s+href="[^"]*q=([^"&]+)"[^>]*data-ask="true"/g
-  const keywords = []
-  let match
-  
-  // 需要过滤的关键词（广告和无用内容）
-  const blacklist = [
-    '专属客服',
-    '客服',
-    '在线',
-    '7×8',
-    '光遇小生',
-    '表情包',
-    '精灵表情包'
-  ]
-  
-  while ((match = linkRegex.exec(taskData.answer)) !== null) {
-    const keyword = decodeURIComponent(match[1])
-    
-    // 检查是否包含黑名单关键词
-    const isBlacklisted = blacklist.some(blocked => keyword.includes(blocked))
-    
-    if (!isBlacklisted) {
-      keywords.push(keyword)
-    }
-  }
+  const keywords = extractTaskKeywords(taskData.answer)
   
   // 查询每个关键词的详情
   const details = []
@@ -614,17 +561,68 @@ async function getTaskDetails(token, taskData, config) {
   return details
 }
 
+function decodeHtml(value) {
+  return value.replace(/&(?:quot|amp|lt|gt|apos|nbsp|#\d+|#x[\da-f]+);/gi, entity => {
+    const names = { quot: '"', amp: '&', lt: '<', gt: '>', apos: "'", nbsp: ' ' }
+    const name = entity.slice(1, -1).toLowerCase()
+    if (name in names) return names[name]
+    const number = name.startsWith('#x') ? parseInt(name.slice(2), 16) : parseInt(name.slice(1), 10)
+    return number <= 0x10ffff ? String.fromCodePoint(number) : entity
+  })
+}
+
+function tagAttributes(tag) {
+  const attributes = {}
+  const regex = /([\w-]+)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/g
+  let match
+  while ((match = regex.exec(tag)) !== null) {
+    attributes[match[1].toLowerCase()] = decodeHtml(match[2] ?? match[3] ?? match[4])
+  }
+  return attributes
+}
+
+function extractImages(answer) {
+  const images = new Set()
+  for (const match of answer.matchAll(/<img\b[^>]*>/gi)) {
+    const url = tagAttributes(match[0]).src
+    if (url && !url.includes('154572ba48115878409a93239e5028e54f392adb.gif')) {
+      images.add(url)
+    }
+  }
+  return [...images]
+}
+
+/** 只查询任务行里的链接，避免推广文案改名后绕过固定黑名单。 */
+function extractTaskKeywords(answer) {
+  const rows = answer.replace(/<\/?(?:br|p|div)\b[^>]*>/gi, '\n').replace(/#r/g, '\n')
+  const keywords = new Set()
+  for (const row of rows.split(/\r?\n/)) {
+    const visible = decodeHtml(row.replace(/<[^>]*>/g, ''))
+      .replace(/#c[\da-fA-F]{6}|#n/g, '').trim()
+    const isTask = /^[1-4][.．、]\s*/.test(visible)
+    for (const match of row.matchAll(/<a\b[^>]*>/gi)) {
+      const attributes = tagAttributes(match[0])
+      if (attributes['data-ask']?.toLowerCase() !== 'true') continue
+      try {
+        const keyword = new URL(attributes.href, 'https://knowledge.invalid/').searchParams.get('q')
+        if (keyword && (isTask || /^(?:季节蜡烛|大蜡烛|红石|碎片)(?:位置|探索|攻略|指南)/.test(keyword))) {
+          keywords.add(keyword)
+        }
+      } catch {
+        // 单个畸形链接不影响其他任务攻略。
+      }
+    }
+  }
+  return [...keywords]
+}
+
 /**
  * 清理 HTML 标签和游戏标记，并提取纯净的任务列表
  */
 function cleanText(html) {
   let text = html
   // 解码 HTML 实体
-  text = text.replace(/&quot;/g, '"')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&#39;/g, "'")
+  text = text.replace(/<\/?(?:br|p|div)\b[^>]*>/gi, '\n')
   
   // 替换游戏内标记
   text = text.replace(/#r/g, '\n')
@@ -633,12 +631,13 @@ function cleanText(html) {
   
   // 去除 HTML 标签
   text = text.replace(/<[^>]*>/g, '')
+  text = decodeHtml(text)
   
   // 清除多余空行
   text = text.replace(/\n{3,}/g, '\n\n')
   
   // 提取【今日旅行指南】到第5行任务为止
-  const guideMatch = text.match(/【今日旅行指南】([\s\S]*?)(?:【|$)/)
+  const guideMatch = text.match(/[【〖]今日旅行指南[】〗]([\s\S]*?)(?:[【〖]|$)/)
   if (guideMatch) {
     text = '【今日旅行指南】' + guideMatch[1]
   }
@@ -658,7 +657,7 @@ function cleanText(html) {
     }
     
     // 保留数字开头的任务（1. 2. 3. 等）
-    if (/^\d+\./.test(line)) {
+    if (/^\d+[.．、]/.test(line)) {
       taskCount++
       
       // 如果是第5行任务，直接停止处理
@@ -668,6 +667,7 @@ function cleanText(html) {
       
       // 去掉链接提示文字（如 >>祝福位置）
       line = line.replace(/\s*[>》]+.*$/, '')
+      line = line.replace(/^(\d+)[．、]/, '$1.')
       cleanedLines.push(line)
     }
   }

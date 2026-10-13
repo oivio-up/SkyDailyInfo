@@ -196,6 +196,21 @@ Invoke-RestMethod -Uri "https://你的worker.workers.dev" -Headers $headers -Met
 2. 检查仓库 Settings → Actions → General → Workflow permissions
 3. 确保选择了 **Read and write permissions**
 
+### ❓ 图片显示 “Cannot proxy the given URL”
+
+这是 GitHub Camo 无法代理外部图片时的错误，不一定代表网易原图失效。更新脚本现在会把天气、日历和任务图片下载到 `assets/daily/`，README 使用仓库相对路径；Actions 会将图片与 README 一起提交。
+
+- 相同 URL 的已有图片直接复用，下载有超时、重试和 10 MiB 大小限制。
+- 根据文件内容识别 PNG/JPEG/GIF/WebP，不依赖上游可能异常的 Content-Type。
+- 下载失败时保留可点击的原图链接；其他任务信息仍会更新。
+- README 写入成功后清理当前不再引用的自动生成图片，手工添加的文件保留。Git 历史仍会保留旧版本。
+
+### ❓ 攻略里混入“拯救小精灵”等推广
+
+现在按每日任务正文的结构选择问答链接：查询前四项任务行中的链接，并保留季节蜡烛、大蜡烛及碎片的相关指南。正文其他位置的推广即使换了名称也不会成为任务攻略；攻略中的“小精灵提示”等有效说明继续保留。
+
+Python 更新端会对旧 Worker 返回的详情做相同筛选，因此同步 GitHub 后即可生效。将新版 `worker.js` 重新部署到 Cloudflare 后，还能避免请求这些推广详情。新版缓存键包含 `v2`，不会复用旧解析结果。
+
 ### ❓ Token 过期怎么办？
 
 **不用担心！** Worker 会在每次请求时自动重新获取新的 token，你不需要手动维护。
