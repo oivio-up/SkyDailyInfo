@@ -147,7 +147,7 @@ function updateProgress() {
   const total = journal.tasks.length
   const done = $('task-list').querySelectorAll('input:checked').length
   $('progress-text').textContent = total && done === total ? '今日任务已完成，愿你满载而归。' : `已完成 ${done} / ${total}`
-  $('progress-bar').style.width = `${total ? done / total * 100 : 0}%`
+  $('progress-bar').style.transform = `scaleX(${total ? done / total : 0})`
 }
 
 async function load() {
