@@ -22,25 +22,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月14日 每日任务
+## 📅 2026年10月15日 每日任务
 
-> 最后更新: 2026年10月14日 11:35:13 (北京时间)
+> 最后更新: 2026年10月15日 11:15:02 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在巨兽荒原捕捉3个光点
-2. 向一位玩家鞠躬
-3. 净化10株黑暗植物
-4. 前往暮土重温隐秘幸存者的回忆
+1. 在禁阁第二层冥想
+2. 在荧光小菇旁回复能量
+3. 和朋友击掌
+4. 在禁阁追逐散落的星光
 ```
 
 ### 🌤️ 天气预报
 
 天气播报：今日无碎片降落
 
-![天气预报](assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg)
+![天气预报](assets/daily/36e438b8ab2bffcf5297649aef52d29ba48465bb4a77e9db0a7e6349de2314e5.jpg)
 
 
 ### 📅 本月日历
@@ -51,37 +51,48 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在巨兽荒原捕捉3个光点
+#### 📍 在禁阁第二层冥想
 
-【在巨兽荒原捕捉3个光点】
-1.先前往暮土大厅
-2.一直往前飞，穿过边陲荒漠
-3.到达巨兽荒原，能看到浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、巨兽荒原有冥龙盘旋，旅人们收集时请万分小心
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
- 今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在巨兽荒原捕捉3个光点
+【每日任务－在禁阁第二层冥想】
+位置：禁阁－禁阁二层
+指引：
+进入禁阁后，往前走，通过机关电梯一路向上
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20260722/67631bde6eb6480f54ffa25bad3023e215ae511e.mp4
+ 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=在禁阁第二层冥想
 
 
-![巨兽荒原捕捉光点-1](assets/daily/e25afa36ad0a8481440cbbee6174d6fd2d004e20d4cf0fe0ea4d76bbb00eb0e9.jpg)
-![巨兽荒原捕捉光点-2](assets/daily/e8c88dd99e5d4cfca058a836d36bc230d9b0f9b7cfae6b009fe9b5283f9bbd08.jpg)
-![巨兽荒原捕捉光点-3](assets/daily/72537c1b0968877edf7ff67e39a0b3ff3a0579bbfb36cb0eeaaa0f55e6de7535.jpg)
+![禁阁二层冥想-1](assets/daily/a7be00338373f6ee951f5ffb5fe15c7fff16e05db0e3696edd142a98d33e3644.jpg)
+![禁阁二层冥想-2](assets/daily/fc0612a709d4d337b69b8267bdfe095248e7f7cf5490a90b4692e72fdec20af5.jpg)
+![禁阁二层冥想-3](assets/daily/b1d44a076939ac1f89bf413fe42e023a51f9ca7f5cb8cdcf4be26dc72960583e.jpg)
 
 ---
 
 
-#### 📍 暮土-隐秘幸存者
+#### 📍 荧光小菇
 
-【暮土·隐秘幸存者】
-兑换装扮：脏辫发型、小心翼翼站姿、黑色斗篷、黑色镶边斗篷（黑色二级斗篷）
-先祖位置：穿过巨兽荒原，飞向中间山体的左下角，找到山洞，先祖在山洞中静候~
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20261014/f8cd2347ce850055685d3aa55763027632ca97e5.mp4
-今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-隐秘幸存者
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![隐秘幸存者路线-1](assets/daily/7474574a70dd34fb833cacf64b9068df3398ad21c39e1c062be55b225784e9f6.jpg)
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
+
+---
+
+
+#### 📍 每日任务－在禁阁追逐散落的星光
+
+【每日任务－在禁阁追逐散落的星光】
+位置：禁阁大厅
+指引：进入禁阁后即可看到天上的星光在飞哦
+今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在禁阁追逐散落的星光
+
+
+![禁阁星光-1](assets/daily/e1fda056951ccb04eb031cca32d9267f95a1e745aba52808b7f26e4b271105cf.png)
 
 ---
 
