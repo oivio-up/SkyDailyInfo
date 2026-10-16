@@ -22,25 +22,33 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月15日 每日任务
+## 📅 2026年10月16日 每日任务
 
-> 最后更新: 2026年10月15日 11:15:02 (北京时间)
+> 最后更新: 2026年10月16日 11:11:05 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在禁阁第二层冥想
-2. 在荧光小菇旁回复能量
-3. 和朋友击掌
-4. 在禁阁追逐散落的星光
+1. 接受一位朋友的礼物
+2. 在水母上回复能量
+3. 向一位朋友招手
+4. 点亮一位玩家
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有灼热碎片坠落在黑水港湾
 
-![天气预报](assets/daily/36e438b8ab2bffcf5297649aef52d29ba48465bb4a77e9db0a7e6349de2314e5.jpg)
+![天气预报](assets/daily/765f0313fb3782b6155c7a0cb783d9fa9788fd017363a71fb55b8ff3d3fdb883.jpg)
+
+![天气预报](assets/daily/e25afa36ad0a8481440cbbee6174d6fd2d004e20d4cf0fe0ea4d76bbb00eb0e9.jpg)
+
+![天气预报](assets/daily/f49c70413b5012328b63571b483d16723d058ec1a4e2e2d04607a6c7a399a162.jpg)
+
+![天气预报](assets/daily/0d30ee6148f514d232d51b9f30eaa837bc622c50b11a1699bdd87a1925811838.jpg)
+
+![天气预报](assets/daily/b078109a4eebbf532421c3d5484a1749a3c7b4fd8213920f097a11469a7accb4.jpg)
 
 
 ### 📅 本月日历
@@ -51,48 +59,17 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 在禁阁第二层冥想
+#### 📍 每日任务·在水母上恢复能量
 
-【每日任务－在禁阁第二层冥想】
-位置：禁阁－禁阁二层
-指引：
-进入禁阁后，往前走，通过机关电梯一路向上
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20260722/67631bde6eb6480f54ffa25bad3023e215ae511e.mp4
- 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=在禁阁第二层冥想
+【每日任务－在水母上恢复能量】
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
+注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
 
 
-![禁阁二层冥想-1](assets/daily/a7be00338373f6ee951f5ffb5fe15c7fff16e05db0e3696edd142a98d33e3644.jpg)
-![禁阁二层冥想-2](assets/daily/fc0612a709d4d337b69b8267bdfe095248e7f7cf5490a90b4692e72fdec20af5.jpg)
-![禁阁二层冥想-3](assets/daily/b1d44a076939ac1f89bf413fe42e023a51f9ca7f5cb8cdcf4be26dc72960583e.jpg)
-
----
-
-
-#### 📍 荧光小菇
-
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
- 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
-
-
-![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
-
----
-
-
-#### 📍 每日任务－在禁阁追逐散落的星光
-
-【每日任务－在禁阁追逐散落的星光】
-位置：禁阁大厅
-指引：进入禁阁后即可看到天上的星光在飞哦
-今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在禁阁追逐散落的星光
-
-
-![禁阁星光-1](assets/daily/e1fda056951ccb04eb031cca32d9267f95a1e745aba52808b7f26e4b271105cf.png)
+![水母位置-1](assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png)
+![水母位置-2](assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png)
 
 ---
 
