@@ -22,50 +22,67 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月18日 每日任务
+## 📅 2026年10月19日 每日任务
 
-> 最后更新: 2026年10月18日 11:04:29 (北京时间)
+> 最后更新: 2026年10月19日 11:18:39 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在水母上回复能量
-2. 净化10株黑暗植物
-3. 收集30点烛火
-4. 和朋友击掌
+1. 向一位玩家鞠躬
+2. 接受一位朋友的礼物
+3. 在荧光小菇旁回复能量
+4. 前往暮土重温行礼船长的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在圣岛
+天气播报：今日无碎片降落
 
-![天气预报](assets/daily/9891340a8b115dde2d8cd22a8206b2f4279e195fa36d5471070c3a866b4c2a80.jpg)
-
-![天气预报](assets/daily/9aed9befbc57e44f1014f765df524c9e719aae07480a6ebd4dd1282076efa681.jpg)
-
-![天气预报](assets/daily/3960eea40a131203663f8f63a8ffd58073258574c9eaf5e7eee9a36f774d8af7.jpg)
+![天气预报](assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](assets/daily/82635faf378182c0ae1ee30b3006afd0d2a972e2a4a2e4c171a338d4b5c36050.jpg)
+![光遇日历](assets/daily/6f6a6b064a38c4b9d549dd3e7ebfd5e2576180a4e4892ef3b9d0b280116888b2.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 荧光小菇
 
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![水母位置-1](assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png)
-![水母位置-2](assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png)
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
+
+---
+
+
+#### 📍 暮土-行礼船长
+
+【暮土·行礼船长】
+先祖位置：解锁一个暮土先祖后，进入黑水港湾(沉船图)里，飞到沉船的残骸后面，即可看到先祖
+视频攻略：
+https://ok.166.net/gameyw-gbox/bot/205/20260511/8736af761b3e2a81e9552aaebfd895acfc1e0135.mp4
+兑换图鉴：
+今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-行礼船长
+
+
+![行礼船长路线-1](assets/daily/e25afa36ad0a8481440cbbee6174d6fd2d004e20d4cf0fe0ea4d76bbb00eb0e9.jpg)
+![行礼船长路线-2](assets/daily/f49c70413b5012328b63571b483d16723d058ec1a4e2e2d04607a6c7a399a162.jpg)
+![行礼船长路线-3](assets/daily/0d30ee6148f514d232d51b9f30eaa837bc622c50b11a1699bdd87a1925811838.jpg)
+![行礼船长路线-4](assets/daily/b078109a4eebbf532421c3d5484a1749a3c7b4fd8213920f097a11469a7accb4.jpg)
+![行礼船长路线-5](assets/daily/90e610969b6e842b808d07cf256119cd401972d5a8fdf074091387d6cdbe2115.png)
+![行礼船长路线-6](assets/daily/cc9a8adf5c77031450052c911fd21eef275c09b6a68f8ed320dde3de08eb1692.png)
+![行礼船长路线-7](assets/daily/754c9eae4afe2e594e4ec985ea1be384a7e45848cc5a8c6f3e974580eb3677fe.png)
 
 ---
 
