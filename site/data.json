@@ -1,32 +1,27 @@
 {
-  "date": "2026-10-19",
-  "updatedAt": "2026-10-19T11:18:38.109295+08:00",
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T11:27:01.432297+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "向一位玩家鞠躬"
+      "text": "和朋友击掌"
     },
     {
       "number": 2,
-      "text": "接受一位朋友的礼物"
+      "text": "收集30点烛火"
     },
     {
       "number": 3,
-      "text": "在荧光小菇旁回复能量"
+      "text": "在水母上回复能量"
     },
     {
       "number": 4,
-      "text": "前往暮土重温行礼船长的回忆"
+      "text": "在禁阁的庇护所中捕捉3个光点"
     }
   ],
   "weather": {
-    "text": "天气播报：今日无碎片降落",
-    "images": [
-      {
-        "src": "assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg"
-      }
-    ]
+    "text": "",
+    "images": []
   },
   "calendar": {
     "images": [
@@ -38,48 +33,32 @@
   },
   "details": [
     {
-      "keyword": "荧光小菇",
-      "title": "荧光小菇",
-      "text": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇",
+      "keyword": "水母位置",
+      "title": "每日任务·在水母上恢复能量",
+      "text": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量",
       "images": [
         {
-          "src": "assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png"
+          "src": "assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png"
+        },
+        {
+          "src": "assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png"
         }
       ]
     },
     {
-      "keyword": "行礼船长路线",
-      "title": "暮土-行礼船长",
-      "text": "【暮土·行礼船长】\n先祖位置：解锁一个暮土先祖后，进入黑水港湾(沉船图)里，飞到沉船的残骸后面，即可看到先祖\n视频攻略：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260511/8736af761b3e2a81e9552aaebfd895acfc1e0135.mp4\n兑换图鉴：\n今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-行礼船长",
+      "keyword": "庇护所捕捉光点",
+      "title": "每日任务-在禁阁的庇护所中捕捉浮动的光点",
+      "text": "【在禁阁的庇护所中捕捉浮动的光点】\n1、前往禁阁大厅，进入庇护所\n2、进入庇护所后往前走，浮动的光点就在前方飞\n3、触碰后可捕捉光点\n小精灵提醒您：\n1、进入庇护前所需要收集一位禁阁常驻先祖\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n视频攻略：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260602/919392b7a3b7551d676e57f0601985813868d58a.mp4\n今日推荐：在禁阁的庇护所中捕捉浮动的光点-视频指引https://ds.163.com/feed/6972cce3d085d23f35829c38?utm_content=f_ma75.jl.jlctPT.default.a146im&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在禁阁的庇护所中捕捉浮动的光点",
       "images": [
         {
-          "src": "assets/daily/e25afa36ad0a8481440cbbee6174d6fd2d004e20d4cf0fe0ea4d76bbb00eb0e9.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/c65cadbe45e2fe8cc68115a458d308304df86653.jpg"
+          "src": "assets/daily/a85f2cb45157be8b9712aa7ecbd8ed6a36018f260f15d038a33be96f34294239.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20260123/fcdec33f2c5fda365e97e23014f755b1b85961d7.jpg"
         },
         {
-          "src": "assets/daily/f49c70413b5012328b63571b483d16723d058ec1a4e2e2d04607a6c7a399a162.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/4dd04f4e169d01a47eae832ca3d1a47ab4d5148b.jpg"
-        },
-        {
-          "src": "assets/daily/0d30ee6148f514d232d51b9f30eaa837bc622c50b11a1699bdd87a1925811838.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/e7df53cc9e6cee939bffe4bc4fc92e702f61b38e.jpg"
-        },
-        {
-          "src": "assets/daily/b078109a4eebbf532421c3d5484a1749a3c7b4fd8213920f097a11469a7accb4.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/26adc6bbf8f6db1fb6231d67796173db0d15f92c.jpg"
-        },
-        {
-          "src": "assets/daily/90e610969b6e842b808d07cf256119cd401972d5a8fdf074091387d6cdbe2115.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20210723/ea3571d003d52ab8e9d53296d40e3f5fe8b9295b.png"
-        },
-        {
-          "src": "assets/daily/cc9a8adf5c77031450052c911fd21eef275c09b6a68f8ed320dde3de08eb1692.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220511/16d5adfbc750e35f9c868b0ac43f867dbde67ad1.png"
-        },
-        {
-          "src": "assets/daily/754c9eae4afe2e594e4ec985ea1be384a7e45848cc5a8c6f3e974580eb3677fe.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20210722/d5641a22f082c6be69e9e61f6629c91579229575.png"
+          "src": "assets/daily/3dfa7a51250aacb44ea3a2f984f130fb1d4a876a01d4c85ce3c420299e8b4af5.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20260724/54a059ebc2c7d6496047c1e1a28c1c3b584dec72.png"
         }
       ]
     }
