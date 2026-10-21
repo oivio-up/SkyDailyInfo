@@ -22,19 +22,34 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月20日 每日任务
+## 📅 2026年10月21日 每日任务
 
-> 最后更新: 2026年10月20日 11:27:04 (北京时间)
+> 最后更新: 2026年10月21日 11:21:58 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 和朋友击掌
-2. 收集30点烛火
-3. 在水母上回复能量
-4. 在禁阁的庇护所中捕捉3个光点
+1. 在云野的锦鲤池旁冥想
+2. 在荧光小菇旁回复能量
+3. 向一位朋友做个动作
+4. 帮助苦修行者
 ```
+
+### 🌤️ 天气预报
+
+天气播报：今日将会有冷却碎片坠落在远古战场
+
+![天气预报](assets/daily/169946130d583c5c317de256662d9434562368d34b88a60f323ab3ec9bcc2c9d.jpg)
+
+![天气预报](assets/daily/e25afa36ad0a8481440cbbee6174d6fd2d004e20d4cf0fe0ea4d76bbb00eb0e9.jpg)
+
+![天气预报](assets/daily/f49c70413b5012328b63571b483d16723d058ec1a4e2e2d04607a6c7a399a162.jpg)
+
+![天气预报](assets/daily/ca9e25347403e45260103700c11ec2b9273dc7839cd93bb28b22850b29fe8fe0.jpg)
+
+![天气预报](assets/daily/127d296e70c7da3e9922a26455c5cf38569bdaf42c26b1c235fae285ae0ff8a8.jpg)
+
 
 ### 📅 本月日历
 
@@ -44,39 +59,48 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务·在水母上恢复能量
+#### 📍 每日任务－在云野的锦鲤池旁冥想
 
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
+【每日任务－在云野的锦鲤池旁冥想】
+任务：在云野的锦鲤池旁冥想
+位置：云野－三塔图－锦鲤池
+步骤：进入云野三塔图后往终点方向飞，找到小桥，在小桥旁即可找到
+视频指引
+https://ok.166.net/gameyw-gbox/bot/205/20261020/11d9992f5b77ceb4e566d5c8129f96e0c561d019.mp4
+ 今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在云野的锦鲤池旁冥想
 
 
-![水母位置-1](assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png)
-![水母位置-2](assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png)
+![锦鲤池冥想-1](assets/daily/afb963579dcdbb4a1c9ed3dfbc6aaf24376631c06592055f5732da3af3ac2e3e.png)
+![锦鲤池冥想-2](assets/daily/99f9abaf12493ab2531633d7347e8bb65e564c57fa638d85960a911408c3c59f.png)
 
 ---
 
 
-#### 📍 每日任务-在禁阁的庇护所中捕捉浮动的光点
+#### 📍 荧光小菇
 
-【在禁阁的庇护所中捕捉浮动的光点】
-1、前往禁阁大厅，进入庇护所
-2、进入庇护所后往前走，浮动的光点就在前方飞
-3、触碰后可捕捉光点
-小精灵提醒您：
-1、进入庇护前所需要收集一位禁阁常驻先祖
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-视频攻略：
-https://ok.166.net/gameyw-gbox/bot/205/20260602/919392b7a3b7551d676e57f0601985813868d58a.mp4
-今日推荐：在禁阁的庇护所中捕捉浮动的光点-视频指引https://ds.163.com/feed/6972cce3d085d23f35829c38?utm_content=f_ma75.jl.jlctPT.default.a146im&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在禁阁的庇护所中捕捉浮动的光点
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![庇护所捕捉光点-1](assets/daily/a85f2cb45157be8b9712aa7ecbd8ed6a36018f260f15d038a33be96f34294239.jpg)
-![庇护所捕捉光点-2](assets/daily/3dfa7a51250aacb44ea3a2f984f130fb1d4a876a01d4c85ce3c420299e8b4af5.png)
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
+
+---
+
+
+#### 📍 苦修行者任务
+
+【每日任务－帮助苦修行者】
+请旅人先查看接到的任务名称，然后在下方选择对应指南
+在云峰找到苦修行者　｜　苦修行者在云巢需要帮助
+小精灵提示：
+1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；
+2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务
+
 
 ---
 
