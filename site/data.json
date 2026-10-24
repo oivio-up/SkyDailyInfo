@@ -1,95 +1,50 @@
 {
-  "date": "2026-10-23",
-  "updatedAt": "2026-10-23T11:25:41.395774+08:00",
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T11:20:02.621798+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "在雪隐峰捕捉浮动的光点"
+      "text": "在荧光小菇旁回复能量"
     },
     {
       "number": 2,
-      "text": "向一位朋友招手"
+      "text": "收集30点烛火"
     },
     {
       "number": 3,
-      "text": "掀翻5只螃蟹"
+      "text": "接受一位朋友的礼物"
     },
     {
       "number": 4,
-      "text": "前往霞谷重温回旋大师的回忆"
+      "text": "和陌生人一起坐在长凳上"
     }
   ],
   "weather": {
-    "text": "天气播报：今日将会有灼热碎片坠落在云顶浮石",
+    "text": "天气播报：今日无碎片降落",
     "images": [
       {
-        "src": "assets/daily/746438fc0c3d2ac43bad138497d40059147678c88b8df1cf5c15f3ad5180435d.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221009/be21d1a86ab489892f5b201b1168a793e422ce22.jpg"
-      },
-      {
-        "src": "assets/daily/7288f876f317adeb67b8c249cc5dbb4009fbfc1ea9b17af830f0cfaee0e58893.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/7eb7da8ebdaedec9d1c02045a79081487424daab.jpg"
-      },
-      {
-        "src": "assets/daily/82001463bff77ab170262554a253fea3493b0464ca6f944c3190274ce55a8abb.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/3d6f2f2826bc4727282a93a3eb7dd382820ceaec.jpg"
+        "src": "assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg"
       }
     ]
   },
   "calendar": {
     "images": [
       {
-        "src": "assets/daily/6f6a6b064a38c4b9d549dd3e7ebfd5e2576180a4e4892ef3b9d0b280116888b2.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20261019/5bf6145a80cb1ea4f65dfa85fcaadc2245f7ec55.jpg"
+        "src": "assets/daily/5a7afa8abe7bf94d4688c40d6aaf07e6b74411ec4cc71ab50bd10eaef936a8b7.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20261023/21f8e0055edc0682e4258bf57b775f71714e0d3e.jpg"
       }
     ]
   },
   "details": [
     {
-      "keyword": "雪隐峰捕捉光点",
-      "title": "每日任务-在雪隐峰捕捉浮动的光点",
-      "text": "【在雪隐峰捕捉浮动的光点】\n1.进入霞谷后，往右走，前往圆梦村\n2.来到圆梦村后，往前走找到飞船站点\n3.点亮飞船站点的机关，召唤飞船\n4.乘坐飞船一路往上走即可来到雪隐峰\n5.到达雪隐峰后向前走，能看到浮动的光点，触碰后可捕捉光点\n小精灵提醒您：\n1、进入圆梦村需要收集一位暮土常驻先祖　　　　　>>>点击查看\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/020bae4fb35971d6064cb7d53b9d11263a505c9f.mp4\n 今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在雪隐峰捕捉浮动的光点",
+      "keyword": "荧光小菇",
+      "title": "荧光小菇",
+      "text": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇",
       "images": [
         {
-          "src": "assets/daily/ab76bc316b3edc272ea21c36be481f2cc45a41f29f02ecaef5f944e8f24b36d6.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg"
-        },
-        {
-          "src": "assets/daily/2465048759cf97f69d9ab3f84ccea18f733d38e2ef9e4c6529f205904ae68121.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/1846c774f36453dba51936ee62fa926f55b76693.jpg"
-        },
-        {
-          "src": "assets/daily/3ea875d9832d76815ca9e3bd61cfaf6db3077c3ee1fea9e9098285d02a4a520c.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/fdf6c05a56b481b893ff1df901226b05b3b9a10c.jpg"
-        },
-        {
-          "src": "assets/daily/400ab1e0ef8bdff590f16d7ad6bff22f9c0dd08c9874e819c4adc52d57f88672.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/2c1b9d7c33dd78fa46af7e7a06fbec3f960bce34.jpg"
-        },
-        {
-          "src": "assets/daily/4b9410f773d77062c429e8938a5a5951f3e5b8a3a8060ca6dd4b8eb2aee7d670.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20260209/e1b90d51ad16994f40a7c5630d83f21112b05a65.jpg"
-        },
-        {
-          "src": "assets/daily/815e59a4079ad0f6b2413bba066f6e686192bc3e18f97ed9d5be7866f51f00d4.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20260209/2bcdb4bf30e310601930be01ed60b9a89cdd5980.jpg"
-        }
-      ]
-    },
-    {
-      "keyword": "掀螃蟹攻略",
-      "title": "掀螃蟹攻略",
-      "text": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略",
-      "images": []
-    },
-    {
-      "keyword": "回旋大师路线",
-      "title": "梦想季回旋大师路线",
-      "text": "【梦想季－回旋大师】\n先祖位置：霞谷·圆梦村\n小精灵提醒旅人：进入圆梦村需要收集一位暮土常驻先祖　　>>点击查看：暮土常驻先祖位置\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260803/5f3d827d12cad206c5d91ab787317a384e12e287.mp4\n 今日推荐：《I Say Yeah》琴谱分享https://ds.163.com/feed/6a81c8d023fee73ea7424b76/?utm_content=f_ma75.jl.jlctPT.top.lqs9ot&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=梦想季回旋大师路线 ",
-      "images": [
-        {
-          "src": "assets/daily/b50f68bc8c15231669d4ff477b0aee5ff7eaed0710fa8050871e4b2dc72713c2.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20240705/8ac395cd314f733240956c323c3fbb54351546ff.jpg"
+          "src": "assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png"
         }
       ]
     },

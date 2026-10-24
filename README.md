@@ -22,87 +22,46 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月23日 每日任务
+## 📅 2026年10月24日 每日任务
 
-> 最后更新: 2026年10月23日 11:25:42 (北京时间)
+> 最后更新: 2026年10月24日 11:20:04 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在雪隐峰捕捉浮动的光点
-2. 向一位朋友招手
-3. 掀翻5只螃蟹
-4. 前往霞谷重温回旋大师的回忆
+1. 在荧光小菇旁回复能量
+2. 收集30点烛火
+3. 接受一位朋友的礼物
+4. 和陌生人一起坐在长凳上
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在云顶浮石
+天气播报：今日无碎片降落
 
-![天气预报](assets/daily/746438fc0c3d2ac43bad138497d40059147678c88b8df1cf5c15f3ad5180435d.jpg)
-
-![天气预报](assets/daily/7288f876f317adeb67b8c249cc5dbb4009fbfc1ea9b17af830f0cfaee0e58893.jpg)
-
-![天气预报](assets/daily/82001463bff77ab170262554a253fea3493b0464ca6f944c3190274ce55a8abb.jpg)
+![天气预报](assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg)
 
 
 ### 📅 本月日历
 
-![光遇日历](assets/daily/6f6a6b064a38c4b9d549dd3e7ebfd5e2576180a4e4892ef3b9d0b280116888b2.jpg)
+![光遇日历](assets/daily/5a7afa8abe7bf94d4688c40d6aaf07e6b74411ec4cc71ab50bd10eaef936a8b7.jpg)
 
 
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在雪隐峰捕捉浮动的光点
+#### 📍 荧光小菇
 
-【在雪隐峰捕捉浮动的光点】
-1.进入霞谷后，往右走，前往圆梦村
-2.来到圆梦村后，往前走找到飞船站点
-3.点亮飞船站点的机关，召唤飞船
-4.乘坐飞船一路往上走即可来到雪隐峰
-5.到达雪隐峰后向前走，能看到浮动的光点，触碰后可捕捉光点
-小精灵提醒您：
-1、进入圆梦村需要收集一位暮土常驻先祖　　　　　>>>点击查看
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/020bae4fb35971d6064cb7d53b9d11263a505c9f.mp4
- 今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在雪隐峰捕捉浮动的光点
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![雪隐峰捕捉光点-1](assets/daily/ab76bc316b3edc272ea21c36be481f2cc45a41f29f02ecaef5f944e8f24b36d6.jpg)
-![雪隐峰捕捉光点-2](assets/daily/2465048759cf97f69d9ab3f84ccea18f733d38e2ef9e4c6529f205904ae68121.jpg)
-![雪隐峰捕捉光点-3](assets/daily/3ea875d9832d76815ca9e3bd61cfaf6db3077c3ee1fea9e9098285d02a4a520c.jpg)
-![雪隐峰捕捉光点-4](assets/daily/400ab1e0ef8bdff590f16d7ad6bff22f9c0dd08c9874e819c4adc52d57f88672.jpg)
-![雪隐峰捕捉光点-5](assets/daily/4b9410f773d77062c429e8938a5a5951f3e5b8a3a8060ca6dd4b8eb2aee7d670.jpg)
-![雪隐峰捕捉光点-6](assets/daily/815e59a4079ad0f6b2413bba066f6e686192bc3e18f97ed9d5be7866f51f00d4.jpg)
-
----
-
-
-#### 📍 掀螃蟹攻略
-
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
- 今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
----
-
-
-#### 📍 梦想季回旋大师路线
-
-【梦想季－回旋大师】
-先祖位置：霞谷·圆梦村
-小精灵提醒旅人：进入圆梦村需要收集一位暮土常驻先祖　　>>点击查看：暮土常驻先祖位置
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260803/5f3d827d12cad206c5d91ab787317a384e12e287.mp4
- 今日推荐：《I Say Yeah》琴谱分享https://ds.163.com/feed/6a81c8d023fee73ea7424b76/?utm_content=f_ma75.jl.jlctPT.top.lqs9ot&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=梦想季回旋大师路线
-
-
-![回旋大师路线-1](assets/daily/b50f68bc8c15231669d4ff477b0aee5ff7eaed0710fa8050871e4b2dc72713c2.jpg)
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
 
 ---
 
