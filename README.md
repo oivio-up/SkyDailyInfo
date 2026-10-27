@@ -22,18 +22,18 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年10月26日 每日任务
+## 📅 2026年10月27日 每日任务
 
-> 最后更新: 2026年10月26日 11:16:34 (北京时间)
+> 最后更新: 2026年10月27日 11:45:34 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在幽光山洞里冥想
-2. 向一位朋友做个动作
-3. 掀翻5只螃蟹
-4. 前往云野重温旋转舞者的回忆
+1. 在荧光小菇旁回复能量
+2. 净化10株黑暗植物
+3. 点亮一位玩家
+4. 在风行网道捕捉三个光之碎片
 ```
 
 ### 🌤️ 天气预报
@@ -51,34 +51,38 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－在幽光山洞里冥想
+#### 📍 荧光小菇
 
-【每日任务－在幽光山洞里冥想】
-任务：在幽光山洞里冥想
-位置：在云野－幽光山洞(左侧隐藏图)
-步骤：穿越云野大厅后，前往左侧隐藏门，进去后往洞口里飞就看到啦
-小精灵提醒旅人：进入幽光山洞地图需先收集2名晨岛先祖，3名云野先祖
-视频指引：https://ok.166.net/gameyw-gbox/bot/205/20261026/ae51dc240cab8a647369df41aaca54bdf4870041.mp4
- 今日推荐：《I Say Yeah》琴谱分享https://ds.163.com/feed/6a81c8d023fee73ea7424b76/?utm_content=f_ma75.jl.jlctPT.top.lqs9ot&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在幽光山洞里冥想
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![幽光山洞冥想-1](assets/daily/23f4f14c450f0f30508fb275b2fc86b41729702531ac153c29fdf6b1ef07a5e5.png)
-![幽光山洞冥想-2](assets/daily/8216b81e61f89cb8e24d326410baaa0fb762a8c54bbfff14c5252656ad450ee5.png)
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
 
 ---
 
 
-#### 📍 音韵季旋转舞者路线
+#### 📍 每日任务-在风行网道捕捉浮动的光点
 
-【音韵季旋转舞者路线】
-先祖位置：云野·云顶浮石
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20261023/a7e01102ad5878a48e91a4284dac8806cd155b6e.mp4
-2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～
-今日推荐：水果穿搭合集！https://ds.163.com/feed/6a05208388776b5fd2c24e59/?utm_content=f_ma75.jl.jlctPT.top.r8autn&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=音韵季旋转舞者路线
+【在风行网道捕捉浮动的光点】
+1、先前往雨林大厅
+2、往右飞，找到风行网道入口
+3、到达风行网道后向前飞，能看到浮动的光点，触碰后可捕捉光点.
+小精灵提醒您：
+1、进入风行网道先收集一位禁阁常驻先祖哦　　　　　>>>点击查看
+2、需要收集三个光点
+3、在收集过程中若光点消失，旅人可尝试重新进入地图
+图片指引：
+大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在风行网道捕捉浮动的光点
 
 
-![旋转舞者路线-1](assets/daily/64d784cc9a1938387ed6fab79b41ba6c1c5dd69809dcc7057b17bf54a0fa841d.jpg)
+![风行网道捕捉光点-1](assets/daily/93f424b04c3ac1c1fdff05f1987dbf9eaeef56bdd6770eeba82752184644eb3a.jpg)
+![风行网道捕捉光点-2](assets/daily/ca6c969a157012aefddb116e262c11aa80ac6719d1895aba4789b0939543f648.jpg)
+![风行网道捕捉光点-3](assets/daily/6860b5810f16075bc730af40723fb19017b3345105bdf1ac0cf19834de80dd57.jpg)
 
 ---
 
