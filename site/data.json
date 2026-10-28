@@ -1,30 +1,38 @@
 {
-  "date": "2026-10-27",
-  "updatedAt": "2026-10-27T11:45:33.267374+08:00",
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T12:02:39.569569+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "在荧光小菇旁回复能量"
+      "text": "在圆梦村的温泉休息一下"
     },
     {
       "number": 2,
-      "text": "净化10株黑暗植物"
+      "text": "和朋友击掌"
     },
     {
       "number": 3,
-      "text": "点亮一位玩家"
+      "text": "向一位玩家鞠躬"
     },
     {
       "number": 4,
-      "text": "在风行网道捕捉三个光之碎片"
+      "text": "在霞谷追逐散落的星光"
     }
   ],
   "weather": {
-    "text": "天气播报：今日无碎片降落",
+    "text": "天气播报：今日将会有冷却碎片坠落在仙乡",
     "images": [
       {
-        "src": "assets/daily/786738d123af1a8767665d93c4819b11779d6609d31cf3507d29255d9e8be34b.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg"
+        "src": "assets/daily/5dd16d038782a67354ea3e7f9b97c2ae39489ccd58e399a6ed8f6a892c5141d1.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220920/52ce0359c9702ce3b71c600a4528691f3462658a.jpg"
+      },
+      {
+        "src": "assets/daily/8a4703203d434cf8410b4bb2d047b25372312cf0d9f7a56653c2e153bb4f8e48.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg"
+      },
+      {
+        "src": "assets/daily/65c4c598e466c42617f97612bf0fc4d1541020df3885b49ccfc847dd13d42bda.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg"
       }
     ]
   },
@@ -38,32 +46,32 @@
   },
   "details": [
     {
-      "keyword": "荧光小菇",
-      "title": "荧光小菇",
-      "text": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n 今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇",
+      "keyword": "圆梦村温泉休息",
+      "title": "每日任务-在圆梦村的温泉休息一下",
+      "text": "【每日任务-在圆梦村的温泉休息一下】\n位置：霞谷-圆梦村\n指引：\n1.先前往霞谷大厅\n2.往右飞，找到圆梦村入口\n3.进入圆梦村后，前往右上方的山峰，温泉就在此处\n4.在温泉处稍作休息，待任务进度条满即可\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260615/78bf6e76018df91fafc02eaa56786b902a415226.mp4",
       "images": [
         {
-          "src": "assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png"
+          "src": "assets/daily/ab76bc316b3edc272ea21c36be481f2cc45a41f29f02ecaef5f944e8f24b36d6.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg"
+        },
+        {
+          "src": "assets/daily/3dadeeb1a52382355a22d0beb51aa2a90cc80729ed7576ee2870adf3f8d283b9.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20230320/16557acc7513732c53b23c60476223f3d1657543.jpg"
+        },
+        {
+          "src": "assets/daily/e62ac35aceb691fc5c6fcfb9767efd530db37d1b246c954ba4dab9158754c2d8.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20230320/ac5659d51c1e624dac8b91083e6fe14ad7ccc764.jpg"
         }
       ]
     },
     {
-      "keyword": "风行网道捕捉光点",
-      "title": "每日任务-在风行网道捕捉浮动的光点",
-      "text": "【在风行网道捕捉浮动的光点】\n1、先前往雨林大厅\n2、往右飞，找到风行网道入口\n3、到达风行网道后向前飞，能看到浮动的光点，触碰后可捕捉光点.\n小精灵提醒您：\n1、进入风行网道先收集一位禁阁常驻先祖哦　　　　　>>>点击查看\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n大神推荐：不同类型光之子最怕听到的声音https://ds.163.com/feed/696115db2ceb4709c1e8fc30/?utm_content=f_ma75.jl.jlctPT.default.dj3wdf&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务-在风行网道捕捉浮动的光点",
+      "keyword": "霞谷星光",
+      "title": "每日任务－在霞谷追逐散落的星光",
+      "text": "【每日任务－在霞谷追逐散落的星光】\n位置：霞谷－溜冰场\n指引：进入霞谷后，一路滑冰进入溜冰场，星光（一颗会飞的光球）就在溜冰场里飞\n大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在霞谷追逐散落的星光",
       "images": [
         {
-          "src": "assets/daily/93f424b04c3ac1c1fdff05f1987dbf9eaeef56bdd6770eeba82752184644eb3a.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/a7eddd11925c36d014e6977cab531af7e196a76b.jpg"
-        },
-        {
-          "src": "assets/daily/ca6c969a157012aefddb116e262c11aa80ac6719d1895aba4789b0939543f648.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/76d0c8dc8163fd0560185a10da4f25bb83a3b263.jpg"
-        },
-        {
-          "src": "assets/daily/6860b5810f16075bc730af40723fb19017b3345105bdf1ac0cf19834de80dd57.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20260702/f042a0e1279a0b1b3f3d12cff2b4387e5d0669b0.jpg"
+          "src": "assets/daily/818e73653f696ba6e601637e4ea391e790a7d12065b0474313edea32a84cef66.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211115/0e39276b95d9fb2938282df0e9afe87de189b70a.png"
         }
       ]
     },
