@@ -1,38 +1,30 @@
 {
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T12:02:39.569569+08:00",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T19:18:41.864100+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "在圆梦村的温泉休息一下"
+      "text": "在巨兽荒原的神坛旁冥想"
     },
     {
       "number": 2,
-      "text": "和朋友击掌"
+      "text": "向一位朋友招手"
     },
     {
       "number": 3,
-      "text": "向一位玩家鞠躬"
+      "text": "收集30点烛火"
     },
     {
       "number": 4,
-      "text": "在霞谷追逐散落的星光"
+      "text": "帮助苦修行者"
     }
   ],
   "weather": {
-    "text": "天气播报：今日将会有冷却碎片坠落在仙乡",
+    "text": "天气播报：今日无碎片降落",
     "images": [
       {
-        "src": "assets/daily/5dd16d038782a67354ea3e7f9b97c2ae39489ccd58e399a6ed8f6a892c5141d1.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220920/52ce0359c9702ce3b71c600a4528691f3462658a.jpg"
-      },
-      {
-        "src": "assets/daily/8a4703203d434cf8410b4bb2d047b25372312cf0d9f7a56653c2e153bb4f8e48.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg"
-      },
-      {
-        "src": "assets/daily/65c4c598e466c42617f97612bf0fc4d1541020df3885b49ccfc847dd13d42bda.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg"
+        "src": "assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg"
       }
     ]
   },
@@ -46,34 +38,21 @@
   },
   "details": [
     {
-      "keyword": "圆梦村温泉休息",
-      "title": "每日任务-在圆梦村的温泉休息一下",
-      "text": "【每日任务-在圆梦村的温泉休息一下】\n位置：霞谷-圆梦村\n指引：\n1.先前往霞谷大厅\n2.往右飞，找到圆梦村入口\n3.进入圆梦村后，前往右上方的山峰，温泉就在此处\n4.在温泉处稍作休息，待任务进度条满即可\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260615/78bf6e76018df91fafc02eaa56786b902a415226.mp4",
+      "keyword": "巨兽荒原冥想",
+      "title": "每日任务·巨兽荒原冥想",
+      "text": "【每日任务－在巨兽荒原的神坛旁冥想】\n任务：在巨兽荒原的神坛旁冥想\n位置：暮土－巨兽荒原(四龙图)\n步骤：先进入暮土四龙图，往前飞，在下一个图的入口附近即可找到\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260724/5b379b72d2cc6c5bf8229ffe577806b88b190086.mp4\n 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·巨兽荒原冥想",
       "images": [
         {
-          "src": "assets/daily/ab76bc316b3edc272ea21c36be481f2cc45a41f29f02ecaef5f944e8f24b36d6.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg"
-        },
-        {
-          "src": "assets/daily/3dadeeb1a52382355a22d0beb51aa2a90cc80729ed7576ee2870adf3f8d283b9.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20230320/16557acc7513732c53b23c60476223f3d1657543.jpg"
-        },
-        {
-          "src": "assets/daily/e62ac35aceb691fc5c6fcfb9767efd530db37d1b246c954ba4dab9158754c2d8.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20230320/ac5659d51c1e624dac8b91083e6fe14ad7ccc764.jpg"
+          "src": "assets/daily/e300c7cfb01908e211baa417e201b699e835a6e7ac64b89c1cf77ce3184f1c95.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220501/9f00b5292b249df318d4244b197bbd3e8087f16a.png"
         }
       ]
     },
     {
-      "keyword": "霞谷星光",
-      "title": "每日任务－在霞谷追逐散落的星光",
-      "text": "【每日任务－在霞谷追逐散落的星光】\n位置：霞谷－溜冰场\n指引：进入霞谷后，一路滑冰进入溜冰场，星光（一颗会飞的光球）就在溜冰场里飞\n大神推荐：游戏里捡到的萌新竟然是…https://ds.163.com/feed/697363cdab776b3c673745a4/?utm_content=f_ma75.jl.jlctPT.default.kdjy9y&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&q=每日任务－在霞谷追逐散落的星光",
-      "images": [
-        {
-          "src": "assets/daily/818e73653f696ba6e601637e4ea391e790a7d12065b0474313edea32a84cef66.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211115/0e39276b95d9fb2938282df0e9afe87de189b70a.png"
-        }
-      ]
+      "keyword": "苦修行者任务",
+      "title": "苦修行者任务",
+      "text": "【每日任务－帮助苦修行者】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在云峰找到苦修行者　｜　苦修行者在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；\n2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。\n 今日推荐：恶作剧之日魔女裙穿搭分享https://ds.163.com/feed/6adfbbc6ca8643644ab76386/?utm_content=f_ma75.jl.jlctPT.top.c9wnqq&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务",
+      "images": []
     },
     {
       "keyword": "季节蜡烛探索指南",
