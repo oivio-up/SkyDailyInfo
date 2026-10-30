@@ -1,30 +1,38 @@
 {
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T19:18:41.864100+08:00",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T12:25:53.120670+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "在巨兽荒原的神坛旁冥想"
+      "text": "掀翻5只螃蟹"
     },
     {
       "number": 2,
-      "text": "向一位朋友招手"
+      "text": "在荧光小菇旁回复能量"
     },
     {
       "number": 3,
-      "text": "收集30点烛火"
+      "text": "净化10株黑暗植物"
     },
     {
       "number": 4,
-      "text": "帮助苦修行者"
+      "text": "前往禁阁重温祈祷侍从的回忆"
     }
   ],
   "weather": {
-    "text": "天气播报：今日无碎片降落",
+    "text": "天气播报：今日将会有灼热碎片坠落在圆梦村",
     "images": [
       {
-        "src": "assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg"
+        "src": "assets/daily/5b0daa6002e23e6c36872de7ac7f7294c70b73210a1a0b95b76035c359036876.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220926/ddb5d4517646aad4414b40c94671daf2eaec7782.jpg"
+      },
+      {
+        "src": "assets/daily/ab76bc316b3edc272ea21c36be481f2cc45a41f29f02ecaef5f944e8f24b36d6.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/829db7138cd0d7cdd0b54a8cecbbc2237d3da440.jpg"
+      },
+      {
+        "src": "assets/daily/7e7d5e36da8601dba620a7e64086959bef3dfa328474608343784eabe57fb19d.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220824/69b5010968240ef0a63be0c6ebd9c565b1280279.jpg"
       }
     ]
   },
@@ -38,21 +46,40 @@
   },
   "details": [
     {
-      "keyword": "巨兽荒原冥想",
-      "title": "每日任务·巨兽荒原冥想",
-      "text": "【每日任务－在巨兽荒原的神坛旁冥想】\n任务：在巨兽荒原的神坛旁冥想\n位置：暮土－巨兽荒原(四龙图)\n步骤：先进入暮土四龙图，往前飞，在下一个图的入口附近即可找到\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260724/5b379b72d2cc6c5bf8229ffe577806b88b190086.mp4\n 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·巨兽荒原冥想",
+      "keyword": "掀螃蟹攻略",
+      "title": "掀螃蟹攻略",
+      "text": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略",
+      "images": []
+    },
+    {
+      "keyword": "荧光小菇",
+      "title": "荧光小菇",
+      "text": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n 今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇",
       "images": [
         {
-          "src": "assets/daily/e300c7cfb01908e211baa417e201b699e835a6e7ac64b89c1cf77ce3184f1c95.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220501/9f00b5292b249df318d4244b197bbd3e8087f16a.png"
+          "src": "assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png"
         }
       ]
     },
     {
-      "keyword": "苦修行者任务",
-      "title": "苦修行者任务",
-      "text": "【每日任务－帮助苦修行者】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在云峰找到苦修行者　｜　苦修行者在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；\n2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。\n 今日推荐：恶作剧之日魔女裙穿搭分享https://ds.163.com/feed/6adfbbc6ca8643644ab76386/?utm_content=f_ma75.jl.jlctPT.top.c9wnqq&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务",
-      "images": []
+      "keyword": "祈祷侍从路线",
+      "title": "祈祷侍从",
+      "text": "【禁阁·祈祷侍从】\n先祖位置：禁阁一楼四人门里\n如何进入：\n1.需先获得禁阁二层先祖的动作(气功动作)　　　>>>气功动作第一层，在升降台的右侧和小伙伴合力打开四人门\n3.先祖就在走廊的尽头安静等候~\n兑换图鉴：\n 今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=祈祷侍从",
+      "images": [
+        {
+          "src": "assets/daily/ee4d93ac1b39149d5aeabe3fc7a7d5fdc2d2a01f9199ab8886b639793ded3bb9.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220512/86afcfb629391f3cb0cd51a3022bb4298a31d8e5.png"
+        },
+        {
+          "src": "assets/daily/fa25190abbf331765d86e56237659f84f8b40008cad64925ca9f1721efae6dbd.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20210723/94472a24a7ded6b9064de82f8e30efbfb77a7701.png"
+        },
+        {
+          "src": "assets/daily/6e2231e7f74864db42124d56b835cbf816bcfacc61af2c01e58a85fafaeee26d.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20210722/b4ca8bf4a26ffdbd017ec6b72fafd046351d7259.png"
+        }
+      ]
     },
     {
       "keyword": "季节蜡烛探索指南",
