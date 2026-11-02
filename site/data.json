@@ -1,38 +1,30 @@
 {
-  "date": "2026-11-01",
-  "updatedAt": "2026-11-01T12:28:17.159763+08:00",
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T12:30:00.790472+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "拾起一只螃蟹"
+      "text": "点亮一位玩家"
     },
     {
       "number": 2,
-      "text": "和陌生人一起坐在长凳上"
+      "text": "点燃20根蜡烛"
     },
     {
       "number": 3,
-      "text": "在荧光小菇旁回复能量"
+      "text": "和朋友击掌"
     },
     {
       "number": 4,
-      "text": "帮助忧郁自艾者"
+      "text": "帮助忙碌舞台管理员"
     }
   ],
   "weather": {
-    "text": "天气播报：大部分地区地区阴天多云，失落方舟将会有灼热碎片降落",
+    "text": "天气播报：今日无碎片降落",
     "images": [
       {
-        "src": "assets/daily/0445c8e3f6bdb3319620a5f637c45c67f5d824d4c15ec9b94b018cb43eb2666e.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220919/a02205bc4f8fe7b09e42af43633dceaf0d672544.jpg"
-      },
-      {
-        "src": "assets/daily/696bcd88614597ab8fef68ab35828001995496be3a53224823b0b3973cb58868.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/f5fe6ec25730803d454c3e0207a11f84788e9243.jpg"
-      },
-      {
-        "src": "assets/daily/99b7cd35ea97bbbeda12070a999489577f181f86108ab96a89fcf3cecf7aeb52.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/854dc8ac7d80bdc66e5644d3bfe34c52b2bf3dff.jpg"
+        "src": "assets/daily/786738d123af1a8767665d93c4819b11779d6609d31cf3507d29255d9e8be34b.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221102/2a10bf897551efe29c50589f29bd3a342db528fe.jpg"
       }
     ]
   },
@@ -46,26 +38,9 @@
   },
   "details": [
     {
-      "keyword": "掀螃蟹攻略",
-      "title": "掀螃蟹攻略",
-      "text": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略",
-      "images": []
-    },
-    {
-      "keyword": "荧光小菇",
-      "title": "荧光小菇",
-      "text": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n 今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇",
-      "images": [
-        {
-          "src": "assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png"
-        }
-      ]
-    },
-    {
-      "keyword": "忧郁自艾者任务",
-      "title": "忧郁自艾者任务",
-      "text": "【每日任务－帮助忧郁自艾者】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在晨岛找到忧郁自艾者　｜　忧郁自艾者在荧光森林需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在晨岛找到忧郁自艾者；\n2、若旅人之前已收集过该先祖，任务会显示为：忧郁自艾者在荧光森林要帮助。\n 今日推荐：恶作剧之日魔女裙穿搭分享https://ds.163.com/feed/6adfbbc6ca8643644ab76386/?utm_content=f_ma75.jl.jlctPT.top.c9wnqq&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=忧郁自艾者任务",
+      "keyword": "帮助忙碌舞台管理员",
+      "title": "帮助忙碌舞台管理员",
+      "text": "【每日任务－帮助忙碌舞台管理员】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在圆梦村剧场找到忙碌舞台管理员　｜　忙碌舞台管理员在圆梦村剧场需要你的帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在圆梦村剧场找到忙碌舞台管理员；\n2、若旅人之前已收集过该先祖，任务会显示为：忙碌舞台管理员在圆梦村剧场，需要你的帮助\n今日推荐：小恶魔斗篷礼包染色穿搭参考https://ds.163.com/feed/6add0bfd99f09836c90a60b1/?utm_content=f_ma75.jl.jlctPT.top.uz1bce&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=帮助忙碌舞台管理员",
       "images": []
     },
     {
