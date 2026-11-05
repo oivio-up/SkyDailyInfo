@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-04",
-  "updatedAt": "2026-11-04T17:52:46.158772+08:00",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T13:10:19.418052+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "向一位朋友做个动作"
+      "text": "向一位玩家鞠躬"
     },
     {
       "number": 2,
-      "text": "和陌生人一起坐在长凳上"
+      "text": "向一位玩家招手"
     },
     {
       "number": 3,
-      "text": "在荧光小菇旁回复能量"
+      "text": "接受一位朋友的礼物"
     },
     {
       "number": 4,
-      "text": "帮助鸣谢收藏家"
+      "text": "前往云野重温鼓掌钟匠的回忆"
     }
   ],
   "weather": {
     "text": "天气播报：今日无碎片降落",
     "images": [
       {
-        "src": "assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg"
+        "src": "assets/daily/36e438b8ab2bffcf5297649aef52d29ba48465bb4a77e9db0a7e6349de2314e5.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221110/09f9672c8f640a6070976586877cfbd4f064c933.jpg"
       }
     ]
   },
@@ -38,21 +38,27 @@
   },
   "details": [
     {
-      "keyword": "荧光小菇",
-      "title": "荧光小菇",
-      "text": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n 今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇",
+      "keyword": "鼓掌钟匠路线",
+      "title": "云野-鼓掌钟匠",
+      "text": "【云野·鼓掌钟匠】\n先祖位置：进入云野仙乡，飞向左边的小岛，在小岛前方的洞口和小伙伴一起合力开门，先祖就在里面等候~\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20261105/7e3fd62e70b4985481aaae448db5e3aa11f58921.mp4\n2、若在图示位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～\n兑换图鉴：",
       "images": [
         {
-          "src": "assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211205/799988a2425b13ce77b2dbd34944e1bebe50c5ba.png"
+          "src": "assets/daily/8a4703203d434cf8410b4bb2d047b25372312cf0d9f7a56653c2e153bb4f8e48.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/5cd5cab73f768b8a885fb2fc2e7bbd36d550f6ae.jpg"
+        },
+        {
+          "src": "assets/daily/65c4c598e466c42617f97612bf0fc4d1541020df3885b49ccfc847dd13d42bda.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/7f03223c2d0cc378472a684b69f283df92d4ed0a.jpg"
+        },
+        {
+          "src": "assets/daily/55ecd9b341854ddf023f145b722b3c027ae90daeee765093c26b42bb85845740.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20210722/13068c83a59ab7b44fd2791d8b48dd187a6fe61e.png"
+        },
+        {
+          "src": "assets/daily/848e214c5928a9029b918683806a5f5f1666bab5d7aa200bb931805c104c9cc7.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20210722/8c13e329d724b2de0d5cd5ccc98af3dbde07c859.png"
         }
       ]
-    },
-    {
-      "keyword": "鸣谢收藏家任务",
-      "title": "鸣谢收藏家任务",
-      "text": "【每日任务－帮助鸣谢收藏家】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在圣岛找到鸣谢收藏家　｜　鸣谢收藏家在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在圣岛找到鸣谢收藏家；\n2、若旅人之前已收集过该先祖，任务会显示为：鸣谢收藏家在云巢需要帮助。\n 今日推荐：小恶魔斗篷礼包染色穿搭参考https://ds.163.com/feed/6add0bfd99f09836c90a60b1/?utm_content=f_ma75.jl.jlctPT.top.uz1bce&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=鸣谢收藏家任务 ",
-      "images": []
     },
     {
       "keyword": "季节蜡烛探索指南",
