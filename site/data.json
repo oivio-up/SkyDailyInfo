@@ -1,86 +1,89 @@
 {
-  "date": "2026-11-09",
-  "updatedAt": "2026-11-09T12:42:38.501482+08:00",
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T13:58:16.492460+08:00",
   "tasks": [
     {
       "number": 1,
-      "text": "净化10株黑暗植物"
+      "text": "在云野的云顶浮石捕捉3个光点"
     },
     {
       "number": 2,
-      "text": "向一位朋友做个动作"
+      "text": "向一位朋友招手"
     },
     {
       "number": 3,
-      "text": "拾起一只螃蟹"
+      "text": "在水母上回复能量"
     },
     {
       "number": 4,
-      "text": "在禁阁神殿冥想"
+      "text": "帮助愉悦地理学家"
     }
   ],
   "weather": {
-    "text": "天气播报：今日无碎片降落",
+    "text": "天气播报：大部分地区地区阴天多云，滑冰场将会有冷却碎片降落",
     "images": [
       {
-        "src": "assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221030/45a836fd53a01f0049d6df0007d24e4447a963c2.jpg"
+        "src": "assets/daily/8b4f2f75bcdf92389c4d2a5ee58fc502f5fffd6be292d1e1da05c023d99f3d7b.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20221009/3f59c5ad10bd901772c80ea3c9a257a0f66fb9a2.jpg"
+      },
+      {
+        "src": "assets/daily/1b83625df624b95d2d2ffbd72acdce8ddf85a1082755fa6d1f1aaca1a134246c.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220830/ee5cea421441e2048cec8224df47545395f0433f.jpg"
+      },
+      {
+        "src": "assets/daily/9b07749a8bd739ac1b42c3e9bfcb8f169c42b7c1ccb8a8a544207ba17f93a1db.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/42abde1c99a5fda37d0ac9d78781664573e5c9cd.jpg"
       }
     ]
   },
   "calendar": {
     "images": [
       {
-        "src": "assets/daily/5a7afa8abe7bf94d4688c40d6aaf07e6b74411ec4cc71ab50bd10eaef936a8b7.jpg",
-        "source": "https://ok.166.net/gameyw-gbox/bot/205/20261023/21f8e0055edc0682e4258bf57b775f71714e0d3e.jpg"
+        "src": "assets/daily/6a7a7fedc5109d855550d0593afede4e7fcaedf00c28d2ef83410ca6ba1f3cd2.jpg",
+        "source": "https://ok.166.net/gameyw-gbox/bot/205/20261109/b5d07479ef079b44acb9a2f9adbd2929560b1fb1.jpg"
       }
     ]
   },
   "details": [
     {
-      "keyword": "掀螃蟹攻略",
-      "title": "掀螃蟹攻略",
-      "text": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略",
-      "images": []
-    },
-    {
-      "keyword": "禁阁顶层冥想",
-      "title": "每日任务－在禁阁的神坛旁冥想",
-      "text": "【每日任务－在禁阁神殿冥想】\n任务：在禁阁的神坛旁冥想\n位置：禁阁终点旁\n步骤：进入禁阁后一直上到第六层(最高层)，往左前方走就看到啦\n 今日推荐：如果你换哥特斗篷就可以得到...https://ds.163.com/feed/6ae0ee7fd9851f70ec853d36/?utm_content=f_ma75.jl.jlctPT.top.arvbs6&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在禁阁的神坛旁冥想 ",
+      "keyword": "云顶浮石捕捉光点",
+      "title": "每日任务-在云野的云顶浮石捕捉3个光点",
+      "text": "【在云野的云顶浮石捕捉3个光点】\n1、进入云野大厅前往云顶浮石\n2、到达云顶浮石后往前走，浮动的光点就在前方飞\n3、触碰后可捕捉光点\n小精灵提醒您：\n1、需先收集4位云野常驻先祖后才可进入云顶浮石\n2、需要收集三个光点，点击角色可以获得星光指引\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n 今日推荐：小恶魔斗篷礼包染色穿搭参考https://ds.163.com/feed/6add0bfd99f09836c90a60b1/?utm_content=f_ma75.jl.jlctPT.top.uz1bce&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在云野的云顶浮石捕捉3个光点 ",
       "images": [
         {
-          "src": "assets/daily/a7be00338373f6ee951f5ffb5fe15c7fff16e05db0e3696edd142a98d33e3644.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220831/20a4fb20f4615c9d3351bf2631ef340765f6f410.jpg"
+          "src": "assets/daily/7288f876f317adeb67b8c249cc5dbb4009fbfc1ea9b17af830f0cfaee0e58893.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/7eb7da8ebdaedec9d1c02045a79081487424daab.jpg"
         },
         {
-          "src": "assets/daily/fc0612a709d4d337b69b8267bdfe095248e7f7cf5490a90b4692e72fdec20af5.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220831/f53298d258c0b0ab2cfb3acfa8376a8838591bb9.jpg"
+          "src": "assets/daily/82001463bff77ab170262554a253fea3493b0464ca6f944c3190274ce55a8abb.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/3d6f2f2826bc4727282a93a3eb7dd382820ceaec.jpg"
         },
         {
-          "src": "assets/daily/862d80594f52c1fc60e4385a2aa644652b3b7ac266331fd489aa8f2f9ddeb5ff.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220831/8da88e8810f856e719420db18cd1f61d83c038ac.jpg"
-        },
-        {
-          "src": "assets/daily/1554775aa55c466fd520f48a5bf589cc84ffd5a23f9b0f52b1f848e1063bd0c7.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220831/67346d5af8cfaf3949c9fbf5504db59b12191dc3.jpg"
-        },
-        {
-          "src": "assets/daily/5e4b2936df0766eb2241f06af64860f203ce620f820b8e3756852f487582df62.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220831/9601f6a67ff32b2430489b5bba421a778b8d42d5.jpg"
-        },
-        {
-          "src": "assets/daily/b662cf3479fe7c7b689994be84949cca4fedfc695ebce5c3ecffa120cb2f5632.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220831/c87bea0cc94c79845e0323b3eeba19cbb08ff350.jpg"
-        },
-        {
-          "src": "assets/daily/0e049ea6d785145a3bc7d201b8b93dedbd61042c94c615359d1821c80a2f57ef.jpg",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20220823/0a0195e46fde3a46e4ff2133cfef0e8354cea6e5.jpg"
-        },
-        {
-          "src": "assets/daily/f0bd5b57ab1eb7167e96e27952755c892ea181728af4c93cf7453b11bc8a4fcb.png",
-          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211227/1b35972c8ee9c9ae90bbf947ce40225c726a8c9d.png"
+          "src": "assets/daily/3bd4212edd687e91ae9fd99264574e6f91876540acf5273b19f4e97125f8fe65.jpg",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20261106/967cda47ad1732c718f18d163a4f1ad1c83374c0.jpg"
         }
       ]
+    },
+    {
+      "keyword": "水母位置",
+      "title": "每日任务·在水母上恢复能量",
+      "text": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量",
+      "images": [
+        {
+          "src": "assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211110/973e483f3a28f7d3f9b909abcec21529964dace9.png"
+        },
+        {
+          "src": "assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png",
+          "source": "https://ok.166.net/gameyw-gbox/bot/205/20211110/a4221cf497a4dfd6006b94d4b801087a8fc51009.png"
+        }
+      ]
+    },
+    {
+      "keyword": "愉悦地理学家任务",
+      "title": "每日任务－帮助愉悦地理学家",
+      "text": "【每日任务－帮助愉悦地理学家】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在云峰找到愉悦地理学家　｜　愉悦地理学家在圣岛需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在云峰找到愉悦地理学家；\n2、若旅人之前已收集过该先祖，任务会显示为：愉悦地理学家在圣岛需要帮助#\n 今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－帮助愉悦地理学家",
+      "images": []
     },
     {
       "keyword": "季节蜡烛探索指南",
