@@ -22,29 +22,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年11月10日 每日任务
+## 📅 2026年11月11日 每日任务
 
-> 最后更新: 2026年11月10日 13:58:19 (北京时间)
+> 最后更新: 2026年11月11日 12:45:54 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在云野的云顶浮石捕捉3个光点
-2. 向一位朋友招手
-3. 在水母上回复能量
-4. 帮助愉悦地理学家
+1. 和朋友击掌
+2. 点燃20根蜡烛
+3. 掀翻5只螃蟹
+4. 在荧光森林捕捉浮动的光点
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区地区阴天多云，滑冰场将会有冷却碎片降落
+天气播报：今日无碎片降落
 
-![天气预报](assets/daily/8b4f2f75bcdf92389c4d2a5ee58fc502f5fffd6be292d1e1da05c023d99f3d7b.jpg)
-
-![天气预报](assets/daily/1b83625df624b95d2d2ffbd72acdce8ddf85a1082755fa6d1f1aaca1a134246c.jpg)
-
-![天气预报](assets/daily/9b07749a8bd739ac1b42c3e9bfcb8f169c42b7c1ccb8a8a544207ba17f93a1db.jpg)
+![天气预报](assets/daily/e3610120e39f1752b2c247d3aa8336e301b850fd374ca3d1842580c96d5ee785.jpg)
 
 
 ### 📅 本月日历
@@ -55,52 +51,35 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务-在云野的云顶浮石捕捉3个光点
+#### 📍 掀螃蟹攻略
 
-【在云野的云顶浮石捕捉3个光点】
-1、进入云野大厅前往云顶浮石
-2、到达云顶浮石后往前走，浮动的光点就在前方飞
-3、触碰后可捕捉光点
+【掀螃蟹】
+在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
+走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
+ 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
+
+
+---
+
+
+#### 📍 每日任务-在荧光森林捕捉浮动的光点
+
+【在荧光森林捕捉浮动的光点】
+1.进入雨林后，一路往前，前往静谧庭院
+2.直走穿过静谧庭院，即可到达荧光森林
+3.到达荧光森林，能看到天空上浮动的光点，触碰后可捕捉光点
 小精灵提醒您：
-1、需先收集4位云野常驻先祖后才可进入云顶浮石
-2、需要收集三个光点，点击角色可以获得星光指引
+1、旅人们收集时请万分小心，护佑心火
+2、需要收集三个光点
 3、在收集过程中若光点消失，旅人可尝试重新进入地图
 图片指引：
- 今日推荐：小恶魔斗篷礼包染色穿搭参考https://ds.163.com/feed/6add0bfd99f09836c90a60b1/?utm_content=f_ma75.jl.jlctPT.top.uz1bce&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在云野的云顶浮石捕捉3个光点
+ 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在荧光森林捕捉浮动的光点
 
 
-![云顶浮石捕捉光点-1](assets/daily/7288f876f317adeb67b8c249cc5dbb4009fbfc1ea9b17af830f0cfaee0e58893.jpg)
-![云顶浮石捕捉光点-2](assets/daily/82001463bff77ab170262554a253fea3493b0464ca6f944c3190274ce55a8abb.jpg)
-![云顶浮石捕捉光点-3](assets/daily/3bd4212edd687e91ae9fd99264574e6f91876540acf5273b19f4e97125f8fe65.jpg)
-
----
-
-
-#### 📍 每日任务·在水母上恢复能量
-
-【每日任务－在水母上恢复能量】
-位置：密林遗迹(水母图)
-步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
-注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
- 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
-
-
-![水母位置-1](assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png)
-![水母位置-2](assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png)
-
----
-
-
-#### 📍 每日任务－帮助愉悦地理学家
-
-【每日任务－帮助愉悦地理学家】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在云峰找到愉悦地理学家　｜　愉悦地理学家在圣岛需要帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在云峰找到愉悦地理学家；
-2、若旅人之前已收集过该先祖，任务会显示为：愉悦地理学家在圣岛需要帮助#
- 今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－帮助愉悦地理学家
-
+![荧光森林捕捉光点-1](assets/daily/b487f910a0d17d524e2d3e99f833ac8bda3bafd52cb7e2aae830c7b469a469fa.jpg)
+![荧光森林捕捉光点-2](assets/daily/cd2dd76b6ded4b61094bc61ee776b783c3c2f654401750e89feea5ad50fe5fe0.jpg)
+![荧光森林捕捉光点-3](assets/daily/8e48eadbeb19cbed66d5d3f80eda1af4eb4d04e96d664804b0a4b39149f3763e.jpg)
+![荧光森林捕捉光点-4](assets/daily/3a22f035aba8031d801bd704f686c693dae8ff3df9cdcb4a22330f607f0b03db.jpg)
 
 ---
 
