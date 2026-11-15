@@ -22,37 +22,35 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年11月14日 每日任务
+## 📅 2026年11月15日 每日任务
 
-> 最后更新: 2026年11月14日 12:58:36 (北京时间)
+> 最后更新: 2026年11月15日 12:52:02 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 向一位玩家鞠躬
-2. 和朋友击掌
-3. 掀翻5只螃蟹
-4. 在禁阁的庇护所中捕捉3个光点
+1. 点燃20根蜡烛
+2. 向一位朋友招手
+3. 净化10株黑暗植物
+4. 在水母上回复能量
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：大部分地区地区夜间晴朗，雨林神殿将会有灼热碎片降落
+天气播报：大部分地区地区阴天多云，雪隐峰将会有灼热碎片降落
 
-![天气预报](assets/daily/b3f3219de90fe247647f6815dd12a64a6652bde5ef222f9b1079da76498ccb2b.jpg)
+![天气预报](assets/daily/3f79d6c68d36852f80d2bbedb26f9d6dfd7078c54133ee0636124646929e67c5.jpg)
 
-![天气预报](assets/daily/b487f910a0d17d524e2d3e99f833ac8bda3bafd52cb7e2aae830c7b469a469fa.jpg)
+![天气预报](assets/daily/ab76bc316b3edc272ea21c36be481f2cc45a41f29f02ecaef5f944e8f24b36d6.jpg)
 
-![天气预报](assets/daily/cd2dd76b6ded4b61094bc61ee776b783c3c2f654401750e89feea5ad50fe5fe0.jpg)
+![天气预报](assets/daily/2465048759cf97f69d9ab3f84ccea18f733d38e2ef9e4c6529f205904ae68121.jpg)
 
-![天气预报](assets/daily/3ca3e241224ea2a4b784aaab7da9f10d23a0aa520b159e7553d7ea1b0716cb64.jpg)
+![天气预报](assets/daily/3ea875d9832d76815ca9e3bd61cfaf6db3077c3ee1fea9e9098285d02a4a520c.jpg)
 
-![天气预报](assets/daily/ac7ba5f9f47bc2d7a123ccd6004e335b265ebffff9cb08e6489b31dafe8d693d.jpg)
+![天气预报](assets/daily/400ab1e0ef8bdff590f16d7ad6bff22f9c0dd08c9874e819c4adc52d57f88672.jpg)
 
-![天气预报](assets/daily/328d13606c0387c7ff76a6f57dd6fb4466b170c8cbc0b07a730fe3c1cd8a7518.jpg)
-
-![天气预报](assets/daily/a06f0e889419ff94e3bd66e7ce176f14fa40776e5a2dc4a9b0915af0a3ee9bac.jpg)
+![天气预报](assets/daily/967c499969eb5dba2482c23e12994c5e1a230fa781b8eeef6c37fbc2ce6736d1.jpg)
 
 
 ### 📅 本月日历
@@ -63,35 +61,17 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 掀螃蟹攻略
+#### 📍 每日任务·在水母上恢复能量
 
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
- 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
----
+【每日任务－在水母上恢复能量】
+位置：密林遗迹(水母图)
+步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母
+注意：几乎消耗完能量后再跳上水母会更容易完成任务哦
+ 今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量
 
 
-#### 📍 每日任务-在禁阁的庇护所中捕捉浮动的光点
-
-【在禁阁的庇护所中捕捉浮动的光点】
-1、前往禁阁大厅，进入庇护所
-2、进入庇护所后往前走，浮动的光点就在前方飞
-3、触碰后可捕捉光点
-小精灵提醒您：
-1、进入庇护前所需要收集一位禁阁常驻先祖
-2、需要收集三个光点
-3、在收集过程中若光点消失，旅人可尝试重新进入地图
-图片指引：
-视频攻略：
-https://ok.166.net/gameyw-gbox/bot/205/20260602/919392b7a3b7551d676e57f0601985813868d58a.mp4
-今日推荐：在禁阁的庇护所中捕捉浮动的光点-视频指引https://ds.163.com/feed/6972cce3d085d23f35829c38?utm_content=f_ma75.jl.jlctPT.default.a146im&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在禁阁的庇护所中捕捉浮动的光点
-
-
-![庇护所捕捉光点-1](assets/daily/a85f2cb45157be8b9712aa7ecbd8ed6a36018f260f15d038a33be96f34294239.jpg)
-![庇护所捕捉光点-2](assets/daily/3dfa7a51250aacb44ea3a2f984f130fb1d4a876a01d4c85ce3c420299e8b4af5.png)
+![水母位置-1](assets/daily/20ab602b08dc7bbc7543ab9722ee19e18399a0dd0b5587adf7124559fa82a2cd.png)
+![水母位置-2](assets/daily/4c6c0134eed11351ab03141b2daf425342114c7fa8ba18479c9e93a5255485b8.png)
 
 ---
 
