@@ -22,31 +22,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年11月22日 每日任务
+## 📅 2026年11月23日 每日任务
 
-> 最后更新: 2026年11月22日 13:08:00 (北京时间)
+> 最后更新: 2026年11月23日 13:49:40 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 在荧光小菇旁回复能量
-2. 点燃20根蜡烛
-3. 向一位朋友做个动作
-4. 帮助鸣谢收藏家
+1. 面对冥龙
+2. 点亮一位玩家
+3. 掀翻5只螃蟹
+4. 帮助焦虑渔夫
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有灼热碎片坠落在星光沙漠一隅
+天气播报：今日无碎片降落
 
-![天气预报](assets/daily/2aa91c91e2ea0604a2cb2bcc4741f47370581c4add3e19c546f39a626744f073.jpg)
-
-![天气预报](assets/daily/db95520b926aed1525f5ee341524e8045ad4d8899d4fb4cbb185529927f78664.jpg)
-
-![天气预报](assets/daily/defbe5f0978d77a3c3da2415cc6f63786bc4e6535be5b41d89994aae649c0331.png)
-
-![天气预报](assets/daily/3aac008fc33c8322f34a3721d703c1c40ecc66655a43fe357c2a6c54969079d9.jpg)
+![天气预报](assets/daily/12c9e745db22dbf0564819f4d3a6eb86a6567fb8ecacd9e97833e26ddb740785.jpg)
 
 
 ### 📅 本月日历
@@ -57,30 +51,40 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 荧光小菇
+#### 📍 每日任务－面对冥龙
 
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
- 今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
+【每日任务－面对冥龙】
+如何完成：被冥龙的探照灯照到一下即可完成
+推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
+推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4
+今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙
 
 
-![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
+![面对冥龙-1](assets/daily/3dfa7a51250aacb44ea3a2f984f130fb1d4a876a01d4c85ce3c420299e8b4af5.png)
 
 ---
 
 
-#### 📍 鸣谢收藏家任务
+#### 📍 掀螃蟹攻略
 
-【每日任务－帮助鸣谢收藏家】
+【掀螃蟹】
+在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
+走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
+ 今日推荐：还有人不知道要这样玩吗https://ds.163.com/feed/6af8f827446a4f1a70948057/?utm_content=f_ma75.jl.jlctPT.top.nn664q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
+
+
+---
+
+
+#### 📍 每日任务－帮助焦虑渔夫
+
+【每日任务－帮助焦虑渔夫】
 请旅人先查看接到的任务名称，然后在下方选择对应指南
-在圣岛找到鸣谢收藏家　｜　鸣谢收藏家在云巢需要帮助
+在藏宝岛礁找到焦虑渔夫　｜　焦虑渔夫在边陲荒漠需要帮助
 小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在圣岛找到鸣谢收藏家；
-2、若旅人之前已收集过该先祖，任务会显示为：鸣谢收藏家在云巢需要帮助。
- 今日推荐：小恶魔斗篷礼包染色穿搭参考https://ds.163.com/feed/6add0bfd99f09836c90a60b1/?utm_content=f_ma75.jl.jlctPT.top.uz1bce&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=鸣谢收藏家任务
+1、若旅人从未收集过该先祖，任务会显示为：在藏宝岛礁找到焦虑渔夫；
+2、若旅人之前已收集过该先祖，任务会显示为：焦虑渔夫在边陲荒漠需要帮助
+ 今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－帮助焦虑渔夫
 
 
 ---
