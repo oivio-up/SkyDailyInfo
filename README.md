@@ -22,25 +22,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年11月23日 每日任务
+## 📅 2026年11月24日 每日任务
 
-> 最后更新: 2026年11月23日 13:49:40 (北京时间)
+> 最后更新: 2026年11月24日 16:26:59 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 面对冥龙
-2. 点亮一位玩家
-3. 掀翻5只螃蟹
-4. 帮助焦虑渔夫
+1. 净化10株黑暗植物
+2. 拾起一只螃蟹
+3. 在荧光小菇旁回复能量
+4. 和朋友击掌
 ```
 
 ### 🌤️ 天气预报
 
 天气播报：今日无碎片降落
 
-![天气预报](assets/daily/12c9e745db22dbf0564819f4d3a6eb86a6567fb8ecacd9e97833e26ddb740785.jpg)
+![天气预报](assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg)
 
 
 ### 📅 本月日历
@@ -51,16 +51,15 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－面对冥龙
+#### 📍 每日任务－净化10株黑暗植物
 
-【每日任务－面对冥龙】
-如何完成：被冥龙的探照灯照到一下即可完成
-推荐地点：暮土二图，旅途中第一次遇到冥龙的地方
-推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4
-今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙
+【每日任务－净化10株黑暗植物】
+1.地点：在雨林与暮土比较容易找到
+2.净化：黑暗植物大小不一，旅人们可以举着蜡烛靠近，在火光的持续灼烧下黑暗植物会被清除。
+ 今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－净化10株黑暗植物
 
 
-![面对冥龙-1](assets/daily/3dfa7a51250aacb44ea3a2f984f130fb1d4a876a01d4c85ce3c420299e8b4af5.png)
+![净化黑暗植物-1](assets/daily/a1d2eeb42dac5e4e5b9257e9f94881efddf7c25ae6cb830dd6c8b300e91a8cba.jpg)
 
 ---
 
@@ -76,16 +75,17 @@
 ---
 
 
-#### 📍 每日任务－帮助焦虑渔夫
+#### 📍 荧光小菇
 
-【每日任务－帮助焦虑渔夫】
-请旅人先查看接到的任务名称，然后在下方选择对应指南
-在藏宝岛礁找到焦虑渔夫　｜　焦虑渔夫在边陲荒漠需要帮助
-小精灵提示：
-1、若旅人从未收集过该先祖，任务会显示为：在藏宝岛礁找到焦虑渔夫；
-2、若旅人之前已收集过该先祖，任务会显示为：焦虑渔夫在边陲荒漠需要帮助
- 今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－帮助焦虑渔夫
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
+
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
 
 ---
 
