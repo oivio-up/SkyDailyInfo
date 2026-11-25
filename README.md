@@ -22,25 +22,29 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年11月24日 每日任务
+## 📅 2026年11月25日 每日任务
 
-> 最后更新: 2026年11月24日 16:26:59 (北京时间)
+> 最后更新: 2026年11月25日 15:01:33 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 净化10株黑暗植物
-2. 拾起一只螃蟹
-3. 在荧光小菇旁回复能量
-4. 和朋友击掌
+1. 和陌生人一起坐在长凳上
+2. 向一位朋友招手
+3. 点亮一位玩家
+4. 前往云野重温母语者的回忆
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日无碎片降落
+天气播报：今日将会有冷却碎片坠落在滑冰场
 
-![天气预报](assets/daily/0788e49012847d24e4cc0a91c2331e8cf29de6ac0238b241feb2b9322d111d7f.jpg)
+![天气预报](assets/daily/8b4f2f75bcdf92389c4d2a5ee58fc502f5fffd6be292d1e1da05c023d99f3d7b.jpg)
+
+![天气预报](assets/daily/1b83625df624b95d2d2ffbd72acdce8ddf85a1082755fa6d1f1aaca1a134246c.jpg)
+
+![天气预报](assets/daily/9b07749a8bd739ac1b42c3e9bfcb8f169c42b7c1ccb8a8a544207ba17f93a1db.jpg)
 
 
 ### 📅 本月日历
@@ -51,41 +55,15 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 每日任务－净化10株黑暗植物
+#### 📍 母语者路线
 
-【每日任务－净化10株黑暗植物】
-1.地点：在雨林与暮土比较容易找到
-2.净化：黑暗植物大小不一，旅人们可以举着蜡烛靠近，在火光的持续灼烧下黑暗植物会被清除。
- 今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－净化10株黑暗植物
-
-
-![净化黑暗植物-1](assets/daily/a1d2eeb42dac5e4e5b9257e9f94881efddf7c25ae6cb830dd6c8b300e91a8cba.jpg)
-
----
+【圣岛·母语者】　>>点击查看：迁徙水母语者位置
+视频指引：
+https://ok.166.net/gameyw-gbox/bot/205/20231229/efb2509c154e74e5ac809c5d24d77c3a470c49c7.mp4
+ 今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=母语者路线
 
 
-#### 📍 掀螃蟹攻略
-
-【掀螃蟹】
-在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。
-走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~
- 今日推荐：还有人不知道要这样玩吗https://ds.163.com/feed/6af8f827446a4f1a70948057/?utm_content=f_ma75.jl.jlctPT.top.nn664q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略
-
-
----
-
-
-#### 📍 荧光小菇
-
-【荧光小菇】
-小贴士：旅人们跳到荧光小菇上可补充能量
-(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
-地点：荧光小菇是生长在雨林的植物。
-特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
- 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
-
-
-![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
+![母语者路线-1](assets/daily/82397ee11f641de0477db3b79bc1b8965e0790357121afbb1ef69ab9be34c392.jpg)
 
 ---
 
