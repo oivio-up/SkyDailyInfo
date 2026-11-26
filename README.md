@@ -22,29 +22,25 @@
 ---
 
 <!-- DAILY_TASK_START -->
-## 📅 2026年11月25日 每日任务
+## 📅 2026年11月26日 每日任务
 
-> 最后更新: 2026年11月25日 15:01:33 (北京时间)
+> 最后更新: 2026年11月26日 14:54:14 (北京时间)
 
 ### 🎯 今日旅行指南
 
 ```
 【今日旅行指南】
-1. 和陌生人一起坐在长凳上
-2. 向一位朋友招手
-3. 点亮一位玩家
-4. 前往云野重温母语者的回忆
+1. 点燃20根蜡烛
+2. 在荧光小菇旁回复能量
+3. 收集30点烛火
+4. 在雨林神殿的栖光雨坛旁冥想
 ```
 
 ### 🌤️ 天气预报
 
-天气播报：今日将会有冷却碎片坠落在滑冰场
+天气播报：今日无碎片降落
 
-![天气预报](assets/daily/8b4f2f75bcdf92389c4d2a5ee58fc502f5fffd6be292d1e1da05c023d99f3d7b.jpg)
-
-![天气预报](assets/daily/1b83625df624b95d2d2ffbd72acdce8ddf85a1082755fa6d1f1aaca1a134246c.jpg)
-
-![天气预报](assets/daily/9b07749a8bd739ac1b42c3e9bfcb8f169c42b7c1ccb8a8a544207ba17f93a1db.jpg)
+![天气预报](assets/daily/e3610120e39f1752b2c247d3aa8336e301b850fd374ca3d1842580c96d5ee785.jpg)
 
 
 ### 📅 本月日历
@@ -55,15 +51,37 @@
 ### 📖 任务详细攻略
 
 
-#### 📍 母语者路线
+#### 📍 荧光小菇
 
-【圣岛·母语者】　>>点击查看：迁徙水母语者位置
-视频指引：
-https://ok.166.net/gameyw-gbox/bot/205/20231229/efb2509c154e74e5ac809c5d24d77c3a470c49c7.mp4
- 今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=母语者路线
+【荧光小菇】
+小贴士：旅人们跳到荧光小菇上可补充能量
+(能量几乎消耗完时再跳上去会更容易完成每日任务哦)
+地点：荧光小菇是生长在雨林的植物。
+特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。
+ 今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇
 
 
-![母语者路线-1](assets/daily/82397ee11f641de0477db3b79bc1b8965e0790357121afbb1ef69ab9be34c392.jpg)
+![荧光小菇-1](assets/daily/147bcbe5c9be71e5ae7b40c8e83a8e312a6a268bae0b8c5ae84f3df1032018ea.png)
+
+---
+
+
+#### 📍 每日任务－在雨林的神庙内冥想
+
+【每日任务－在雨林的神庙内冥想】
+任务：在雨林的神庙内冥想
+位置：在雨林－终点图树后方
+步骤：进入雨林的终点图后，往前走一点点，在右方的树后面
+视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/410e964288fbbe080f632e3f905af0922b15e866.mp4
+ 今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在雨林的神庙内冥想
+
+
+![雨林神庙冥想-1](assets/daily/b487f910a0d17d524e2d3e99f833ac8bda3bafd52cb7e2aae830c7b469a469fa.jpg)
+![雨林神庙冥想-2](assets/daily/cd2dd76b6ded4b61094bc61ee776b783c3c2f654401750e89feea5ad50fe5fe0.jpg)
+![雨林神庙冥想-3](assets/daily/3ca3e241224ea2a4b784aaab7da9f10d23a0aa520b159e7553d7ea1b0716cb64.jpg)
+![雨林神庙冥想-4](assets/daily/ac7ba5f9f47bc2d7a123ccd6004e335b265ebffff9cb08e6489b31dafe8d693d.jpg)
+![雨林神庙冥想-5](assets/daily/a01081dc2333b6490ac3c1e9b02f2ee69eb3992e3fffe549c47c6fec650bbce2.jpg)
+![雨林神庙冥想-6](assets/daily/c4ea79bbe49bb6effc22af35879bfa4a738b50f45205f2edbb4845050f646916.png)
 
 ---
 
